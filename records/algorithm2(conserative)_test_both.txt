@@ -1,0 +1,1599 @@
+game, current_winner1, current_winner2, current_loser1, current_loser2, winner_mean, loser_mean, phat
+ 1, Jantine van der Vlist, Sophie van Gestel, Jolien Sinnema, Rimke Braakman, 1569.241, 1430.759, 0.5000
+ 2, Erika Habaguchi, Sakurako Fujii, Caitlin Ledoux, Irene Pollock, 1558.840, 1379.763, 0.6438
+ 3, Francesca Giogoli, Greta Cicolari, Hiroko Matsuyama, Miyuki Matsumura, 1525.650, 1168.009, 0.8644
+ 4, Isabel Schneider, Teresa Mersmann, Megumi Murakami, Miki Ishii, 1563.097, 1428.571, 0.5831
+ 5, Daria Rudykh, Olga Motrich, Khanittha Hongpak, Rumpaipruet Numwong, 1364.714, 1250.828, 0.6062
+ 6, Emilia Nystrom, Erika Nystrom, Diana Zolnercikova, Martina Jakubsova, 1524.395, 1252.947, 0.8201
+ 7, Brittany Hochevar, Heather McGuire, Pronsuda Kritsana, Sirinuch Kawfong, 1512.503, 1416.476, 0.4622
+ 8, Victoria Bieneck, Yanina Weiland, Jingjing Ding, Xinxin Wang, 1569.241, 1430.759, 0.5000
+ 9, Iuliia Karimova, Raquel Ferreira, Anna Behlen, Katharina Culav, 1583.081, 1486.008, 0.4715
+10, Linline Matauatu, Miller Pata, Ningya Tang, Yuanyuan Wang, 1311.832, 1355.430, 0.1868
+11, Chunxia Chen, Zhaochen Wei, Ksenia Dabizha, Yulia Abalakina, 1435.519, 1274.864, 0.6214
+12, Angela Lobato, Paula Soria, Julia Tilley, Shaunna Polley, 1445.617, 1361.015, 0.4918
+13, Carolina Horta, Liliane Maestrini, Ayumi Kusano, Shinako Tanaka, 1569.241, 1430.759, 0.5000
+14, Vivian Cunha, Zinaida Liubymova, Jagoda Gruszczynska, Karolina Baran, 1536.256, 1251.210, 0.7893
+15, Caleigh Whitaker, Kacie MacTavish, Akiko Hasegawa, Yui Nagata, 1409.983, 1389.288, 0.3559
+16, Jennifer Fopma, Summer Ross, Jantine van der Vlist, Sophie van Gestel, 1587.553, 1499.136, 0.4017
+17, Francesca Giogoli, Greta Cicolari, Erika Habaguchi, Sakurako Fujii, 1596.931, 1494.949, 0.4524
+18, Isabel Schneider, Teresa Mersmann, Daria Rudykh, Olga Motrich, 1566.489, 1349.719, 0.7580
+19, Brittany Hochevar, Heather McGuire, Emilia Nystrom, Erika Nystrom, 1555.968, 1523.138, 0.4829
+20, Iuliia Karimova, Raquel Ferreira, Victoria Bieneck, Yanina Weiland, 1639.366, 1511.051, 0.5199
+21, Linline Matauatu, Miller Pata, Chunxia Chen, Zhaochen Wei, 1362.621, 1360.228, 0.3292
+22, Carolina Horta, Liliane Maestrini, Angela Lobato, Paula Soria, 1615.958, 1432.667, 0.6708
+23, Vivian Cunha, Zinaida Liubymova, Caleigh Whitaker, Kacie MacTavish, 1585.349, 1403.232, 0.6741
+24, Fan Wang, Yuan Yue, Iuliia Karimova, Raquel Ferreira, 1636.120, 1577.683, 0.4888
+25, Maria Tsiartsiani, Vasiliki Arvaniti, Anni Schumacher, Sandra Seyfferth, 1642.511, 1445.093, 0.6931
+26, Fan Wang, Yuan Yue, Maria Tsiartsiani, Vasiliki Arvaniti, 1641.529, 1640.482, 0.4908
+27, Anni Schumacher, Sandra Seyfferth, Iuliia Karimova, Raquel Ferreira, 1534.130, 1516.997, 0.3179
+28, Fan Wang, Yuan Yue, Anni Schumacher, Sandra Seyfferth, 1644.618, 1490.612, 0.6498
+29, Maria Tsiartsiani, Vasiliki Arvaniti, Iuliia Karimova, Raquel Ferreira, 1641.648, 1485.617, 0.6706
+30, April Ross, Kerri Walsh Jennings, Meimei Lin, Yuanyuan Ma, 1930.524, 1483.729, 0.9221
+31, Jennifer Fopma, Summer Ross, Norisbeth Agudo, Olaya Pazo, 1624.480, 1393.686, 0.7115
+32, April Ross, Kerri Walsh Jennings, Norisbeth Agudo, Olaya Pazo, 1931.266, 1387.155, 0.9565
+33, Jennifer Fopma, Summer Ross, Meimei Lin, Yuanyuan Ma, 1657.590, 1439.042, 0.6922
+34, April Ross, Kerri Walsh Jennings, Jennifer Fopma, Summer Ross, 1933.962, 1636.972, 0.8286
+35, Meimei Lin, Yuanyuan Ma, Norisbeth Agudo, Olaya Pazo, 1489.635, 1343.047, 0.5741
+36, Chantal Laboureur, Julia Sude, Vivian Cunha, Zinaida Liubymova, 1632.756, 1530.245, 0.5580
+37, Riikka Lehtonen, Taru Lahti, Giulia Momoli, Laura Giombini, 1458.072, 1542.365, 0.2876
+38, Chantal Laboureur, Julia Sude, Giulia Momoli, Laura Giombini, 1639.180, 1522.416, 0.6272
+39, Riikka Lehtonen, Taru Lahti, Vivian Cunha, Zinaida Liubymova, 1482.600, 1468.331, 0.3976
+40, Riikka Lehtonen, Taru Lahti, Chantal Laboureur, Julia Sude, 1514.190, 1626.914, 0.2888
+41, Giulia Momoli, Laura Giombini, Vivian Cunha, Zinaida Liubymova, 1541.258, 1430.579, 0.5772
+42, Brooke Sweat, Lauren Fendrick, Linline Matauatu, Miller Pata, 1596.581, 1345.535, 0.7900
+43, Jamie Broder, Kristina May, Tanarattha Udomchavee, Varapatsorn Radarong, 1423.675, 1352.120, 0.5877
+44, Brooke Sweat, Lauren Fendrick, Tanarattha Udomchavee, Varapatsorn Radarong, 1600.356, 1349.262, 0.8033
+45, Jamie Broder, Kristina May, Linline Matauatu, Miller Pata, 1426.996, 1316.877, 0.6106
+46, Jamie Broder, Kristina May, Brooke Sweat, Lauren Fendrick, 1433.714, 1586.591, 0.2693
+47, Linline Matauatu, Miller Pata, Tanarattha Udomchavee, Varapatsorn Radarong, 1353.016, 1342.093, 0.4535
+48, Louise Bawden, Taliqua Clancy, Carolina Horta, Liliane Maestrini, 1512.315, 1534.557, 0.3475
+49, Ekaterina Syrtseva, Maria Prokopeva, Barbara Hansel, Stefanie Schwaiger, 1584.849, 1492.772, 0.5320
+50, Louise Bawden, Taliqua Clancy, Barbara Hansel, Stefanie Schwaiger, 1516.813, 1462.782, 0.5281
+51, Carolina Horta, Liliane Maestrini, Ekaterina Syrtseva, Maria Prokopeva, 1589.526, 1542.353, 0.4281
+52, Louise Bawden, Taliqua Clancy, Ekaterina Syrtseva, Maria Prokopeva, 1521.756, 1501.144, 0.4633
+53, Barbara Hansel, Stefanie Schwaiger, Carolina Horta, Liliane Maestrini, 1498.475, 1529.024, 0.3253
+54, Melissa Humana-Paredes, Taylor Pischke, Francesca Giogoli, Greta Cicolari, 1477.996, 1506.410, 0.3120
+55, Katharina Schutzenhofer, Lena Plesiutschnig, Ana Gallay, Georgina Klug, 1456.534, 1600.132, 0.2750
+56, Melissa Humana-Paredes, Taylor Pischke, Katharina Schutzenhofer, Lena Plesiutschnig, 1491.948, 1445.731, 0.5308
+57, Ana Gallay, Georgina Klug, Francesca Giogoli, Greta Cicolari, 1603.153, 1464.247, 0.6317
+58, Melissa Humana-Paredes, Taylor Pischke, Ana Gallay, Georgina Klug, 1511.106, 1597.115, 0.3452
+59, Francesca Giogoli, Greta Cicolari, Katharina Schutzenhofer, Lena Plesiutschnig, 1509.962, 1436.237, 0.5266
+60, Heather Bansley, Sarah Pavan, Isabel Schneider, Teresa Mersmann, 1569.488, 1559.203, 0.4966
+61, Sayaka Mizoe, Takemi Nishibori, Chen Xue, Xinyi Xia, 1468.874, 1707.670, 0.1782
+62, Heather Bansley, Sarah Pavan, Sayaka Mizoe, Takemi Nishibori, 1573.252, 1463.634, 0.6409
+63, Isabel Schneider, Teresa Mersmann, Chen Xue, Xinyi Xia, 1569.129, 1695.586, 0.2985
+64, Heather Bansley, Sarah Pavan, Chen Xue, Xinyi Xia, 1580.158, 1684.264, 0.3309
+65, Isabel Schneider, Teresa Mersmann, Sayaka Mizoe, Takemi Nishibori, 1574.037, 1458.608, 0.6473
+66, Kim DiCello, Lane Carico, Brittany Hochevar, Heather McGuire, 1583.179, 1521.289, 0.5042
+67, Victoria Bieneck, Yanina Weiland, Barbora Hermannova, Martina Bonnerova, 1566.997, 1474.227, 0.5481
+68, Victoria Bieneck, Yanina Weiland, Kim DiCello, Lane Carico, 1619.111, 1560.334, 0.4767
+69, Barbora Hermannova, Martina Bonnerova, Brittany Hochevar, Heather McGuire, 1478.693, 1482.835, 0.4327
+70, Barbora Hermannova, Martina Bonnerova, Kim DiCello, Lane Carico, 1483.649, 1531.036, 0.3846
+71, Brittany Hochevar, Heather McGuire, Victoria Bieneck, Yanina Weiland, 1521.520, 1558.539, 0.3134
+72, Kim DiCello, Lane Carico, Isabel Schneider, Teresa Mersmann, 1555.893, 1566.716, 0.4384
+73, Jennifer Fopma, Summer Ross, Sayaka Mizoe, Takemi Nishibori, 1664.886, 1455.285, 0.7363
+74, Brooke Sweat, Lauren Fendrick, Meimei Lin, Yuanyuan Ma, 1592.285, 1446.576, 0.6360
+75, Ana Gallay, Georgina Klug, Carolina Horta, Liliane Maestrini, 1600.485, 1494.949, 0.5968
+76, Linline Matauatu, Miller Pata, Barbora Hermannova, Martina Bonnerova, 1394.910, 1478.301, 0.3204
+77, Chantal Laboureur, Julia Sude, Anni Schumacher, Sandra Seyfferth, 1631.758, 1457.113, 0.6867
+78, Maria Tsiartsiani, Vasiliki Arvaniti, Giulia Momoli, Laura Giombini, 1642.997, 1524.032, 0.6406
+79, Ekaterina Syrtseva, Maria Prokopeva, Katharina Schutzenhofer, Lena Plesiutschnig, 1528.993, 1427.877, 0.5923
+80, April Ross, Kerri Walsh Jennings, Kim DiCello, Lane Carico, 1935.685, 1551.439, 0.8981
+81, Louise Bawden, Taliqua Clancy, Jennifer Fopma, Summer Ross, 1528.054, 1599.524, 0.3049
+82, Melissa Humana-Paredes, Taylor Pischke, Brooke Sweat, Lauren Fendrick, 1528.194, 1581.531, 0.3853
+83, Jamie Broder, Kristina May, Ana Gallay, Georgina Klug, 1440.364, 1593.776, 0.2769
+84, Linline Matauatu, Miller Pata, Riikka Lehtonen, Taru Lahti, 1431.331, 1487.657, 0.3348
+85, Chantal Laboureur, Julia Sude, Victoria Bieneck, Yanina Weiland, 1637.881, 1525.751, 0.6038
+86, Heather Bansley, Sarah Pavan, Maria Tsiartsiani, Vasiliki Arvaniti, 1586.254, 1640.681, 0.4105
+87, Fan Wang, Yuan Yue, Ekaterina Syrtseva, Maria Prokopeva, 1647.864, 1507.317, 0.6605
+88, April Ross, Kerri Walsh Jennings, Louise Bawden, Taliqua Clancy, 1937.178, 1527.170, 0.9127
+89, Jamie Broder, Kristina May, Melissa Humana-Paredes, Taylor Pischke, 1445.881, 1511.278, 0.3762
+90, Chantal Laboureur, Julia Sude, Linline Matauatu, Miller Pata, 1641.671, 1418.782, 0.7666
+91, Fan Wang, Yuan Yue, Heather Bansley, Sarah Pavan, 1652.042, 1582.088, 0.5877
+92, Jamie Broder, Kristina May, April Ross, Kerri Walsh Jennings, 1454.486, 1921.091, 0.0558
+93, Chantal Laboureur, Julia Sude, Fan Wang, Yuan Yue, 1650.191, 1646.949, 0.4851
+94, April Ross, Kerri Walsh Jennings, Fan Wang, Yuan Yue, 1923.950, 1645.252, 0.8289
+95, Jamie Broder, Kristina May, Chantal Laboureur, Julia Sude, 1461.218, 1637.851, 0.2448
+96, Vivian Cunha, Zinaida Liubymova, Iuliia Karimova, Raquel Ferreira, 1474.414, 1441.977, 0.4215
+97, Karolina Rehackova, Magdalena Dostalova, Lenka Hajeckova, Sona Novakova, 1627.236, 1644.240, 0.2716
+98, Angela Lobato, Paula Soria, Amaranta Navarro, Ester Ribera, 1449.550, 1341.750, 0.5857
+99, Julia Grossner, Victoria Bieneck, Anni Schumacher, Sandra Seyfferth, 1556.173, 1422.657, 0.6344
+100, Ayumi Kusano, Shinako Tanaka, Hiroko Matsuyama, Miyuki Matsumura, 1457.791, 1155.185, 0.8194
+101, Khanittha Hongpak, Rumpaipruet Numwong, Pronsuda Kritsana, Sirinuch Kawfong, 1273.137, 1313.200, 0.2782
+102, Amanda Dowdy, Kendra VanZwieten, Ali McColloch, Emily Stockman, 1569.241, 1430.759, 0.5000
+103, Julia Grossner, Victoria Bieneck, Dunja Gerson, Tanya Guerra Arias-Schmocker, 1559.441, 1427.716, 0.5801
+104, Jolien Sinnema, Rimke Braakman, Amanda Dowdy, Kendra VanZwieten, 1518.140, 1481.860, 0.3106
+105, Brittany Hochevar, Heather McGuire, Gabriela Tomasekova, Tina Turnerova, 1538.908, 1370.850, 0.6665
+106, Eduarda "Duda" Lisboa, Elize Maia, Ayumi Kusano, Shinako Tanaka, 1565.103, 1412.310, 0.5604
+107, Irina Tsimbalova, Tatyana Mashkova, Jingjing Ding, Xinxin Wang, 1409.656, 1353.402, 0.4644
+108, Francesca Giogoli, Greta Cicolari, Ingrid Lunde, Vilde Solvoll, 1532.890, 1325.870, 0.7140
+109, Diana Zolnercikova, Martina Jakubsova, Khanittha Hongpak, Rumpaipruet Numwong, 1272.557, 1255.401, 0.4710
+110, Janne Kongshavn, Victoria Kjolberg, Karolina Rehackova, Magdalena Dostalova, 1423.542, 1507.895, 0.2180
+111, Angela Lobato, Paula Soria, Jennifer Guz, Yael Yellin, 1468.409, 1405.162, 0.4279
+112, Vivian Cunha, Zinaida Liubymova, Ningya Tang, Yuanyuan Wang, 1495.601, 1307.496, 0.6648
+113, Caitlin Ledoux, Irene Pollock, Alexandra Jupiter, Laura Longuet, 1410.637, 1388.497, 0.3336
+114, Carolina Horta, Liliane Maestrini, Jordan Mowen, Justine Mowen, 1508.152, 1213.468, 0.8277
+115, Caleigh Whitaker, Kacie MacTavish, Inna Makhno, Iryna Makhno, 1411.450, 1282.504, 0.5990
+116, Emilia Nystrom, Erika Nystrom, Brandie Wilkerson, Julie Gordon, 1524.106, 1419.427, 0.5332
+117, Melinda Adelin, Ophelie Lusson, Jagoda Gruszczynska, Karolina Baran, 1533.966, 1234.656, 0.8072
+118, Ksenia Dabizha, Yulia Abalakina, Dalida Vernier, Tea Juric, 1323.855, 1361.199, 0.2148
+119, Julia Grossner, Victoria Bieneck, Jolien Sinnema, Rimke Braakman, 1563.115, 1462.626, 0.5592
+120, Eduarda "Duda" Lisboa, Elize Maia, Brittany Hochevar, Heather McGuire, 1627.608, 1518.434, 0.5376
+121, Irina Tsimbalova, Tatyana Mashkova, Francesca Giogoli, Greta Cicolari, 1414.785, 1479.026, 0.3297
+122, Janne Kongshavn, Victoria Kjolberg, Diana Zolnercikova, Martina Jakubsova, 1431.070, 1261.872, 0.7046
+123, Angela Lobato, Paula Soria, Vivian Cunha, Zinaida Liubymova, 1488.432, 1459.380, 0.4609
+124, Carolina Horta, Liliane Maestrini, Caitlin Ledoux, Irene Pollock, 1532.713, 1392.278, 0.6368
+125, Emilia Nystrom, Erika Nystrom, Caleigh Whitaker, Kacie MacTavish, 1525.020, 1403.158, 0.6567
+126, Ksenia Dabizha, Yulia Abalakina, Melinda Adelin, Ophelie Lusson, 1369.964, 1416.856, 0.2298
+127, Joana Heidrich, Nadine Zumkehr, Antea Tadic, Maja Rosko, 1584.967, 1433.372, 0.6159
+128, Julia Grossner, Victoria Bieneck, Riikka Lehtonen, Taru Lahti, 1566.842, 1471.880, 0.6069
+129, Julia Grossner, Victoria Bieneck, Joana Heidrich, Nadine Zumkehr, 1571.977, 1579.838, 0.4739
+130, Riikka Lehtonen, Taru Lahti, Antea Tadic, Maja Rosko, 1485.721, 1373.560, 0.5552
+131, Joana Heidrich, Nadine Zumkehr, Riikka Lehtonen, Taru Lahti, 1583.253, 1472.293, 0.6322
+132, Julia Grossner, Victoria Bieneck, Antea Tadic, Maja Rosko, 1574.041, 1343.910, 0.7581
+133, Ilka Semmler, Katrin Holtwick, Emilia Nystrom, Erika Nystrom, 1712.395, 1524.325, 0.7456
+134, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Jennifer Fopma, Summer Ross, 1506.202, 1546.178, 0.3627
+135, Ilka Semmler, Katrin Holtwick, Jennifer Fopma, Summer Ross, 1713.012, 1524.839, 0.7225
+136, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Emilia Nystrom, Erika Nystrom, 1510.380, 1522.905, 0.4739
+137, Ilka Semmler, Katrin Holtwick, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, 1713.587, 1508.507, 0.7625
+138, Jennifer Fopma, Summer Ross, Emilia Nystrom, Erika Nystrom, 1559.228, 1521.687, 0.5028
+139, Elsa Baquerizo, Liliana Fernandez, Nicole Eiholzer, Nina Betschart, 1660.573, 1377.969, 0.8116
+140, Norisbeth Agudo, Olaya Pazo, Ekaterina Syrtseva, Maria Prokopeva, 1418.795, 1469.246, 0.2798
+141, Elsa Baquerizo, Liliana Fernandez, Norisbeth Agudo, Olaya Pazo, 1661.131, 1398.450, 0.8009
+142, Ekaterina Syrtseva, Maria Prokopeva, Nicole Eiholzer, Nina Betschart, 1486.819, 1334.287, 0.6284
+143, Elsa Baquerizo, Liliana Fernandez, Ekaterina Syrtseva, Maria Prokopeva, 1661.907, 1472.525, 0.7317
+144, Norisbeth Agudo, Olaya Pazo, Nicole Eiholzer, Nina Betschart, 1430.188, 1294.900, 0.5913
+145, Britta Buthe, Karla Borger, Eduarda "Duda" Lisboa, Elize Maia, 1687.241, 1577.095, 0.5827
+146, Katharina Schutzenhofer, Lena Plesiutschnig, Maria Tsiartsiani, Vasiliki Arvaniti, 1444.983, 1637.681, 0.2271
+147, Britta Buthe, Karla Borger, Katharina Schutzenhofer, Lena Plesiutschnig, 1688.168, 1440.675, 0.8013
+148, Eduarda "Duda" Lisboa, Elize Maia, Maria Tsiartsiani, Vasiliki Arvaniti, 1637.864, 1635.700, 0.4137
+149, Britta Buthe, Karla Borger, Maria Tsiartsiani, Vasiliki Arvaniti, 1690.167, 1634.041, 0.5749
+150, Eduarda "Duda" Lisboa, Elize Maia, Katharina Schutzenhofer, Lena Plesiutschnig, 1660.227, 1436.002, 0.7568
+151, Madelein Meppelink, Marleen Van Iersel, Carolina Horta, Liliane Maestrini, 1754.816, 1517.884, 0.7791
+152, Giulia Momoli, Laura Giombini, Barbora Hermannova, Martina Bonnerova, 1543.415, 1474.868, 0.5654
+153, Madelein Meppelink, Marleen Van Iersel, Giulia Momoli, Laura Giombini, 1758.110, 1533.697, 0.7715
+154, Carolina Horta, Liliane Maestrini, Barbora Hermannova, Martina Bonnerova, 1544.839, 1471.530, 0.5616
+155, Madelein Meppelink, Marleen Van Iersel, Barbora Hermannova, Martina Bonnerova, 1760.497, 1470.209, 0.8388
+156, Carolina Horta, Liliane Maestrini, Giulia Momoli, Laura Giombini, 1570.989, 1515.544, 0.5160
+157, Chantal Laboureur, Julia Sude, Irina Tsimbalova, Tatyana Mashkova, 1641.343, 1412.978, 0.7831
+158, Sayaka Mizoe, Takemi Nishibori, Tanarattha Udomchavee, Varapatsorn Radarong, 1460.014, 1337.300, 0.6574
+159, Chantal Laboureur, Julia Sude, Tanarattha Udomchavee, Varapatsorn Radarong, 1643.695, 1335.236, 0.8520
+160, Irina Tsimbalova, Tatyana Mashkova, Sayaka Mizoe, Takemi Nishibori, 1417.632, 1452.283, 0.4327
+161, Sayaka Mizoe, Takemi Nishibori, Chantal Laboureur, Julia Sude, 1462.312, 1632.021, 0.2494
+162, Irina Tsimbalova, Tatyana Mashkova, Tanarattha Udomchavee, Varapatsorn Radarong, 1420.745, 1329.985, 0.6164
+163, Melissa Humana-Paredes, Taylor Pischke, Janne Kongshavn, Victoria Kjolberg, 1521.163, 1421.468, 0.6134
+164, Jamie Broder, Kristina May, Barbara Hansel, Stefanie Schwaiger, 1465.789, 1468.144, 0.4466
+165, Melissa Humana-Paredes, Taylor Pischke, Barbara Hansel, Stefanie Schwaiger, 1531.245, 1447.025, 0.5757
+166, Jamie Broder, Kristina May, Janne Kongshavn, Victoria Kjolberg, 1469.520, 1410.746, 0.5634
+167, Jamie Broder, Kristina May, Melissa Humana-Paredes, Taylor Pischke, 1474.489, 1516.875, 0.4121
+168, Barbara Hansel, Stefanie Schwaiger, Janne Kongshavn, Victoria Kjolberg, 1467.883, 1400.698, 0.5520
+169, Tanja Goricanec, Tanja HÌ_berli, Angela Lobato, Paula Soria, 1531.085, 1471.295, 0.5543
+170, Ekaterina Birlova, Evgeniya Ukolova, Ksenia Dabizha, Yulia Abalakina, 1650.758, 1358.728, 0.8334
+171, Tanja Goricanec, Tanja HÌ_berli, Ksenia Dabizha, Yulia Abalakina, 1533.894, 1341.895, 0.7295
+172, Ekaterina Birlova, Evgeniya Ukolova, Angela Lobato, Paula Soria, 1652.512, 1461.538, 0.7375
+173, Tanja Goricanec, Tanja HÌ_berli, Ekaterina Birlova, Evgeniya Ukolova, 1541.157, 1647.984, 0.3356
+174, Angela Lobato, Paula Soria, Ksenia Dabizha, Yulia Abalakina, 1472.633, 1323.226, 0.6657
+175, Barbara Hansel, Stefanie Schwaiger, Norisbeth Agudo, Olaya Pazo, 1485.820, 1396.182, 0.5540
+176, Eduarda "Duda" Lisboa, Elize Maia, Jennifer Fopma, Summer Ross, 1687.957, 1538.759, 0.6414
+177, Ekaterina Birlova, Evgeniya Ukolova, Katharina Schutzenhofer, Lena Plesiutschnig, 1649.516, 1431.275, 0.7721
+178, Ekaterina Syrtseva, Maria Prokopeva, Sayaka Mizoe, Takemi Nishibori, 1496.191, 1456.296, 0.5147
+179, Carolina Horta, Liliane Maestrini, Riikka Lehtonen, Taru Lahti, 1589.431, 1460.403, 0.6383
+180, Joana Heidrich, Nadine Zumkehr, Angela Lobato, Paula Soria, 1586.442, 1460.920, 0.6540
+181, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Giulia Momoli, Laura Giombini, 1512.276, 1496.064, 0.4899
+182, Irina Tsimbalova, Tatyana Mashkova, Melissa Humana-Paredes, Taylor Pischke, 1425.776, 1501.828, 0.3651
+183, Barbara Hansel, Stefanie Schwaiger, Ilka Semmler, Katrin Holtwick, 1520.043, 1711.751, 0.2123
+184, Eduarda "Duda" Lisboa, Elize Maia, Tanja Goricanec, Tanja HÌ_berli, 1710.700, 1538.186, 0.6995
+185, Ekaterina Birlova, Evgeniya Ukolova, Chantal Laboureur, Julia Sude, 1652.674, 1624.762, 0.5252
+186, Britta Buthe, Karla Borger, Ekaterina Syrtseva, Maria Prokopeva, 1691.270, 1484.604, 0.7534
+187, Carolina Horta, Liliane Maestrini, Elsa Baquerizo, Liliana Fernandez, 1619.348, 1660.185, 0.3972
+188, Madelein Meppelink, Marleen Van Iersel, Joana Heidrich, Nadine Zumkehr, 1764.392, 1583.921, 0.7314
+189, Jamie Broder, Kristina May, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, 1479.228, 1508.041, 0.4458
+190, Julia Grossner, Victoria Bieneck, Irina Tsimbalova, Tatyana Mashkova, 1576.910, 1423.383, 0.7013
+191, Barbara Hansel, Stefanie Schwaiger, Eduarda "Duda" Lisboa, Elize Maia, 1548.943, 1659.799, 0.2502
+192, Britta Buthe, Karla Borger, Ekaterina Birlova, Evgeniya Ukolova, 1693.330, 1649.698, 0.5553
+193, Madelein Meppelink, Marleen Van Iersel, Carolina Horta, Liliane Maestrini, 1768.507, 1605.362, 0.6974
+194, Jamie Broder, Kristina May, Julia Grossner, Victoria Bieneck, 1484.605, 1570.879, 0.3630
+195, Britta Buthe, Karla Borger, Barbara Hansel, Stefanie Schwaiger, 1694.673, 1536.957, 0.6966
+196, Madelein Meppelink, Marleen Van Iersel, Jamie Broder, Kristina May, 1770.819, 1483.234, 0.8368
+197, Jamie Broder, Kristina May, Barbara Hansel, Stefanie Schwaiger, 1487.822, 1515.498, 0.4233
+198, Britta Buthe, Karla Borger, Madelein Meppelink, Marleen Van Iersel, 1697.429, 1762.370, 0.3921
+199, Caleigh Whitaker, Kacie MacTavish, Brandie Wilkerson, Julie Gordon, 1413.041, 1348.763, 0.4766
+200, Eliska Galova, Sarka Nakladalova, Eliska Novakova, Michaela Blahova, 1569.241, 1430.759, 0.5000
+201, Karolina Rehackova, Magdalena Dostalova, Anna Komarkova, Kristyna Adamcikova, 1557.119, 1427.726, 0.5114
+202, Eliska Galova, Sarka Nakladalova, Karolina Rehackova, Magdalena Dostalova, 1630.273, 1512.727, 0.5174
+203, Isabel Schneider, Teresa Mersmann, Anna Behlen, Kim Behrens, 1570.931, 1430.317, 0.5948
+204, Ayumi Kusano, Shinako Tanaka, Hiroko Matsuyama, Miyuki Matsumura, 1433.682, 1142.390, 0.8146
+205, Khanittha Hongpak, Rumpaipruet Numwong, Pronsuda Kritsana, Sirinuch Kawfong, 1271.828, 1244.051, 0.4176
+206, Caitlin Ledoux, Irene Pollock, Ali McColloch, Emily Stockman, 1415.426, 1354.469, 0.4448
+207, Barbara Hansel, Stefanie Schwaiger, Dalida Vernier, Tea Juric, 1524.130, 1317.476, 0.7085
+208, Jantine van der Vlist, Sophie van Gestel, Jagoda Gruszczynska, Karolina Baran, 1521.845, 1219.429, 0.8209
+209, Brittany Hochevar, Heather McGuire, Alexandra Jupiter, Laura Longuet, 1532.255, 1343.680, 0.6787
+210, Inna Makhno, Iryna Makhno, Anniina Parkkinen, Essi Hasu, 1337.625, 1278.960, 0.4296
+211, Nicole Eiholzer, Nina Betschart, Tanarattha Udomchavee, Varapatsorn Radarong, 1346.401, 1323.510, 0.4497
+212, Daria Rudykh, Olga Motrich, Khanittha Hongpak, Rumpaipruet Numwong, 1371.383, 1260.094, 0.6103
+213, Caleigh Whitaker, Kacie MacTavish, Amaranta Navarro, Ester Ribera, 1421.277, 1314.051, 0.6012
+214, Angela Lobato, Paula Soria, Jordan Mowen, Justine Mowen, 1467.076, 1203.606, 0.8060
+215, Ksenia Dabizha, Yulia Abalakina, Jingjing Ding, Xinxin Wang, 1347.827, 1291.927, 0.4567
+216, Jolien Sinnema, Rimke Braakman, Diana Zolnercikova, Martina Jakubsova, 1488.707, 1254.246, 0.7605
+217, Ningya Tang, Yuanyuan Wang, Caitlin Ledoux, Irene Pollock, 1388.403, 1388.612, 0.3495
+218, Ayumi Kusano, Shinako Tanaka, Daniela Gioria, Giulia Momoli, 1503.184, 1543.554, 0.3441
+219, Irina Tsimbalova, Tatyana Mashkova, Gabriela Tomasekova, Tina Turnerova, 1426.379, 1334.451, 0.5750
+220, Isabel Schneider, Teresa Mersmann, Ingrid Lunde, Vilde Solvoll, 1573.375, 1308.394, 0.8039
+221, Melinda Adelin, Ophelie Lusson, Cindy Treland, Janne Pedersen, 1457.386, 1267.003, 0.6955
+222, Eduarda "Duda" Lisboa, Elize Maia, Eliska Galova, Sarka Nakladalova, 1684.495, 1577.860, 0.5424
+223, Barbara Hansel, Stefanie Schwaiger, Jantine van der Vlist, Sophie van Gestel, 1538.557, 1467.076, 0.5033
+224, Brittany Hochevar, Heather McGuire, Inna Makhno, Iryna Makhno, 1543.277, 1313.855, 0.7541
+225, Nicole Eiholzer, Nina Betschart, Daria Rudykh, Olga Motrich, 1388.322, 1345.826, 0.4641
+226, Angela Lobato, Paula Soria, Caleigh Whitaker, Kacie MacTavish, 1480.481, 1412.056, 0.5655
+227, Jolien Sinnema, Rimke Braakman, Ksenia Dabizha, Yulia Abalakina, 1517.584, 1333.861, 0.6923
+228, Ayumi Kusano, Shinako Tanaka, Ningya Tang, Yuanyuan Wang, 1530.882, 1353.829, 0.6594
+229, Irina Tsimbalova, Tatyana Mashkova, Isabel Schneider, Teresa Mersmann, 1431.853, 1564.120, 0.3002
+230, Eduarda "Duda" Lisboa, Elize Maia, Melinda Adelin, Ophelie Lusson, 1696.177, 1432.939, 0.7871
+231, Kristyna Kolocova, Marketa Slukova, Nicole Eiholzer, Nina Betschart, 1726.329, 1378.265, 0.8747
+232, Riikka Lehtonen, Taru Lahti, Anni Schumacher, Sandra Seyfferth, 1473.702, 1386.734, 0.5541
+233, Anni Schumacher, Sandra Seyfferth, Kristyna Kolocova, Marketa Slukova, 1456.993, 1723.551, 0.1240
+234, Riikka Lehtonen, Taru Lahti, Nicole Eiholzer, Nina Betschart, 1484.460, 1352.721, 0.6340
+235, Riikka Lehtonen, Taru Lahti, Kristyna Kolocova, Marketa Slukova, 1509.611, 1720.971, 0.2016
+236, Nicole Eiholzer, Nina Betschart, Anni Schumacher, Sandra Seyfferth, 1391.912, 1413.813, 0.3543
+237, Agatha Bednarczuk, Barbara Seixas, Lenka Hajeckova, Sona Novakova, 1774.270, 1630.001, 0.6754
+238, Julia Grossner, Victoria Bieneck, Karin Lundqvist, Nina Grawender, 1573.543, 1407.961, 0.7121
+239, Agatha Bednarczuk, Barbara Seixas, Karin Lundqvist, Nina Grawender, 1775.236, 1405.880, 0.8917
+240, Lenka Hajeckova, Sona Novakova, Julia Grossner, Victoria Bieneck, 1647.305, 1569.848, 0.5805
+241, Agatha Bednarczuk, Barbara Seixas, Julia Grossner, Victoria Bieneck, 1777.313, 1567.694, 0.7654
+242, Lenka Hajeckova, Sona Novakova, Karin Lundqvist, Nina Grawender, 1655.199, 1402.232, 0.8006
+243, Chantal Laboureur, Julia Sude, Ayumi Kusano, Shinako Tanaka, 1629.711, 1500.331, 0.6319
+244, Maria Tsiartsiani, Vasiliki Arvaniti, Katharina Schutzenhofer, Lena Plesiutschnig, 1634.950, 1426.442, 0.7626
+245, Chantal Laboureur, Julia Sude, Katharina Schutzenhofer, Lena Plesiutschnig, 1633.173, 1421.773, 0.7632
+246, Ayumi Kusano, Shinako Tanaka, Maria Tsiartsiani, Vasiliki Arvaniti, 1552.570, 1632.536, 0.3154
+247, Chantal Laboureur, Julia Sude, Maria Tsiartsiani, Vasiliki Arvaniti, 1640.427, 1630.643, 0.5009
+248, Katharina Schutzenhofer, Lena Plesiutschnig, Ayumi Kusano, Shinako Tanaka, 1433.915, 1506.076, 0.3202
+249, Carolina Salgado, Maria Clara Salgado, Jolien Sinnema, Rimke Braakman, 1744.101, 1498.090, 0.7861
+250, Barbora Hermannova, Martina Bonnerova, Carolina Horta, Liliane Maestrini, 1475.528, 1575.200, 0.3147
+251, Carolina Salgado, Maria Clara Salgado, Carolina Horta, Liliane Maestrini, 1744.618, 1563.613, 0.7256
+252, Jolien Sinnema, Rimke Braakman, Barbora Hermannova, Martina Bonnerova, 1535.458, 1472.166, 0.5324
+253, Barbora Hermannova, Martina Bonnerova, Carolina Salgado, Maria Clara Salgado, 1478.839, 1742.992, 0.1725
+254, Jolien Sinnema, Rimke Braakman, Carolina Horta, Liliane Maestrini, 1572.614, 1544.168, 0.4596
+255, Brittany Hochevar, Heather McGuire, Dominika Nestarcova, Natalia Dubovcova, 1567.652, 1557.117, 0.4754
+256, Sayaka Mizoe, Takemi Nishibori, Norisbeth Agudo, Olaya Pazo, 1461.181, 1366.370, 0.5857
+257, Dominika Nestarcova, Natalia Dubovcova, Norisbeth Agudo, Olaya Pazo, 1558.639, 1349.495, 0.7499
+258, Sayaka Mizoe, Takemi Nishibori, Brittany Hochevar, Heather McGuire, 1469.075, 1539.447, 0.3514
+259, Dominika Nestarcova, Natalia Dubovcova, Sayaka Mizoe, Takemi Nishibori, 1561.031, 1464.368, 0.6261
+260, Brittany Hochevar, Heather McGuire, Norisbeth Agudo, Olaya Pazo, 1549.346, 1334.287, 0.7490
+261, Melissa Humana-Paredes, Taylor Pischke, Irina Tsimbalova, Tatyana Mashkova, 1511.022, 1428.802, 0.5994
+262, Ana Gallay, Georgina Klug, Barbara Hansel, Stefanie Schwaiger, 1597.495, 1524.751, 0.5788
+263, Barbara Hansel, Stefanie Schwaiger, Melissa Humana-Paredes, Taylor Pischke, 1539.504, 1500.716, 0.5197
+264, Ana Gallay, Georgina Klug, Irina Tsimbalova, Tatyana Mashkova, 1599.990, 1426.683, 0.7253
+265, Melissa Humana-Paredes, Taylor Pischke, Ana Gallay, Georgina Klug, 1514.506, 1594.369, 0.3609
+266, Barbara Hansel, Stefanie Schwaiger, Irina Tsimbalova, Tatyana Mashkova, 1549.864, 1424.138, 0.6569
+267, Heather Bansley, Sarah Pavan, Angela Lobato, Paula Soria, 1585.563, 1469.685, 0.6422
+268, Jennifer Fopma, Summer Ross, Kim DiCello, Lane Carico, 1567.543, 1531.657, 0.4818
+269, Heather Bansley, Sarah Pavan, Jennifer Fopma, Summer Ross, 1589.928, 1542.071, 0.5259
+270, Angela Lobato, Paula Soria, Kim DiCello, Lane Carico, 1486.028, 1509.376, 0.4117
+271, Heather Bansley, Sarah Pavan, Kim DiCello, Lane Carico, 1593.540, 1495.092, 0.6139
+272, Jennifer Fopma, Summer Ross, Angela Lobato, Paula Soria, 1562.557, 1474.980, 0.5800
+273, Jamie Broder, Kristina May, Ieva Dumbauskaite, Monika Povilaityte, 1490.542, 1362.876, 0.6553
+274, Eduarda "Duda" Lisboa, Elize Maia, Kinga Kolosinska, Monika Brzostek, 1709.409, 1482.721, 0.7718
+275, Eduarda "Duda" Lisboa, Elize Maia, Jamie Broder, Kristina May, 1721.529, 1488.819, 0.7790
+276, Kinga Kolosinska, Monika Brzostek, Ieva Dumbauskaite, Monika Povilaityte, 1485.371, 1350.567, 0.6659
+277, Jamie Broder, Kristina May, Kinga Kolosinska, Monika Brzostek, 1492.807, 1481.344, 0.5050
+278, Eduarda "Duda" Lisboa, Elize Maia, Ieva Dumbauskaite, Monika Povilaityte, 1727.093, 1346.819, 0.8943
+279, Barbara Hansel, Stefanie Schwaiger, Ayumi Kusano, Shinako Tanaka, 1561.538, 1479.242, 0.5627
+280, Jennifer Fopma, Summer Ross, Julia Grossner, Victoria Bieneck, 1586.274, 1563.366, 0.4926
+281, Angela Lobato, Paula Soria, Jamie Broder, Kristina May, 1489.122, 1488.735, 0.4744
+282, Kristyna Kolocova, Marketa Slukova, Katharina Schutzenhofer, Lena Plesiutschnig, 1721.496, 1430.823, 0.8392
+283, Sayaka Mizoe, Takemi Nishibori, Lenka Hajeckova, Sona Novakova, 1473.379, 1626.623, 0.2500
+284, Nicole Eiholzer, Nina Betschart, Barbora Hermannova, Martina Bonnerova, 1429.840, 1474.275, 0.3774
+285, Dominika Nestarcova, Natalia Dubovcova, Kinga Kolosinska, Monika Brzostek, 1563.503, 1478.219, 0.6127
+286, Melissa Humana-Paredes, Taylor Pischke, Jolien Sinnema, Rimke Braakman, 1525.746, 1535.093, 0.4171
+287, Agatha Bednarczuk, Barbara Seixas, Barbara Hansel, Stefanie Schwaiger, 1779.242, 1555.205, 0.7759
+288, Jennifer Fopma, Summer Ross, Ana Gallay, Georgina Klug, 1608.689, 1590.082, 0.4884
+289, Angela Lobato, Paula Soria, Brittany Hochevar, Heather McGuire, 1503.656, 1526.736, 0.4142
+290, Carolina Salgado, Maria Clara Salgado, Kristyna Kolocova, Marketa Slukova, 1743.913, 1719.950, 0.5309
+291, Chantal Laboureur, Julia Sude, Sayaka Mizoe, Takemi Nishibori, 1644.347, 1470.017, 0.7234
+292, Eduarda "Duda" Lisboa, Elize Maia, Nicole Eiholzer, Nina Betschart, 1734.661, 1421.162, 0.8470
+293, Heather Bansley, Sarah Pavan, Dominika Nestarcova, Natalia Dubovcova, 1597.943, 1560.622, 0.5431
+294, Riikka Lehtonen, Taru Lahti, Melissa Humana-Paredes, Taylor Pischke, 1524.978, 1515.411, 0.4768
+295, Agatha Bednarczuk, Barbara Seixas, Jennifer Fopma, Summer Ross, 1781.518, 1597.286, 0.7275
+296, Carolina Salgado, Maria Clara Salgado, Angela Lobato, Paula Soria, 1744.298, 1498.521, 0.7995
+297, Eduarda "Duda" Lisboa, Elize Maia, Chantal Laboureur, Julia Sude, 1752.374, 1639.424, 0.6271
+298, Heather Bansley, Sarah Pavan, Riikka Lehtonen, Taru Lahti, 1601.597, 1513.603, 0.6035
+299, Agatha Bednarczuk, Barbara Seixas, Carolina Salgado, Maria Clara Salgado, 1785.378, 1743.432, 0.5534
+300, Heather Bansley, Sarah Pavan, Eduarda "Duda" Lisboa, Elize Maia, 1607.919, 1720.487, 0.2957
+301, Eduarda "Duda" Lisboa, Elize Maia, Carolina Salgado, Maria Clara Salgado, 1743.331, 1742.452, 0.4670
+302, Agatha Bednarczuk, Barbara Seixas, Heather Bansley, Sarah Pavan, 1787.627, 1605.455, 0.7353
+303, Viktoryia Shalayeuskaya, Viktoryia Siakretava, Valeryia Babenka, Yana Mileuskaya, 1569.241, 1430.759, 0.5000
+304, Carolina Horta, Liliane Maestrini, Fernanda Alves, Taiana Lima, 1572.813, 1728.444, 0.2368
+305, Brandie Wilkerson, Julie Gordon, Caleigh Whitaker, Kacie MacTavish, 1416.036, 1401.355, 0.4099
+306, Karolina Rehackova, Magdalena Dostalova, Diana Zolnercikova, Martina Jakubsova, 1531.668, 1248.369, 0.8158
+307, Julia Grossner, Victoria Bieneck, Chantal Laboureur, Julia Sude, 1568.757, 1631.107, 0.3923
+308, Khanittha Hongpak, Rumpaipruet Numwong, Pronsuda Kritsana, Sirinuch Kawfong, 1272.816, 1195.567, 0.5231
+309, Jennifer Fopma, Summer Ross, Brittany Hochevar, Heather McGuire, 1612.459, 1512.352, 0.6002
+310, Jennifer Fopma, Summer Ross, Kim DiCello, Lane Carico, 1624.739, 1483.593, 0.6628
+311, Chantal Laboureur, Julia Sude, Luciana Pierangeli, Simone Sittig, 1632.767, 1287.104, 0.8685
+312, Ksenia Dabizha, Yulia Abalakina, Ieva Dumbauskaite, Monika Povilaityte, 1357.654, 1330.008, 0.4814
+313, Julia Grossner, Victoria Bieneck, Bibiana Candelas, Claudia Rios, 1571.489, 1430.412, 0.5977
+314, Riikka Lehtonen, Taru Lahti, Alise Lece, Marta Ozolina, 1521.526, 1354.438, 0.6552
+315, Barbora Hermannova, Martina Bonnerova, Bianca Zass, Valerie Teufl, 1477.183, 1381.951, 0.5380
+316, Carolina Horta, Liliane Maestrini, Brandie Wilkerson, Julie Gordon, 1582.210, 1387.405, 0.7115
+317, Angela Lobato, Paula Soria, Tanarattha Udomchavee, Varapatsorn Radarong, 1505.092, 1320.024, 0.7325
+318, Irina Abbaszade, Vivian Cunha, Sayaka Mizoe, Takemi Nishibori, 1578.138, 1465.822, 0.5430
+319, Kinga Kolosinska, Monika Brzostek, Karolina Rehackova, Magdalena Dostalova, 1482.262, 1479.016, 0.4237
+320, Norisbeth Agudo, Olaya Pazo, Mariafe Artacho, Nicole Laird, 1380.576, 1540.866, 0.1896
+321, Jennifer Fopma, Summer Ross, Iuliia Karimova, Raquel Ferreira, 1633.430, 1422.483, 0.7412
+322, Ana Gallay, Georgina Klug, Meimei Lin, Yuanyuan Ma, 1592.433, 1414.704, 0.6955
+323, Maria Tsiartsiani, Vasiliki Arvaniti, Khanittha Hongpak, Rumpaipruet Numwong, 1631.072, 1269.332, 0.8869
+324, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Viktoryia Shalayeuskaya, Viktoryia Siakretava, 1511.624, 1483.869, 0.4128
+325, Irina Tsimbalova, Tatyana Mashkova, Barbara Hansel, Stefanie Schwaiger, 1429.162, 1536.652, 0.3198
+326, Jamie Broder, Kristina May, Ksenia Ezhak, Maria Sviridova, 1491.834, 1411.470, 0.4838
+327, Chantal Laboureur, Julia Sude, Ksenia Dabizha, Yulia Abalakina, 1634.995, 1349.827, 0.8297
+328, Riikka Lehtonen, Taru Lahti, Julia Grossner, Victoria Bieneck, 1536.839, 1566.626, 0.4286
+329, Carolina Horta, Liliane Maestrini, Barbora Hermannova, Martina Bonnerova, 1594.581, 1474.539, 0.6467
+330, Irina Abbaszade, Vivian Cunha, Angela Lobato, Paula Soria, 1632.281, 1497.331, 0.6036
+331, Kinga Kolosinska, Monika Brzostek, Norisbeth Agudo, Olaya Pazo, 1484.906, 1360.798, 0.6423
+332, Jennifer Fopma, Summer Ross, Ana Gallay, Georgina Klug, 1648.663, 1588.759, 0.5587
+333, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Maria Tsiartsiani, Vasiliki Arvaniti, 1516.655, 1628.536, 0.3346
+334, Jamie Broder, Kristina May, Irina Tsimbalova, Tatyana Mashkova, 1495.047, 1426.087, 0.5892
+335, Larissa Franca, Talita Antunes, Irina Abbaszade, Vivian Cunha, 1866.090, 1606.596, 0.7882
+336, Dominika Nestarcova, Natalia Dubovcova, Heather Bansley, Sarah Pavan, 1564.151, 1600.269, 0.4358
+337, Heather Bansley, Sarah Pavan, Larissa Franca, Talita Antunes, 1607.651, 1842.313, 0.1780
+338, Dominika Nestarcova, Natalia Dubovcova, Irina Abbaszade, Vivian Cunha, 1567.148, 1547.577, 0.4392
+339, Larissa Franca, Talita Antunes, Dominika Nestarcova, Natalia Dubovcova, 1847.137, 1566.107, 0.8298
+340, Irina Abbaszade, Vivian Cunha, Heather Bansley, Sarah Pavan, 1601.129, 1603.008, 0.4144
+341, Ilka Semmler, Katrin Holtwick, Daria Rudykh, Olga Motrich, 1712.007, 1340.125, 0.8915
+342, Chantal Laboureur, Julia Sude, Joana Heidrich, Nadine Zumkehr, 1640.618, 1579.972, 0.5730
+343, Ilka Semmler, Katrin Holtwick, Joana Heidrich, Nadine Zumkehr, 1712.769, 1577.013, 0.6814
+344, Chantal Laboureur, Julia Sude, Daria Rudykh, Olga Motrich, 1642.534, 1332.567, 0.8494
+345, Chantal Laboureur, Julia Sude, Ilka Semmler, Katrin Holtwick, 1650.294, 1711.348, 0.4003
+346, Joana Heidrich, Nadine Zumkehr, Daria Rudykh, Olga Motrich, 1578.750, 1323.115, 0.8033
+347, Carolina Horta, Liliane Maestrini, April Ross, Kerri Walsh Jennings, 1624.327, 1909.781, 0.1306
+348, Carolina Salgado, Maria Clara Salgado, Brooke Sweat, Lauren Fendrick, 1742.995, 1576.488, 0.7163
+349, April Ross, Kerri Walsh Jennings, Brooke Sweat, Lauren Fendrick, 1911.869, 1574.256, 0.8720
+350, Carolina Salgado, Maria Clara Salgado, Carolina Horta, Liliane Maestrini, 1743.621, 1613.240, 0.6644
+351, Carolina Salgado, Maria Clara Salgado, April Ross, Kerri Walsh Jennings, 1745.005, 1900.159, 0.2752
+352, Carolina Horta, Liliane Maestrini, Brooke Sweat, Lauren Fendrick, 1626.961, 1566.956, 0.5559
+353, Agatha Bednarczuk, Barbara Seixas, Jennifer Fopma, Summer Ross, 1790.153, 1638.377, 0.6900
+354, Marta Menegatti, Viktoria Orsi Toth, Melissa Humana-Paredes, Taylor Pischke, 1636.409, 1508.722, 0.6624
+355, Agatha Bednarczuk, Barbara Seixas, Melissa Humana-Paredes, Taylor Pischke, 1791.525, 1505.472, 0.8348
+356, Marta Menegatti, Viktoria Orsi Toth, Jennifer Fopma, Summer Ross, 1641.973, 1622.551, 0.4972
+357, Agatha Bednarczuk, Barbara Seixas, Marta Menegatti, Viktoria Orsi Toth, 1793.975, 1638.608, 0.7028
+358, Jennifer Fopma, Summer Ross, Melissa Humana-Paredes, Taylor Pischke, 1632.682, 1499.203, 0.6624
+359, Juliana Felisberta, Maria Antonelli, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, 1791.933, 1515.371, 0.8283
+360, Louise Bawden, Taliqua Clancy, Kira Walkenhorst, Laura Ludwig, 1535.070, 1748.745, 0.2100
+361, Louise Bawden, Taliqua Clancy, Juliana Felisberta, Maria Antonelli, 1543.150, 1783.090, 0.1856
+362, Kira Walkenhorst, Laura Ludwig, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, 1750.967, 1513.835, 0.7931
+363, Juliana Felisberta, Maria Antonelli, Kira Walkenhorst, Laura Ludwig, 1787.912, 1746.207, 0.5461
+364, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Louise Bawden, Taliqua Clancy, 1517.800, 1537.852, 0.4579
+365, Kristyna Kolocova, Marketa Slukova, Riikka Lehtonen, Taru Lahti, 1720.777, 1530.053, 0.7416
+366, Emily Day, Jennifer Kessy, Britta Buthe, Karla Borger, 1639.597, 1694.626, 0.2430
+367, Kristyna Kolocova, Marketa Slukova, Emily Day, Jennifer Kessy, 1721.786, 1582.810, 0.6147
+368, Riikka Lehtonen, Taru Lahti, Britta Buthe, Karla Borger, 1548.384, 1691.423, 0.2794
+369, Britta Buthe, Karla Borger, Kristyna Kolocova, Marketa Slukova, 1693.886, 1720.022, 0.4564
+370, Emily Day, Jennifer Kessy, Riikka Lehtonen, Taru Lahti, 1636.295, 1539.146, 0.5494
+371, Madelein Meppelink, Marleen Van Iersel, Ekaterina Syrtseva, Maria Prokopeva, 1764.612, 1477.038, 0.8319
+372, Fan Wang, Yuan Yue, Jamie Broder, Kristina May, 1648.169, 1492.754, 0.7036
+373, Madelein Meppelink, Marleen Van Iersel, Jamie Broder, Kristina May, 1766.963, 1491.423, 0.8271
+374, Fan Wang, Yuan Yue, Ekaterina Syrtseva, Maria Prokopeva, 1650.710, 1465.400, 0.7281
+375, Fan Wang, Yuan Yue, Madelein Meppelink, Marleen Van Iersel, 1657.020, 1758.180, 0.3387
+376, Jamie Broder, Kristina May, Ekaterina Syrtseva, Maria Prokopeva, 1494.778, 1446.738, 0.5374
+377, Ekaterina Birlova, Evgeniya Ukolova, Kinga Kolosinska, Monika Brzostek, 1651.547, 1482.715, 0.7208
+378, Tanja Goricanec, Tanja HÌ_berli, Elsa Baquerizo, Liliana Fernandez, 1545.345, 1658.170, 0.3313
+379, Ekaterina Birlova, Evgeniya Ukolova, Tanja Goricanec, Tanja HÌ_berli, 1653.846, 1541.649, 0.6482
+380, Elsa Baquerizo, Liliana Fernandez, Kinga Kolosinska, Monika Brzostek, 1658.976, 1480.630, 0.7330
+381, Elsa Baquerizo, Liliana Fernandez, Ekaterina Birlova, Evgeniya Ukolova, 1660.455, 1650.626, 0.5074
+382, Kinga Kolosinska, Monika Brzostek, Tanja Goricanec, Tanja HÌ_berli, 1485.115, 1535.584, 0.4131
+383, Dominika Nestarcova, Natalia Dubovcova, Kinga Kolosinska, Monika Brzostek, 1568.474, 1482.181, 0.6145
+384, Marta Menegatti, Viktoria Orsi Toth, April Ross, Kerri Walsh Jennings, 1647.755, 1887.212, 0.1816
+385, Madelein Meppelink, Marleen Van Iersel, Kira Walkenhorst, Laura Ludwig, 1764.456, 1741.237, 0.5172
+386, Emily Day, Jennifer Kessy, Jamie Broder, Kristina May, 1668.841, 1492.741, 0.6931
+387, Carolina Horta, Liliane Maestrini, Joana Heidrich, Nadine Zumkehr, 1639.867, 1574.985, 0.5689
+388, Juliana Felisberta, Maria Antonelli, Irina Abbaszade, Vivian Cunha, 1790.378, 1579.955, 0.7456
+389, Ilka Semmler, Katrin Holtwick, Riikka Lehtonen, Taru Lahti, 1711.982, 1532.628, 0.7293
+390, Ekaterina Birlova, Evgeniya Ukolova, Jennifer Fopma, Summer Ross, 1653.581, 1618.832, 0.5258
+391, Dominika Nestarcova, Natalia Dubovcova, Chantal Laboureur, Julia Sude, 1572.198, 1642.506, 0.3844
+392, Marta Menegatti, Viktoria Orsi Toth, Louise Bawden, Taliqua Clancy, 1651.581, 1534.518, 0.6531
+393, Madelein Meppelink, Marleen Van Iersel, Kristyna Kolocova, Marketa Slukova, 1770.084, 1718.629, 0.5636
+394, Emily Day, Jennifer Kessy, Carolina Salgado, Maria Clara Salgado, 1725.447, 1743.977, 0.3921
+395, Carolina Horta, Liliane Maestrini, Agatha Bednarczuk, Barbara Seixas, 1660.405, 1788.315, 0.2917
+396, Fan Wang, Yuan Yue, Juliana Felisberta, Maria Antonelli, 1663.487, 1783.269, 0.3170
+397, Elsa Baquerizo, Liliana Fernandez, Ilka Semmler, Katrin Holtwick, 1662.181, 1710.611, 0.4264
+398, Larissa Franca, Talita Antunes, Ekaterina Birlova, Evgeniya Ukolova, 1853.919, 1652.031, 0.7529
+399, Marta Menegatti, Viktoria Orsi Toth, Dominika Nestarcova, Natalia Dubovcova, 1655.811, 1569.867, 0.6123
+400, Madelein Meppelink, Marleen Van Iersel, Emily Day, Jennifer Kessy, 1774.995, 1690.055, 0.5639
+401, Fan Wang, Yuan Yue, Carolina Horta, Liliane Maestrini, 1667.990, 1646.662, 0.5044
+402, Larissa Franca, Talita Antunes, Elsa Baquerizo, Liliana Fernandez, 1860.583, 1661.453, 0.7510
+403, Madelein Meppelink, Marleen Van Iersel, Marta Menegatti, Viktoria Orsi Toth, 1779.138, 1652.235, 0.6651
+404, Larissa Franca, Talita Antunes, Fan Wang, Yuan Yue, 1866.994, 1665.729, 0.7519
+405, Marta Menegatti, Viktoria Orsi Toth, Fan Wang, Yuan Yue, 1657.712, 1660.996, 0.4806
+406, Larissa Franca, Talita Antunes, Madelein Meppelink, Marleen Van Iersel, 1876.325, 1774.652, 0.6238
+407, Carolina Horta, Liliane Maestrini, Fernanda Alves, Taiana Lima, 1662.780, 1713.521, 0.3844
+408, Chantal Laboureur, Julia Sude, Julia Grossner, Victoria Bieneck, 1647.369, 1563.253, 0.6075
+409, Barbora Hermannova, Martina Bonnerova, Diana Zolnercikova, Martina Jakubsova, 1476.150, 1241.160, 0.7862
+410, Jennifer Fopma, Summer Ross, Brittany Hochevar, Heather McGuire, 1628.348, 1500.063, 0.6486
+411, Caleigh Whitaker, Kacie MacTavish, Brandie Wilkerson, Julie Gordon, 1410.164, 1345.214, 0.5201
+412, Khanittha Hongpak, Rumpaipruet Numwong, Pronsuda Kritsana, Sirinuch Kawfong, 1279.604, 1160.171, 0.6046
+413, Tanarattha Udomchavee, Varapatsorn Radarong, Khanittha Hongpak, Rumpaipruet Numwong, 1325.610, 1267.197, 0.5579
+414, Chantal Laboureur, Julia Sude, Ema Prenc, Valentina Vrbanc, 1650.276, 1446.630, 0.7002
+415, Angela Lobato, Paula Soria, Janne Kongshavn, Victoria Kjolberg, 1505.640, 1392.455, 0.6356
+416, Jennifer Fopma, Summer Ross, Caleigh Whitaker, Kacie MacTavish, 1634.356, 1405.708, 0.7783
+417, Ekaterina Syrtseva, Maria Prokopeva, Melinda Adelin, Ophelie Lusson, 1462.609, 1385.438, 0.5198
+418, Barbora Hermannova, Martina Bonnerova, Meimei Lin, Yuanyuan Ma, 1478.924, 1377.026, 0.5875
+419, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Agata Zuccarelli, Laura Giombini, 1520.425, 1418.551, 0.5256
+420, Irina Tsimbalova, Tatyana Mashkova, Katharina Schutzenhofer, Lena Plesiutschnig, 1429.781, 1421.413, 0.4932
+421, Kim DiCello, Lane Carico, Bianca Zass, Valerie Teufl, 1493.953, 1340.290, 0.6422
+422, Carolina Horta, Liliane Maestrini, Luciana Pierangeli, Simone Sittig, 1665.370, 1275.329, 0.8968
+423, Norisbeth Agudo, Olaya Pazo, Ksenia Dabizha, Yulia Abalakina, 1384.385, 1330.208, 0.5158
+424, Maria Tsiartsiani, Vasiliki Arvaniti, Jolien Sinnema, Rimke Braakman, 1629.833, 1512.737, 0.6313
+425, Ana Gallay, Georgina Klug, Emilia Nystrom, Erika Nystrom, 1592.248, 1520.603, 0.5953
+426, Sayaka Mizoe, Takemi Nishibori, Kristina Thurin, Susanna Thurin, 1470.799, 1406.048, 0.4510
+427, Riikka Lehtonen, Taru Lahti, Tanarattha Udomchavee, Varapatsorn Radarong, 1538.045, 1322.656, 0.7670
+428, Daniela Gioria, Giulia Momoli, Anastasia Barsuk, Daria Rudykh, 1544.842, 1424.332, 0.5624
+429, Jamie Broder, Kristina May, Dina Becic, Martina Matic, 1495.646, 1412.432, 0.4896
+430, Chantal Laboureur, Julia Sude, Angela Lobato, Paula Soria, 1653.876, 1498.806, 0.6969
+431, Ekaterina Syrtseva, Maria Prokopeva, Jennifer Fopma, Summer Ross, 1488.933, 1615.609, 0.2712
+432, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Barbora Hermannova, Martina Bonnerova, 1523.601, 1475.596, 0.5594
+433, Irina Tsimbalova, Tatyana Mashkova, Kim DiCello, Lane Carico, 1433.966, 1474.689, 0.4087
+434, Carolina Horta, Liliane Maestrini, Norisbeth Agudo, Olaya Pazo, 1669.537, 1376.289, 0.8344
+435, Ana Gallay, Georgina Klug, Maria Tsiartsiani, Vasiliki Arvaniti, 1596.959, 1627.748, 0.4461
+436, Riikka Lehtonen, Taru Lahti, Sayaka Mizoe, Takemi Nishibori, 1547.129, 1466.159, 0.5956
+437, Jamie Broder, Kristina May, Daniela Gioria, Giulia Momoli, 1499.898, 1542.652, 0.4297
+438, Larissa Franca, Talita Antunes, Dalida Vernier, Tea Juric, 1877.261, 1311.662, 0.9615
+439, Emily Day, Jennifer Kessy, Heather Bansley, Sarah Pavan, 1717.793, 1599.952, 0.6227
+440, Larissa Franca, Talita Antunes, Heather Bansley, Sarah Pavan, 1881.376, 1598.476, 0.8315
+441, Emily Day, Jennifer Kessy, Dalida Vernier, Tea Juric, 1723.725, 1299.573, 0.9120
+442, Larissa Franca, Talita Antunes, Emily Day, Jennifer Kessy, 1887.725, 1705.116, 0.7125
+443, Heather Bansley, Sarah Pavan, Dalida Vernier, Tea Juric, 1599.696, 1280.181, 0.8482
+444, Ilka Semmler, Katrin Holtwick, Irina Tsimbalova, Tatyana Mashkova, 1711.013, 1432.722, 0.8310
+445, Joana Heidrich, Nadine Zumkehr, Jamie Broder, Kristina May, 1578.497, 1497.013, 0.6064
+446, Ilka Semmler, Katrin Holtwick, Jamie Broder, Kristina May, 1711.549, 1495.354, 0.7741
+447, Joana Heidrich, Nadine Zumkehr, Irina Tsimbalova, Tatyana Mashkova, 1581.163, 1430.541, 0.6983
+448, Ilka Semmler, Katrin Holtwick, Joana Heidrich, Nadine Zumkehr, 1712.304, 1578.344, 0.6793
+449, Jamie Broder, Kristina May, Irina Tsimbalova, Tatyana Mashkova, 1498.298, 1427.620, 0.5922
+450, Agatha Bednarczuk, Barbara Seixas, Barbara Hansel, Stefanie Schwaiger, 1789.841, 1531.575, 0.8098
+451, Melissa Humana-Paredes, Taylor Pischke, Dominika Nestarcova, Natalia Dubovcova, 1510.415, 1566.326, 0.3997
+452, Agatha Bednarczuk, Barbara Seixas, Melissa Humana-Paredes, Taylor Pischke, 1791.183, 1507.340, 0.8332
+453, Barbara Hansel, Stefanie Schwaiger, Dominika Nestarcova, Natalia Dubovcova, 1545.697, 1563.146, 0.4502
+454, Dominika Nestarcova, Natalia Dubovcova, Agatha Bednarczuk, Barbara Seixas, 1567.814, 1784.834, 0.2120
+455, Melissa Humana-Paredes, Taylor Pischke, Barbara Hansel, Stefanie Schwaiger, 1517.027, 1532.175, 0.4450
+456, Juliana Felisberta, Maria Antonelli, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, 1785.170, 1522.286, 0.8168
+457, Chantal Laboureur, Julia Sude, Brooke Sweat, Lauren Fendrick, 1658.310, 1560.709, 0.6225
+458, Juliana Felisberta, Maria Antonelli, Brooke Sweat, Lauren Fendrick, 1787.361, 1557.177, 0.7845
+459, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Chantal Laboureur, Julia Sude, 1527.140, 1650.252, 0.3137
+460, Chantal Laboureur, Julia Sude, Juliana Felisberta, Maria Antonelli, 1658.181, 1780.442, 0.3123
+461, Brooke Sweat, Lauren Fendrick, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, 1564.493, 1523.968, 0.5431
+462, Riikka Lehtonen, Taru Lahti, Kristyna Kolocova, Marketa Slukova, 1563.285, 1716.328, 0.2715
+463, Ekaterina Birlova, Evgeniya Ukolova, Kira Walkenhorst, Laura Ludwig, 1655.984, 1734.818, 0.3744
+464, Kristyna Kolocova, Marketa Slukova, Ekaterina Birlova, Evgeniya Ukolova, 1717.652, 1653.366, 0.5860
+465, Kira Walkenhorst, Laura Ludwig, Riikka Lehtonen, Taru Lahti, 1737.526, 1557.460, 0.7286
+466, Kira Walkenhorst, Laura Ludwig, Kristyna Kolocova, Marketa Slukova, 1742.258, 1716.160, 0.5286
+467, Ekaterina Birlova, Evgeniya Ukolova, Riikka Lehtonen, Taru Lahti, 1655.603, 1549.812, 0.6346
+468, Kinga Kolosinska, Monika Brzostek, Madelein Meppelink, Marleen Van Iersel, 1488.557, 1764.397, 0.1566
+469, Louise Bawden, Taliqua Clancy, Britta Buthe, Karla Borger, 1541.372, 1690.688, 0.2855
+470, Louise Bawden, Taliqua Clancy, Madelein Meppelink, Marleen Van Iersel, 1548.767, 1755.019, 0.2169
+471, Britta Buthe, Karla Borger, Kinga Kolosinska, Monika Brzostek, 1691.752, 1486.764, 0.7620
+472, Britta Buthe, Karla Borger, Madelein Meppelink, Marleen Van Iersel, 1694.350, 1748.048, 0.4099
+473, Louise Bawden, Taliqua Clancy, Kinga Kolosinska, Monika Brzostek, 1552.609, 1483.719, 0.5883
+474, Elsa Baquerizo, Liliana Fernandez, Ekaterina Syrtseva, Maria Prokopeva, 1662.231, 1479.303, 0.7297
+475, Fan Wang, Yuan Yue, Tanja Goricanec, Tanja HÌ_berli, 1663.948, 1532.251, 0.6730
+476, Elsa Baquerizo, Liliana Fernandez, Tanja Goricanec, Tanja HÌ_berli, 1663.178, 1528.993, 0.6788
+477, Fan Wang, Yuan Yue, Ekaterina Syrtseva, Maria Prokopeva, 1666.186, 1470.556, 0.7432
+478, Elsa Baquerizo, Liliana Fernandez, Fan Wang, Yuan Yue, 1664.660, 1661.695, 0.4957
+479, Tanja Goricanec, Tanja HÌ_berli, Ekaterina Syrtseva, Maria Prokopeva, 1532.986, 1457.059, 0.5833
+480, Ana Gallay, Georgina Klug, Antea Tadic, Maja Rosko, 1598.406, 1322.954, 0.8110
+481, Marta Menegatti, Viktoria Orsi Toth, Carolina Horta, Liliane Maestrini, 1662.959, 1656.667, 0.4830
+482, Carolina Horta, Liliane Maestrini, Antea Tadic, Maja Rosko, 1659.635, 1309.834, 0.8723
+483, Marta Menegatti, Viktoria Orsi Toth, Ana Gallay, Georgina Klug, 1667.147, 1595.029, 0.5918
+484, Marta Menegatti, Viktoria Orsi Toth, Antea Tadic, Maja Rosko, 1668.251, 1298.739, 0.8866
+485, Carolina Horta, Liliane Maestrini, Ana Gallay, Georgina Klug, 1669.347, 1591.754, 0.5919
+486, Riikka Lehtonen, Taru Lahti, Melissa Humana-Paredes, Taylor Pischke, 1558.867, 1509.264, 0.5470
+487, Brooke Sweat, Lauren Fendrick, Fan Wang, Yuan Yue, 1574.454, 1656.187, 0.3637
+488, Jamie Broder, Kristina May, Juliana Felisberta, Maria Antonelli, 1504.306, 1772.031, 0.1646
+489, Kinga Kolosinska, Monika Brzostek, Emily Day, Jennifer Kessy, 1489.177, 1656.598, 0.2185
+490, Heather Bansley, Sarah Pavan, Kira Walkenhorst, Laura Ludwig, 1605.728, 1735.415, 0.3056
+491, Joana Heidrich, Nadine Zumkehr, Tanja Goricanec, Tanja HÌ_berli, 1582.081, 1528.730, 0.5649
+492, Carolina Horta, Liliane Maestrini, Barbara Hansel, Stefanie Schwaiger, 1676.434, 1524.813, 0.6878
+493, Britta Buthe, Karla Borger, Ana Gallay, Georgina Klug, 1695.921, 1588.844, 0.6435
+494, Larissa Franca, Talita Antunes, Riikka Lehtonen, Taru Lahti, 1890.772, 1556.259, 0.8691
+495, Brooke Sweat, Lauren Fendrick, Ekaterina Birlova, Evgeniya Ukolova, 1583.906, 1651.844, 0.3853
+496, Jamie Broder, Kristina May, Elsa Baquerizo, Liliana Fernandez, 1509.434, 1662.555, 0.2843
+497, Agatha Bednarczuk, Barbara Seixas, Kinga Kolosinska, Monika Brzostek, 1786.070, 1488.043, 0.8458
+498, Heather Bansley, Sarah Pavan, Chantal Laboureur, Julia Sude, 1610.642, 1651.655, 0.4251
+499, Marta Menegatti, Viktoria Orsi Toth, Joana Heidrich, Nadine Zumkehr, 1672.059, 1578.867, 0.6215
+500, Louise Bawden, Taliqua Clancy, Carolina Horta, Liliane Maestrini, 1558.684, 1661.361, 0.3290
+501, Britta Buthe, Karla Borger, Ilka Semmler, Katrin Holtwick, 1698.229, 1711.070, 0.4764
+502, Larissa Franca, Talita Antunes, Brooke Sweat, Lauren Fendrick, 1894.122, 1581.704, 0.8540
+503, Jamie Broder, Kristina May, Agatha Bednarczuk, Barbara Seixas, 1515.336, 1779.458, 0.1690
+504, Heather Bansley, Sarah Pavan, Marta Menegatti, Viktoria Orsi Toth, 1615.614, 1666.231, 0.4125
+505, Louise Bawden, Taliqua Clancy, Britta Buthe, Karla Borger, 1565.016, 1695.224, 0.3093
+506, Larissa Franca, Talita Antunes, Jamie Broder, Kristina May, 1896.441, 1514.622, 0.8985
+507, Heather Bansley, Sarah Pavan, Louise Bawden, Taliqua Clancy, 1619.196, 1561.170, 0.5723
+508, Louise Bawden, Taliqua Clancy, Jamie Broder, Kristina May, 1565.026, 1511.604, 0.5666
+509, Larissa Franca, Talita Antunes, Heather Bansley, Sarah Pavan, 1900.210, 1617.802, 0.8315
+510, Fernanda Alves, Taiana Lima, Carolina Horta, Liliane Maestrini, 1723.555, 1652.299, 0.5745
+511, Julia Grossner, Victoria Bieneck, Chantal Laboureur, Julia Sude, 1568.569, 1644.669, 0.3755
+512, Khanittha Hongpak, Rumpaipruet Numwong, Pronsuda Kritsana, Sirinuch Kawfong, 1275.844, 1131.955, 0.6493
+513, Jennifer Fopma, Summer Ross, Brittany Hochevar, Heather McGuire, 1624.042, 1488.658, 0.6604
+514, Fernanda Alves, Taiana Lima, Luciana Pierangeli, Simone Sittig, 1725.183, 1267.584, 0.9296
+515, Ieva Dumbauskaite, Monika Povilaityte, Anastasia Barsuk, Daria Rudykh, 1347.226, 1338.370, 0.3675
+516, Sayaka Mizoe, Takemi Nishibori, Brandie Wilkerson, Julie Gordon, 1469.644, 1318.553, 0.6673
+517, Mariafe Artacho, Nicole Laird, Ekaterina Syrtseva, Maria Prokopeva, 1561.104, 1445.921, 0.6183
+518, Kinga Kolosinska, Monika Brzostek, Meimei Lin, Yuanyuan Ma, 1490.306, 1348.792, 0.6545
+519, Karin Lundqvist, Susanna Thurin, Jennifer Fopma, Summer Ross, 1616.613, 1610.875, 0.3287
+520, Irina Tsimbalova, Tatyana Mashkova, Katharina Schutzenhofer, Lena Plesiutschnig, 1431.045, 1412.529, 0.5089
+521, Emilia Nystrom, Erika Nystrom, Kim DiCello, Lane Carico, 1521.724, 1461.079, 0.5657
+522, Carolina Horta, Liliane Maestrini, Khanittha Hongpak, Rumpaipruet Numwong, 1654.507, 1273.074, 0.8973
+523, Barbara Hansel, Stefanie Schwaiger, Julia Grossner, Victoria Bieneck, 1537.864, 1563.922, 0.4374
+524, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Camilla Nilsson, Tadva Yoken, 1525.726, 1333.222, 0.7252
+525, Ana Gallay, Georgina Klug, Bibiana Candelas, Claudia Rios, 1590.780, 1389.129, 0.7134
+526, Riikka Lehtonen, Taru Lahti, Tanarattha Udomchavee, Varapatsorn Radarong, 1560.316, 1320.050, 0.7933
+527, Jantine van der Vlist, Sophie van Gestel, Barbora Hermannova, Martina Bonnerova, 1517.537, 1472.276, 0.4877
+528, Norisbeth Agudo, Olaya Pazo, Maria Tsiartsiani, Vasiliki Arvaniti, 1414.885, 1624.804, 0.1904
+529, Ekaterina Birlova, Evgeniya Ukolova, Benedicte Maaseide, Hanne  Aas, 1653.278, 1447.156, 0.7056
+530, Fernanda Alves, Taiana Lima, Ieva Dumbauskaite, Monika Povilaityte, 1727.570, 1343.905, 0.8980
+531, Mariafe Artacho, Nicole Laird, Sayaka Mizoe, Takemi Nishibori, 1579.972, 1465.662, 0.6287
+532, Kinga Kolosinska, Monika Brzostek, Karin Lundqvist, Susanna Thurin, 1494.307, 1518.749, 0.3258
+533, Emilia Nystrom, Erika Nystrom, Irina Tsimbalova, Tatyana Mashkova, 1522.717, 1428.413, 0.6276
+534, Barbara Hansel, Stefanie Schwaiger, Carolina Horta, Liliane Maestrini, 1552.548, 1640.874, 0.3382
+535, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Ana Gallay, Georgina Klug, 1529.820, 1586.052, 0.4075
+536, Riikka Lehtonen, Taru Lahti, Jantine van der Vlist, Sophie van Gestel, 1567.769, 1480.170, 0.5613
+537, Ekaterina Birlova, Evgeniya Ukolova, Norisbeth Agudo, Olaya Pazo, 1654.474, 1405.673, 0.7978
+538, Agatha Bednarczuk, Barbara Seixas, Emilia Nystrom, Erika Nystrom, 1780.930, 1522.221, 0.8143
+539, Joana Heidrich, Nadine Zumkehr, Jamie Broder, Kristina May, 1582.275, 1508.813, 0.5956
+540, Agatha Bednarczuk, Barbara Seixas, Joana Heidrich, Nadine Zumkehr, 1782.818, 1580.253, 0.7583
+541, Jamie Broder, Kristina May, Emilia Nystrom, Erika Nystrom, 1512.390, 1520.846, 0.4807
+542, Agatha Bednarczuk, Barbara Seixas, Jamie Broder, Kristina May, 1784.174, 1511.201, 0.8259
+543, Joana Heidrich, Nadine Zumkehr, Emilia Nystrom, Erika Nystrom, 1583.703, 1519.752, 0.5847
+544, Madelein Meppelink, Marleen Van Iersel, Ingrid Lunde, Vilde Solvoll, 1748.891, 1301.999, 0.9263
+545, Louise Bawden, Taliqua Clancy, Brooke Sweat, Lauren Fendrick, 1569.575, 1573.937, 0.4760
+546, Madelein Meppelink, Marleen Van Iersel, Brooke Sweat, Lauren Fendrick, 1751.964, 1570.038, 0.7325
+547, Louise Bawden, Taliqua Clancy, Ingrid Lunde, Vilde Solvoll, 1571.025, 1287.762, 0.8235
+548, Madelein Meppelink, Marleen Van Iersel, Louise Bawden, Taliqua Clancy, 1754.944, 1568.777, 0.7392
+549, Brooke Sweat, Lauren Fendrick, Ingrid Lunde, Vilde Solvoll, 1572.296, 1275.337, 0.8355
+550, Mariafe Artacho, Nicole Laird, Marta Menegatti, Viktoria Orsi Toth, 1609.582, 1660.470, 0.3784
+551, Melissa Humana-Paredes, Taylor Pischke, Carolina Salgado, Maria Clara Salgado, 1523.034, 1742.463, 0.2057
+552, Melissa Humana-Paredes, Taylor Pischke, Marta Menegatti, Viktoria Orsi Toth, 1534.594, 1653.870, 0.3119
+553, Carolina Salgado, Maria Clara Salgado, Mariafe Artacho, Nicole Laird, 1743.042, 1595.153, 0.6824
+554, Carolina Salgado, Maria Clara Salgado, Marta Menegatti, Viktoria Orsi Toth, 1743.754, 1650.259, 0.6256
+555, Mariafe Artacho, Nicole Laird, Melissa Humana-Paredes, Taylor Pischke, 1612.482, 1528.123, 0.5863
+556, Juliana Felisberta, Maria Antonelli, Cindy Treland, Janne Pedersen, 1772.550, 1265.711, 0.9482
+557, Britta Buthe, Karla Borger, Dominika Nestarcova, Natalia Dubovcova, 1696.633, 1565.902, 0.6756
+558, Juliana Felisberta, Maria Antonelli, Dominika Nestarcova, Natalia Dubovcova, 1774.868, 1564.542, 0.7667
+559, Britta Buthe, Karla Borger, Cindy Treland, Janne Pedersen, 1696.967, 1263.803, 0.9228
+560, Britta Buthe, Karla Borger, Juliana Felisberta, Maria Antonelli, 1699.582, 1768.886, 0.3897
+561, Dominika Nestarcova, Natalia Dubovcova, Cindy Treland, Janne Pedersen, 1565.408, 1260.160, 0.8496
+562, Barbara Hansel, Stefanie Schwaiger, Fernanda Alves, Taiana Lima, 1568.423, 1710.989, 0.2675
+563, Kira Walkenhorst, Laura Ludwig, Emily Day, Jennifer Kessy, 1738.936, 1634.495, 0.6115
+564, Fernanda Alves, Taiana Lima, Emily Day, Jennifer Kessy, 1719.174, 1614.162, 0.6083
+565, Kira Walkenhorst, Laura Ludwig, Barbara Hansel, Stefanie Schwaiger, 1741.523, 1562.571, 0.7274
+566, Fernanda Alves, Taiana Lima, Kira Walkenhorst, Laura Ludwig, 1730.644, 1736.574, 0.4679
+567, Barbara Hansel, Stefanie Schwaiger, Emily Day, Jennifer Kessy, 1573.832, 1586.375, 0.4263
+568, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Ilka Semmler, Katrin Holtwick, 1534.933, 1709.332, 0.2605
+569, Heather Bansley, Sarah Pavan, Ekaterina Birlova, Evgeniya Ukolova, 1622.363, 1651.131, 0.4474
+570, Ekaterina Birlova, Evgeniya Ukolova, Ilka Semmler, Katrin Holtwick, 1654.658, 1707.968, 0.4170
+571, Heather Bansley, Sarah Pavan, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, 1625.438, 1532.374, 0.6232
+572, Ilka Semmler, Katrin Holtwick, Heather Bansley, Sarah Pavan, 1708.860, 1622.325, 0.6166
+573, Ekaterina Birlova, Evgeniya Ukolova, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, 1656.635, 1530.137, 0.6691
+574, Kristyna Kolocova, Marketa Slukova, Riikka Lehtonen, Taru Lahti, 1717.093, 1562.135, 0.7014
+575, Fan Wang, Yuan Yue, Tanja Goricanec, Tanja HÌ_berli, 1658.989, 1525.591, 0.6756
+576, Tanja Goricanec, Tanja HÌ_berli, Kristyna Kolocova, Marketa Slukova, 1532.835, 1714.725, 0.2493
+577, Fan Wang, Yuan Yue, Riikka Lehtonen, Taru Lahti, 1662.060, 1555.482, 0.6359
+578, Kristyna Kolocova, Marketa Slukova, Fan Wang, Yuan Yue, 1716.057, 1658.447, 0.5752
+579, Tanja Goricanec, Tanja HÌ_berli, Riikka Lehtonen, Taru Lahti, 1537.791, 1546.021, 0.4675
+580, Ana Gallay, Georgina Klug, Janne Kongshavn, Victoria Kjolberg, 1587.978, 1386.873, 0.7530
+581, Kinga Kolosinska, Monika Brzostek, Elsa Baquerizo, Liliana Fernandez, 1499.524, 1660.431, 0.2752
+582, Kinga Kolosinska, Monika Brzostek, Janne Kongshavn, Victoria Kjolberg, 1501.910, 1379.343, 0.6567
+583, Ana Gallay, Georgina Klug, Elsa Baquerizo, Liliana Fernandez, 1592.722, 1658.676, 0.3972
+584, Elsa Baquerizo, Liliana Fernandez, Janne Kongshavn, Victoria Kjolberg, 1659.157, 1375.722, 0.8331
+585, Ana Gallay, Georgina Klug, Kinga Kolosinska, Monika Brzostek, 1595.605, 1499.300, 0.6278
+586, Melissa Humana-Paredes, Taylor Pischke, Fan Wang, Yuan Yue, 1539.076, 1652.822, 0.3208
+587, Joana Heidrich, Nadine Zumkehr, Brooke Sweat, Lauren Fendrick, 1587.607, 1565.458, 0.5164
+588, Dominika Nestarcova, Natalia Dubovcova, Mariafe Artacho, Nicole Laird, 1568.522, 1589.723, 0.4327
+589, Kinga Kolosinska, Monika Brzostek, Fernanda Alves, Taiana Lima, 1504.758, 1713.817, 0.2089
+590, Ekaterina Birlova, Evgeniya Ukolova, Tanja Goricanec, Tanja HÌ_berli, 1658.616, 1534.650, 0.6647
+591, Juliana Felisberta, Maria Antonelli, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, 1770.847, 1528.783, 0.7981
+592, Louise Bawden, Taliqua Clancy, Jamie Broder, Kristina May, 1572.347, 1508.388, 0.5821
+593, Elsa Baquerizo, Liliana Fernandez, Barbara Hansel, Stefanie Schwaiger, 1660.237, 1566.072, 0.6204
+594, Agatha Bednarczuk, Barbara Seixas, Melissa Humana-Paredes, Taylor Pischke, 1785.677, 1535.948, 0.8039
+595, Heather Bansley, Sarah Pavan, Joana Heidrich, Nadine Zumkehr, 1625.908, 1583.981, 0.5498
+596, Kira Walkenhorst, Laura Ludwig, Dominika Nestarcova, Natalia Dubovcova, 1739.172, 1566.947, 0.7246
+597, Carolina Salgado, Maria Clara Salgado, Kinga Kolosinska, Monika Brzostek, 1744.140, 1503.349, 0.7983
+598, Britta Buthe, Karla Borger, Ekaterina Birlova, Evgeniya Ukolova, 1701.471, 1656.015, 0.5587
+599, Juliana Felisberta, Maria Antonelli, Kristyna Kolocova, Marketa Slukova, 1774.895, 1714.742, 0.5782
+600, Louise Bawden, Taliqua Clancy, Ana Gallay, Georgina Klug, 1576.842, 1591.530, 0.4666
+601, Madelein Meppelink, Marleen Van Iersel, Elsa Baquerizo, Liliana Fernandez, 1759.096, 1659.184, 0.6330
+602, Agatha Bednarczuk, Barbara Seixas, Heather Bansley, Sarah Pavan, 1787.854, 1623.655, 0.7150
+603, Kira Walkenhorst, Laura Ludwig, Carolina Salgado, Maria Clara Salgado, 1743.911, 1743.180, 0.4929
+604, Juliana Felisberta, Maria Antonelli, Britta Buthe, Karla Borger, 1778.640, 1699.794, 0.6041
+605, Madelein Meppelink, Marleen Van Iersel, Louise Bawden, Taliqua Clancy, 1761.979, 1574.679, 0.7406
+606, Agatha Bednarczuk, Barbara Seixas, Kira Walkenhorst, Laura Ludwig, 1791.143, 1739.912, 0.5629
+607, Juliana Felisberta, Maria Antonelli, Madelein Meppelink, Marleen Van Iersel, 1783.039, 1756.792, 0.5240
+608, Madelein Meppelink, Marleen Van Iersel, Kira Walkenhorst, Laura Ludwig, 1761.898, 1735.637, 0.5243
+609, Juliana Felisberta, Maria Antonelli, Agatha Bednarczuk, Barbara Seixas, 1787.728, 1787.335, 0.4883
+610, Caleigh Whitaker, Kacie MacTavish, Ingrid Lunde, Vilde Solvoll, 1411.618, 1253.491, 0.6793
+611, Julia Grossner, Victoria Bieneck, Ayana Dyette, Malika Davidson, 1566.545, 1429.307, 0.5910
+612, Brittany Hochevar, Heather McGuire, Angela Bensend, Geena Urango, 1501.650, 1413.911, 0.4837
+613, Norisbeth Agudo, Olaya Pazo, Federica Tonon, Greta Cicolari, 1426.832, 1393.646, 0.3675
+614, Xinyi Xia, Yuanyuan Ma, Bibiana Candelas, Claudia Rios, 1463.124, 1341.392, 0.5851
+615, Amanda Dowdy, Kendra VanZwieten, Caitlin Ledoux, Irene Pollock, 1526.866, 1374.208, 0.6311
+616, Camilla Nilsson, Tadva Yoken, Oda Ulveseth, Siv Skjong, 1376.487, 1377.486, 0.2769
+617, Maria Tsiartsiani, Vasiliki Arvaniti, Elisabeth Klopf, Eva Freiberger, 1625.764, 1441.809, 0.6723
+618, Mariafe Artacho, Nicole Laird, Brandie Wilkerson, Julie Gordon, 1596.100, 1305.726, 0.8265
+619, Fernanda Alves, Taiana Lima, Caleigh Whitaker, Kacie MacTavish, 1716.921, 1408.691, 0.8506
+620, Brittany Hochevar, Heather McGuire, Julia Grossner, Victoria Bieneck, 1520.396, 1561.807, 0.4077
+621, Barbara Hansel, Stefanie Schwaiger, Norisbeth Agudo, Olaya Pazo, 1571.962, 1414.274, 0.6903
+622, Carolina Horta, Liliane Maestrini, Xinyi Xia, Yuanyuan Ma, 1646.117, 1452.869, 0.7356
+623, Chantal Laboureur, Julia Sude, Amanda Dowdy, Kendra VanZwieten, 1647.893, 1489.796, 0.6633
+624, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Camilla Nilsson, Tadva Yoken, 1530.594, 1356.235, 0.7061
+625, Jennifer Fopma, Nicole Branagh, Maria Tsiartsiani, Vasiliki Arvaniti, 1619.631, 1623.798, 0.3265
+626, Carolina Salgado, Maria Clara Salgado, Mariafe Artacho, Nicole Laird, 1743.728, 1584.886, 0.6999
+627, Larissa Franca, Talita Antunes, Brittany Hochevar, Heather McGuire, 1902.421, 1517.252, 0.8990
+628, Fan Wang, Yuan Yue, Joana Heidrich, Nadine Zumkehr, 1656.146, 1580.778, 0.5978
+629, Larissa Franca, Talita Antunes, Joana Heidrich, Nadine Zumkehr, 1905.380, 1579.707, 0.8643
+630, Fan Wang, Yuan Yue, Brittany Hochevar, Heather McGuire, 1658.617, 1507.941, 0.6899
+631, Larissa Franca, Talita Antunes, Fan Wang, Yuan Yue, 1909.534, 1657.049, 0.8054
+632, Joana Heidrich, Nadine Zumkehr, Brittany Hochevar, Heather McGuire, 1582.737, 1496.469, 0.6018
+633, Agatha Bednarczuk, Barbara Seixas, Jennifer Fopma, Nicole Branagh, 1789.049, 1579.079, 0.7242
+634, Ilka Semmler, Katrin Holtwick, Jamie Broder, Kristina May, 1709.419, 1506.771, 0.7602
+635, Agatha Bednarczuk, Barbara Seixas, Jamie Broder, Kristina May, 1790.267, 1505.670, 0.8355
+636, Jennifer Fopma, Nicole Branagh, Ilka Semmler, Katrin Holtwick, 1663.807, 1708.078, 0.3208
+637, Agatha Bednarczuk, Barbara Seixas, Ilka Semmler, Katrin Holtwick, 1793.088, 1707.191, 0.6161
+638, Jennifer Fopma, Nicole Branagh, Jamie Broder, Kristina May, 1694.880, 1503.999, 0.7131
+639, Juliana Felisberta, Maria Antonelli, Sayaka Mizoe, Takemi Nishibori, 1788.965, 1464.123, 0.8646
+640, Kristyna Kolocova, Marketa Slukova, Dominika Nestarcova, Natalia Dubovcova, 1715.678, 1565.235, 0.7007
+641, Juliana Felisberta, Maria Antonelli, Dominika Nestarcova, Natalia Dubovcova, 1790.927, 1564.011, 0.7838
+642, Kristyna Kolocova, Marketa Slukova, Sayaka Mizoe, Takemi Nishibori, 1716.269, 1461.975, 0.8097
+643, Juliana Felisberta, Maria Antonelli, Kristyna Kolocova, Marketa Slukova, 1794.465, 1715.052, 0.6058
+644, Sayaka Mizoe, Takemi Nishibori, Dominika Nestarcova, Natalia Dubovcova, 1469.091, 1560.421, 0.3572
+645, Marta Menegatti, Viktoria Orsi Toth, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, 1653.425, 1528.394, 0.6657
+646, Chantal Laboureur, Julia Sude, Melissa Humana-Paredes, Taylor Pischke, 1651.610, 1530.608, 0.6557
+647, Marta Menegatti, Viktoria Orsi Toth, Melissa Humana-Paredes, Taylor Pischke, 1656.481, 1525.572, 0.6697
+648, Chantal Laboureur, Julia Sude, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, 1655.164, 1526.246, 0.6702
+649, Marta Menegatti, Viktoria Orsi Toth, Chantal Laboureur, Julia Sude, 1661.050, 1649.903, 0.5019
+650, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Melissa Humana-Paredes, Taylor Pischke, 1529.441, 1518.107, 0.5010
+651, Fernanda Alves, Taiana Lima, Barbara Hansel, Stefanie Schwaiger, 1723.000, 1566.183, 0.6973
+652, Brooke Sweat, Lauren Fendrick, Louise Bawden, Taliqua Clancy, 1572.570, 1570.483, 0.4867
+653, Fernanda Alves, Taiana Lima, Brooke Sweat, Lauren Fendrick, 1728.849, 1568.583, 0.7039
+654, Louise Bawden, Taliqua Clancy, Barbara Hansel, Stefanie Schwaiger, 1574.444, 1556.889, 0.5062
+655, Fernanda Alves, Taiana Lima, Louise Bawden, Taliqua Clancy, 1734.511, 1572.120, 0.7086
+656, Brooke Sweat, Lauren Fendrick, Barbara Hansel, Stefanie Schwaiger, 1574.949, 1548.101, 0.5168
+657, Heather Bansley, Sarah Pavan, Kim DiCello, Lane Carico, 1625.804, 1452.605, 0.7183
+658, Britta Buthe, Karla Borger, Carolina Horta, Liliane Maestrini, 1701.549, 1637.631, 0.5766
+659, Heather Bansley, Sarah Pavan, Carolina Horta, Liliane Maestrini, 1629.733, 1627.609, 0.4830
+660, Britta Buthe, Karla Borger, Kim DiCello, Lane Carico, 1702.347, 1446.933, 0.8074
+661, Britta Buthe, Karla Borger, Heather Bansley, Sarah Pavan, 1704.006, 1626.679, 0.6030
+662, Carolina Horta, Liliane Maestrini, Kim DiCello, Lane Carico, 1632.464, 1439.615, 0.7389
+663, Linline Matauatu, Miller Pata, Kira Walkenhorst, Laura Ludwig, 1463.920, 1728.106, 0.1390
+664, Emily Day, Jennifer Kessy, Carolina Salgado, Maria Clara Salgado, 1619.872, 1742.443, 0.2879
+665, Emily Day, Jennifer Kessy, Kira Walkenhorst, Laura Ludwig, 1648.457, 1722.604, 0.3491
+666, Carolina Salgado, Maria Clara Salgado, Linline Matauatu, Miller Pata, 1742.750, 1455.454, 0.8325
+667, Kira Walkenhorst, Laura Ludwig, Carolina Salgado, Maria Clara Salgado, 1727.278, 1741.756, 0.4710
+668, Emily Day, Jennifer Kessy, Linline Matauatu, Miller Pata, 1658.444, 1444.078, 0.7523
+669, Ana Gallay, Georgina Klug, April Ross, Whitney Pavlik, 1596.103, 1658.776, 0.3489
+670, Elsa Baquerizo, Liliana Fernandez, Kinga Kolosinska, Monika Brzostek, 1660.018, 1501.346, 0.7103
+671, Kinga Kolosinska, Monika Brzostek, April Ross, Whitney Pavlik, 1505.907, 1616.803, 0.2878
+672, Elsa Baquerizo, Liliana Fernandez, Ana Gallay, Georgina Klug, 1661.189, 1593.014, 0.5910
+673, Elsa Baquerizo, Liliana Fernandez, April Ross, Whitney Pavlik, 1662.349, 1592.972, 0.5635
+674, Kinga Kolosinska, Monika Brzostek, Ana Gallay, Georgina Klug, 1510.114, 1588.382, 0.3772
+675, Ana Gallay, Georgina Klug, Linline Matauatu, Miller Pata, 1590.516, 1430.400, 0.6965
+676, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Kinga Kolosinska, Monika Brzostek, 1532.474, 1506.953, 0.5278
+677, Chantal Laboureur, Julia Sude, Sayaka Mizoe, Takemi Nishibori, 1652.631, 1466.248, 0.7390
+678, Ilka Semmler, Katrin Holtwick, Heather Bansley, Sarah Pavan, 1708.080, 1623.732, 0.6138
+679, Jennifer Fopma, Nicole Branagh, Carolina Horta, Liliane Maestrini, 1732.946, 1625.768, 0.5889
+680, Brooke Sweat, Lauren Fendrick, Joana Heidrich, Nadine Zumkehr, 1581.662, 1578.805, 0.4888
+681, Fan Wang, Yuan Yue, Louise Bawden, Taliqua Clancy, 1660.104, 1569.082, 0.6198
+682, Kira Walkenhorst, Laura Ludwig, Kristyna Kolocova, Marketa Slukova, 1731.481, 1713.570, 0.5176
+683, Agatha Bednarczuk, Barbara Seixas, Ana Gallay, Georgina Klug, 1794.813, 1588.775, 0.7624
+684, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Emily Day, Jennifer Kessy, 1536.588, 1631.474, 0.3263
+685, Fernanda Alves, Taiana Lima, Chantal Laboureur, Julia Sude, 1741.753, 1648.726, 0.6157
+686, Marta Menegatti, Viktoria Orsi Toth, Ilka Semmler, Katrin Holtwick, 1666.249, 1706.782, 0.4327
+687, Juliana Felisberta, Maria Antonelli, Jennifer Fopma, Nicole Branagh, 1797.711, 1698.713, 0.5876
+688, Elsa Baquerizo, Liliana Fernandez, Brooke Sweat, Lauren Fendrick, 1663.437, 1576.647, 0.6141
+689, Britta Buthe, Karla Borger, Fan Wang, Yuan Yue, 1705.822, 1656.613, 0.5628
+690, Kira Walkenhorst, Laura Ludwig, Larissa Franca, Talita Antunes, 1737.709, 1894.225, 0.2641
+691, Agatha Bednarczuk, Barbara Seixas, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, 1796.146, 1535.415, 0.8155
+692, Fernanda Alves, Taiana Lima, Marta Menegatti, Viktoria Orsi Toth, 1748.986, 1662.771, 0.6070
+693, Juliana Felisberta, Maria Antonelli, Elsa Baquerizo, Liliana Fernandez, 1800.486, 1662.544, 0.6842
+694, Britta Buthe, Karla Borger, Kira Walkenhorst, Laura Ludwig, 1708.074, 1733.064, 0.4542
+695, Agatha Bednarczuk, Barbara Seixas, Fernanda Alves, Taiana Lima, 1799.180, 1741.210, 0.5675
+696, Juliana Felisberta, Maria Antonelli, Britta Buthe, Karla Borger, 1803.693, 1706.555, 0.6299
+697, Fernanda Alves, Taiana Lima, Britta Buthe, Karla Borger, 1749.136, 1704.742, 0.5497
+698, Agatha Bednarczuk, Barbara Seixas, Juliana Felisberta, Maria Antonelli, 1802.744, 1799.378, 0.4935
+699, Madelein Meppelink, Marleen Van Iersel, Majo Orellana, Maria A Orellana, 1763.532, 1465.387, 0.8187
+700, Melissa Humana-Paredes, Taylor Pischke, Irina Tsimbalova, Tatyana Mashkova, 1523.587, 1425.838, 0.6263
+701, Madelein Meppelink, Marleen Van Iersel, Irina Tsimbalova, Tatyana Mashkova, 1764.869, 1424.968, 0.8748
+702, Melissa Humana-Paredes, Taylor Pischke, Majo Orellana, Maria A Orellana, 1528.371, 1403.112, 0.5830
+703, Madelein Meppelink, Marleen Van Iersel, Melissa Humana-Paredes, Taylor Pischke, 1767.005, 1525.468, 0.7960
+704, Irina Tsimbalova, Tatyana Mashkova, Majo Orellana, Maria A Orellana, 1427.637, 1344.974, 0.5314
+705, Larissa Franca, Talita Antunes, Jantine van der Vlist, Sophie van Gestel, 1895.917, 1473.117, 0.9156
+706, Tanja Goricanec, Tanja HÌ_berli, Tanarattha Udomchavee, Varapatsorn Radarong, 1536.730, 1317.220, 0.7748
+707, Larissa Franca, Talita Antunes, Tanarattha Udomchavee, Varapatsorn Radarong, 1896.631, 1316.785, 0.9655
+708, Tanja Goricanec, Tanja HÌ_berli, Jantine van der Vlist, Sophie van Gestel, 1540.117, 1442.577, 0.5905
+709, Larissa Franca, Talita Antunes, Tanja Goricanec, Tanja HÌ_berli, 1898.951, 1539.083, 0.8862
+710, Jantine van der Vlist, Sophie van Gestel, Tanarattha Udomchavee, Varapatsorn Radarong, 1464.767, 1313.070, 0.6735
+711, April Ross, Kerri Walsh Jennings, Jolien Sinnema, Rimke Braakman, 1888.805, 1506.660, 0.8962
+712, Heather Bansley, Sarah Pavan, Mariafe Artacho, Nicole Laird, 1626.929, 1569.248, 0.5557
+713, April Ross, Kerri Walsh Jennings, Mariafe Artacho, Nicole Laird, 1890.904, 1564.535, 0.8629
+714, Heather Bansley, Sarah Pavan, Jolien Sinnema, Rimke Braakman, 1629.258, 1488.516, 0.6665
+715, April Ross, Kerri Walsh Jennings, Heather Bansley, Sarah Pavan, 1893.694, 1627.921, 0.8185
+716, Mariafe Artacho, Nicole Laird, Jolien Sinnema, Rimke Braakman, 1576.672, 1469.327, 0.6077
+717, Ilka Semmler, Katrin Holtwick, Fabiana Gomez, Maria Eugenia Nieto, 1707.218, 1456.676, 0.7668
+718, Norisbeth Agudo, Olaya Pazo, Barbora Hermannova, Martina Bonnerova, 1436.941, 1468.152, 0.4173
+719, Ilka Semmler, Katrin Holtwick, Norisbeth Agudo, Olaya Pazo, 1707.608, 1430.319, 0.8258
+720, Barbora Hermannova, Martina Bonnerova, Fabiana Gomez, Maria Eugenia Nieto, 1470.984, 1386.250, 0.5165
+721, Ilka Semmler, Katrin Holtwick, Barbora Hermannova, Martina Bonnerova, 1708.075, 1469.484, 0.7961
+722, Norisbeth Agudo, Olaya Pazo, Fabiana Gomez, Maria Eugenia Nieto, 1443.497, 1335.294, 0.5631
+723, Kristyna Kolocova, Marketa Slukova, Ikram Ettayfi, Mahassine Siad, 1714.140, 1457.817, 0.7737
+724, Kinga Kolosinska, Monika Brzostek, Jamie Broder, Kristina May, 1510.240, 1500.750, 0.5042
+725, Kristyna Kolocova, Marketa Slukova, Jamie Broder, Kristina May, 1714.836, 1499.266, 0.7735
+726, Kinga Kolosinska, Monika Brzostek, Ikram Ettayfi, Mahassine Siad, 1512.476, 1395.343, 0.5749
+727, Kinga Kolosinska, Monika Brzostek, Kristyna Kolocova, Marketa Slukova, 1517.490, 1712.501, 0.2378
+728, Jamie Broder, Kristina May, Ikram Ettayfi, Mahassine Siad, 1501.203, 1351.641, 0.6452
+729, Agatha Bednarczuk, Barbara Seixas, Leila Martinez, Lianma Flores, 1803.649, 1470.764, 0.8510
+730, Emily Day, Jennifer Kessy, Bibiana Candelas, Claudia Rios, 1637.160, 1324.196, 0.8416
+731, Agatha Bednarczuk, Barbara Seixas, Bibiana Candelas, Claudia Rios, 1804.055, 1317.782, 0.9405
+732, Emily Day, Jennifer Kessy, Leila Martinez, Lianma Flores, 1645.710, 1427.784, 0.7227
+733, Agatha Bednarczuk, Barbara Seixas, Emily Day, Jennifer Kessy, 1805.982, 1635.403, 0.7133
+734, Leila Martinez, Lianma Flores, Bibiana Candelas, Claudia Rios, 1469.335, 1290.081, 0.6532
+735, Juliana Felisberta, Maria Antonelli, Louiza Bayou, Meriem Boucheta, 1800.486, 1470.366, 0.8486
+736, Chantal Laboureur, Julia Sude, Linline Matauatu, Miller Pata, 1650.916, 1420.855, 0.7785
+737, Juliana Felisberta, Maria Antonelli, Linline Matauatu, Miller Pata, 1801.328, 1416.571, 0.8989
+738, Chantal Laboureur, Julia Sude, Louiza Bayou, Meriem Boucheta, 1653.110, 1428.544, 0.7387
+739, Chantal Laboureur, Julia Sude, Juliana Felisberta, Maria Antonelli, 1660.129, 1795.483, 0.2988
+740, Linline Matauatu, Miller Pata, Louiza Bayou, Meriem Boucheta, 1433.588, 1363.825, 0.4828
+741, Elsa Baquerizo, Liliana Fernandez, Gabriela Tomasekova, Tina Turnerova, 1662.899, 1323.700, 0.8686
+742, Louise Bawden, Taliqua Clancy, Gabriela Filippo, Michelle Valiente, 1571.524, 1430.414, 0.5981
+743, Elsa Baquerizo, Liliana Fernandez, Gabriela Filippo, Michelle Valiente, 1663.407, 1399.281, 0.7922
+744, Louise Bawden, Taliqua Clancy, Gabriela Tomasekova, Tina Turnerova, 1572.959, 1309.016, 0.8064
+745, Elsa Baquerizo, Liliana Fernandez, Louise Bawden, Taliqua Clancy, 1664.453, 1570.036, 0.6273
+746, Gabriela Filippo, Michelle Valiente, Gabriela Tomasekova, Tina Turnerova, 1442.212, 1287.188, 0.6271
+747, Fernanda Alves, Taiana Lima, Palesa Sekhonyana, Randy Williams, 1750.847, 1362.701, 0.8986
+748, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Joana Heidrich, Nadine Zumkehr, 1538.941, 1574.484, 0.4379
+749, Fernanda Alves, Taiana Lima, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, 1754.753, 1537.529, 0.7720
+750, Joana Heidrich, Nadine Zumkehr, Palesa Sekhonyana, Randy Williams, 1576.118, 1347.165, 0.7719
+751, Fernanda Alves, Taiana Lima, Joana Heidrich, Nadine Zumkehr, 1759.172, 1574.145, 0.7366
+752, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Palesa Sekhonyana, Randy Williams, 1538.990, 1331.255, 0.7495
+753, Britta Buthe, Karla Borger, Ekaterina Syrtseva, Maria Prokopeva, 1705.479, 1440.291, 0.8161
+754, Ekaterina Birlova, Evgeniya Ukolova, Brooke Sweat, Lauren Fendrick, 1658.256, 1571.717, 0.6123
+755, Britta Buthe, Karla Borger, Ekaterina Birlova, Evgeniya Ukolova, 1707.234, 1655.748, 0.5675
+756, Brooke Sweat, Lauren Fendrick, Ekaterina Syrtseva, Maria Prokopeva, 1575.600, 1430.988, 0.6806
+757, Brooke Sweat, Lauren Fendrick, Britta Buthe, Karla Borger, 1584.019, 1704.505, 0.3191
+758, Ekaterina Birlova, Evgeniya Ukolova, Ekaterina Syrtseva, Maria Prokopeva, 1656.961, 1424.831, 0.7848
+759, Kira Walkenhorst, Laura Ludwig, Karen Charles, Natalia Alfaro, 1734.512, 1461.073, 0.7928
+760, Dominika Nestarcova, Natalia Dubovcova, Jagoda Gruszczynska, Karolina Baran, 1561.078, 1208.295, 0.8768
+761, Kira Walkenhorst, Laura Ludwig, Jagoda Gruszczynska, Karolina Baran, 1734.894, 1204.212, 0.9539
+762, Dominika Nestarcova, Natalia Dubovcova, Karen Charles, Natalia Alfaro, 1562.694, 1406.923, 0.6401
+763, Dominika Nestarcova, Natalia Dubovcova, Kira Walkenhorst, Laura Ludwig, 1566.725, 1728.802, 0.2707
+764, Jagoda Gruszczynska, Karolina Baran, Karen Charles, Natalia Alfaro, 1258.306, 1314.483, 0.2374
+765, Fan Wang, Yuan Yue, Danielle Remmers, Michelle Stiekema, 1659.014, 1510.938, 0.6899
+766, Marta Menegatti, Viktoria Orsi Toth, Ana Gallay, Georgina Klug, 1666.280, 1585.921, 0.6049
+767, Fan Wang, Yuan Yue, Ana Gallay, Georgina Klug, 1662.103, 1583.083, 0.6037
+768, Marta Menegatti, Viktoria Orsi Toth, Danielle Remmers, Michelle Stiekema, 1668.791, 1504.760, 0.7098
+769, Marta Menegatti, Viktoria Orsi Toth, Fan Wang, Yuan Yue, 1673.044, 1658.333, 0.5096
+770, Danielle Remmers, Michelle Stiekema, Ana Gallay, Georgina Klug, 1517.403, 1578.827, 0.3892
+771, Madelein Meppelink, Marleen Van Iersel, Jagoda Gruszczynska, Karolina Baran, 1767.530, 1254.241, 0.9492
+772, Louise Bawden, Taliqua Clancy, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, 1573.551, 1536.194, 0.5446
+773, Fernanda Alves, Taiana Lima, Norisbeth Agudo, Olaya Pazo, 1761.453, 1438.584, 0.8602
+774, Elsa Baquerizo, Liliana Fernandez, Linline Matauatu, Miller Pata, 1665.024, 1425.435, 0.7907
+775, Brooke Sweat, Lauren Fendrick, Kinga Kolosinska, Monika Brzostek, 1588.928, 1514.883, 0.5946
+776, Marta Menegatti, Viktoria Orsi Toth, Kristyna Kolocova, Marketa Slukova, 1677.843, 1710.813, 0.4435
+777, Ekaterina Birlova, Evgeniya Ukolova, Kira Walkenhorst, Laura Ludwig, 1660.387, 1723.839, 0.3981
+778, Ilka Semmler, Katrin Holtwick, Jantine van der Vlist, Sophie van Gestel, 1708.503, 1451.949, 0.8023
+779, April Ross, Kerri Walsh Jennings, Gabriela Filippo, Michelle Valiente, 1894.711, 1433.867, 0.9308
+780, Fan Wang, Yuan Yue, Emily Day, Jennifer Kessy, 1661.754, 1619.478, 0.5330
+781, Melissa Humana-Paredes, Taylor Pischke, Dominika Nestarcova, Natalia Dubovcova, 1533.281, 1563.691, 0.4409
+782, Agatha Bednarczuk, Barbara Seixas, Jamie Broder, Kristina May, 1807.008, 1500.249, 0.8525
+783, Irina Tsimbalova, Tatyana Mashkova, Chantal Laboureur, Julia Sude, 1433.049, 1652.245, 0.2078
+784, Heather Bansley, Sarah Pavan, Britta Buthe, Karla Borger, 1632.392, 1702.066, 0.3915
+785, Juliana Felisberta, Maria Antonelli, Tanja Goricanec, Tanja HÌ_berli, 1797.029, 1537.398, 0.8140
+786, Larissa Franca, Talita Antunes, Mariafe Artacho, Nicole Laird, 1901.625, 1572.329, 0.8647
+787, Louise Bawden, Taliqua Clancy, Madelein Meppelink, Marleen Van Iersel, 1579.305, 1759.711, 0.2466
+788, Fernanda Alves, Taiana Lima, Elsa Baquerizo, Liliana Fernandez, 1767.399, 1664.018, 0.6353
+789, Brooke Sweat, Lauren Fendrick, Marta Menegatti, Viktoria Orsi Toth, 1596.358, 1672.576, 0.3748
+790, Ilka Semmler, Katrin Holtwick, Ekaterina Birlova, Evgeniya Ukolova, 1709.483, 1657.932, 0.5688
+791, Fan Wang, Yuan Yue, April Ross, Kerri Walsh Jennings, 1667.729, 1882.775, 0.2073
+792, Agatha Bednarczuk, Barbara Seixas, Melissa Humana-Paredes, Taylor Pischke, 1808.185, 1530.908, 0.8286
+793, Heather Bansley, Sarah Pavan, Irina Tsimbalova, Tatyana Mashkova, 1634.146, 1431.412, 0.7591
+794, Juliana Felisberta, Maria Antonelli, Larissa Franca, Talita Antunes, 1802.246, 1889.036, 0.3539
+795, Fernanda Alves, Taiana Lima, Louise Bawden, Taliqua Clancy, 1771.434, 1577.400, 0.7470
+796, Ilka Semmler, Katrin Holtwick, Brooke Sweat, Lauren Fendrick, 1710.255, 1592.313, 0.6573
+797, Agatha Bednarczuk, Barbara Seixas, Fan Wang, Yuan Yue, 1810.289, 1665.413, 0.6918
+798, Juliana Felisberta, Maria Antonelli, Heather Bansley, Sarah Pavan, 1804.488, 1632.163, 0.7247
+799, Fernanda Alves, Taiana Lima, Ilka Semmler, Katrin Holtwick, 1777.908, 1709.334, 0.5871
+800, Agatha Bednarczuk, Barbara Seixas, Juliana Felisberta, Maria Antonelli, 1813.604, 1800.537, 0.5083
+801, Juliana Felisberta, Maria Antonelli, Ilka Semmler, Katrin Holtwick, 1803.512, 1708.499, 0.6283
+802, Agatha Bednarczuk, Barbara Seixas, Fernanda Alves, Taiana Lima, 1816.571, 1771.068, 0.5512
+803, Amanda Dowdy, Heather McGuire, Gabi Brito, Olaya Pazo, 1569.241, 1430.759, 0.5000
+804, Barbora Hermannova, Martina Bonnerova, Gabriela Tomasekova, Tina Turnerova, 1471.245, 1270.383, 0.7407
+805, Sayaka Mizoe, Takemi Nishibori, Antea Tadic, Maja Rosko, 1468.950, 1274.603, 0.7240
+806, Irina Tsimbalova, Tatyana Mashkova, Ines Egger, Sarah Leeman, 1434.492, 1396.431, 0.4026
+807, Julia Grossner, Victoria Bieneck, Caitlin Ledoux, Irene Pollock, 1563.808, 1362.929, 0.7465
+808, Giulia Toti, Laura Giombini, Melinda Adelin, Ophelie Lusson, 1554.761, 1360.532, 0.6591
+809, Riikka Lehtonen, Taru Lahti, Elena Petrovicova, Jana Sindlerova, 1551.809, 1426.010, 0.5658
+810, Linline Matauatu, Miller Pata, Michaela Blahova, Tereza Vankova, 1442.697, 1398.219, 0.3943
+811, Alexandra Jupiter, Laura Longuet, Nicole Eiholzer, Nina Betschart, 1414.491, 1393.183, 0.3903
+812, Xinyi Xia, Yuanyuan Ma, Isabel Schneider, Teresa Mersmann, 1477.191, 1555.941, 0.3452
+813, Ekaterina Syrtseva, Maria Prokopeva, Dunja Gerson, Tanya Guerra Arias-Schmocker, 1436.051, 1359.597, 0.4958
+814, Barbara Hansel, Stefanie Schwaiger, Karolina Rehackova, Magdalena Dostalova, 1554.563, 1446.823, 0.5981
+815, Kendra VanZwieten, Kim DiCello, Fatma Yildrim, Merve Nezir, 1569.241, 1430.759, 0.5000
+816, Anastasia Barsuk, Daria Rudykh, Diana Zolnercikova, Martina Jakubsova, 1380.261, 1231.156, 0.6364
+817, Fernanda Alves, Taiana Lima, Amanda Dowdy, Heather McGuire, 1774.102, 1532.887, 0.7617
+818, Sayaka Mizoe, Takemi Nishibori, Barbora Hermannova, Martina Bonnerova, 1474.294, 1467.655, 0.4967
+819, Julia Grossner, Victoria Bieneck, Irina Tsimbalova, Tatyana Mashkova, 1566.431, 1432.343, 0.6780
+820, Riikka Lehtonen, Taru Lahti, Giulia Toti, Laura Giombini, 1558.728, 1483.342, 0.4958
+821, Linline Matauatu, Miller Pata, Alexandra Jupiter, Laura Longuet, 1456.679, 1367.716, 0.5405
+822, Xinyi Xia, Yuanyuan Ma, Ekaterina Syrtseva, Maria Prokopeva, 1492.438, 1424.814, 0.5589
+823, Barbara Hansel, Stefanie Schwaiger, Kendra VanZwieten, Kim DiCello, 1561.884, 1494.815, 0.4789
+824, Carolina Salgado, Maria Clara Salgado, Anastasia Barsuk, Daria Rudykh, 1741.953, 1367.768, 0.8890
+825, Larissa Franca, Talita Antunes, Xinyi Xia, Yuanyuan Ma, 1890.811, 1489.200, 0.9075
+826, Brooke Sweat, Lauren Fendrick, Carolina Salgado, Maria Clara Salgado, 1600.500, 1740.639, 0.2970
+827, Larissa Franca, Talita Antunes, Brooke Sweat, Lauren Fendrick, 1893.828, 1598.696, 0.8417
+828, Carolina Salgado, Maria Clara Salgado, Xinyi Xia, Yuanyuan Ma, 1740.988, 1482.689, 0.8096
+829, Larissa Franca, Talita Antunes, Carolina Salgado, Maria Clara Salgado, 1899.328, 1740.447, 0.7068
+830, Brooke Sweat, Lauren Fendrick, Xinyi Xia, Yuanyuan Ma, 1602.400, 1471.725, 0.6610
+831, Agatha Bednarczuk, Barbara Seixas, Julia Grossner, Victoria Bieneck, 1817.848, 1564.878, 0.8084
+832, Jamie Broder, Kristina May, Fan Wang, Yuan Yue, 1504.860, 1660.035, 0.2787
+833, Agatha Bednarczuk, Barbara Seixas, Jamie Broder, Kristina May, 1818.791, 1503.955, 0.8584
+834, Julia Grossner, Victoria Bieneck, Fan Wang, Yuan Yue, 1569.940, 1655.373, 0.3664
+835, Agatha Bednarczuk, Barbara Seixas, Fan Wang, Yuan Yue, 1820.638, 1653.318, 0.7192
+836, Julia Grossner, Victoria Bieneck, Jamie Broder, Kristina May, 1573.153, 1501.399, 0.5938
+837, Juliana Felisberta, Maria Antonelli, Sayaka Mizoe, Takemi Nishibori, 1804.548, 1472.909, 0.8693
+838, Chantal Laboureur, Julia Sude, Louise Bawden, Taliqua Clancy, 1656.098, 1574.454, 0.6061
+839, Juliana Felisberta, Maria Antonelli, Chantal Laboureur, Julia Sude, 1806.882, 1653.210, 0.7015
+840, Louise Bawden, Taliqua Clancy, Sayaka Mizoe, Takemi Nishibori, 1577.104, 1469.185, 0.6421
+841, Louise Bawden, Taliqua Clancy, Juliana Felisberta, Maria Antonelli, 1582.946, 1800.725, 0.2104
+842, Chantal Laboureur, Julia Sude, Sayaka Mizoe, Takemi Nishibori, 1655.670, 1466.539, 0.7426
+843, Fernanda Alves, Taiana Lima, Barbara Hansel, Stefanie Schwaiger, 1777.447, 1557.970, 0.7723
+844, Ekaterina Birlova, Evgeniya Ukolova, Ilka Semmler, Katrin Holtwick, 1661.164, 1707.213, 0.4277
+845, Fernanda Alves, Taiana Lima, Ekaterina Birlova, Evgeniya Ukolova, 1782.382, 1659.295, 0.6614
+846, Barbara Hansel, Stefanie Schwaiger, Ilka Semmler, Katrin Holtwick, 1569.951, 1705.659, 0.2975
+847, Fernanda Alves, Taiana Lima, Ilka Semmler, Katrin Holtwick, 1787.996, 1704.795, 0.6087
+848, Barbara Hansel, Stefanie Schwaiger, Ekaterina Birlova, Evgeniya Ukolova, 1580.336, 1655.880, 0.3742
+849, Riikka Lehtonen, Taru Lahti, Madelein Meppelink, Marleen Van Iersel, 1571.535, 1751.975, 0.2392
+850, Kira Walkenhorst, Laura Ludwig, Emily Day, Jennifer Kessy, 1726.625, 1607.917, 0.6458
+851, Emily Day, Jennifer Kessy, Madelein Meppelink, Marleen Van Iersel, 1629.738, 1745.128, 0.3038
+852, Riikka Lehtonen, Taru Lahti, Kira Walkenhorst, Laura Ludwig, 1583.258, 1720.960, 0.2905
+853, Kira Walkenhorst, Laura Ludwig, Madelein Meppelink, Marleen Van Iersel, 1725.204, 1739.798, 0.4653
+854, Emily Day, Jennifer Kessy, Riikka Lehtonen, Taru Lahti, 1642.616, 1576.489, 0.5665
+855, Marta Menegatti, Viktoria Orsi Toth, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, 1675.210, 1534.284, 0.6868
+856, Elsa Baquerizo, Liliana Fernandez, Dominika Nestarcova, Natalia Dubovcova, 1665.020, 1561.722, 0.6405
+857, Marta Menegatti, Viktoria Orsi Toth, Dominika Nestarcova, Natalia Dubovcova, 1678.059, 1559.874, 0.6578
+858, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Elsa Baquerizo, Liliana Fernandez, 1538.426, 1663.132, 0.3203
+859, Marta Menegatti, Viktoria Orsi Toth, Elsa Baquerizo, Liliana Fernandez, 1682.007, 1661.813, 0.5215
+860, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Dominika Nestarcova, Natalia Dubovcova, 1541.619, 1557.023, 0.4692
+861, April Ross, Kerri Walsh Jennings, Melissa Humana-Paredes, Taylor Pischke, 1884.513, 1529.312, 0.8834
+862, Britta Buthe, Karla Borger, Tanja Goricanec, Tanja HÌ_berli, 1703.180, 1534.889, 0.7207
+863, April Ross, Kerri Walsh Jennings, Tanja Goricanec, Tanja HÌ_berli, 1886.260, 1533.839, 0.8821
+864, Britta Buthe, Karla Borger, Melissa Humana-Paredes, Taylor Pischke, 1704.242, 1525.673, 0.7312
+865, April Ross, Kerri Walsh Jennings, Britta Buthe, Karla Borger, 1890.050, 1703.221, 0.7403
+866, Tanja Goricanec, Tanja HÌ_berli, Melissa Humana-Paredes, Taylor Pischke, 1538.086, 1519.240, 0.5118
+867, Joana Heidrich, Nadine Zumkehr, Linline Matauatu, Miller Pata, 1576.583, 1445.222, 0.6629
+868, Heather Bansley, Sarah Pavan, Kinga Kolosinska, Monika Brzostek, 1634.573, 1512.716, 0.6626
+869, Joana Heidrich, Nadine Zumkehr, Kinga Kolosinska, Monika Brzostek, 1579.618, 1510.113, 0.5909
+870, Heather Bansley, Sarah Pavan, Linline Matauatu, Miller Pata, 1636.307, 1436.958, 0.7484
+871, Heather Bansley, Sarah Pavan, Joana Heidrich, Nadine Zumkehr, 1639.244, 1576.543, 0.5809
+872, Kinga Kolosinska, Monika Brzostek, Linline Matauatu, Miller Pata, 1512.529, 1424.520, 0.6037
+873, Julia Grossner, Victoria Bieneck, Riikka Lehtonen, Taru Lahti, 1577.045, 1568.530, 0.4952
+874, Louise Bawden, Taliqua Clancy, Tanja Goricanec, Tanja HÌ_berli, 1586.121, 1534.309, 0.5642
+875, Jamie Broder, Kristina May, Britta Buthe, Karla Borger, 1506.194, 1700.211, 0.2383
+876, Emily Day, Jennifer Kessy, Ekaterina Birlova, Evgeniya Ukolova, 1657.622, 1653.124, 0.4809
+877, Elsa Baquerizo, Liliana Fernandez, Joana Heidrich, Nadine Zumkehr, 1662.857, 1573.768, 0.6203
+878, Kinga Kolosinska, Monika Brzostek, Brooke Sweat, Lauren Fendrick, 1516.429, 1595.419, 0.3735
+879, Carolina Salgado, Maria Clara Salgado, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, 1740.899, 1540.167, 0.7585
+880, Barbara Hansel, Stefanie Schwaiger, Chantal Laboureur, Julia Sude, 1590.127, 1650.011, 0.3933
+881, Larissa Franca, Talita Antunes, Julia Grossner, Victoria Bieneck, 1901.826, 1575.997, 0.8647
+882, Louise Bawden, Taliqua Clancy, Marta Menegatti, Viktoria Orsi Toth, 1590.707, 1676.858, 0.3654
+883, Heather Bansley, Sarah Pavan, Jamie Broder, Kristina May, 1641.454, 1504.221, 0.6826
+884, Juliana Felisberta, Maria Antonelli, Emily Day, Jennifer Kessy, 1803.017, 1649.119, 0.6950
+885, Fernanda Alves, Taiana Lima, Elsa Baquerizo, Liliana Fernandez, 1792.605, 1661.967, 0.6727
+886, Kira Walkenhorst, Laura Ludwig, Kinga Kolosinska, Monika Brzostek, 1727.039, 1514.989, 0.7688
+887, April Ross, Kerri Walsh Jennings, Carolina Salgado, Maria Clara Salgado, 1894.328, 1740.349, 0.7024
+888, Agatha Bednarczuk, Barbara Seixas, Barbara Hansel, Stefanie Schwaiger, 1821.999, 1586.772, 0.7903
+889, Larissa Franca, Talita Antunes, Louise Bawden, Taliqua Clancy, 1904.433, 1589.681, 0.8570
+890, Heather Bansley, Sarah Pavan, Juliana Felisberta, Maria Antonelli, 1646.402, 1797.532, 0.2829
+891, Fernanda Alves, Taiana Lima, Kira Walkenhorst, Laura Ludwig, 1798.182, 1723.887, 0.5933
+892, April Ross, Kerri Walsh Jennings, Agatha Bednarczuk, Barbara Seixas, 1899.891, 1819.453, 0.6026
+893, Larissa Franca, Talita Antunes, Heather Bansley, Sarah Pavan, 1907.744, 1645.144, 0.8154
+894, Fernanda Alves, Taiana Lima, April Ross, Kerri Walsh Jennings, 1806.769, 1891.140, 0.3577
+895, Heather Bansley, Sarah Pavan, April Ross, Kerri Walsh Jennings, 1650.611, 1880.182, 0.1953
+896, Larissa Franca, Talita Antunes, Fernanda Alves, Taiana Lima, 1913.955, 1802.081, 0.6414
+897, Hiroko Matsuyama, Miyuki Matsumura, Erika Habaguchi, Sakurako Fujii, 1202.578, 1377.999, 0.1161
+898, Barbora Hermannova, Martina Bonnerova, Chiyo Suzuki, Satono Ishitsubo, 1470.612, 1406.026, 0.4536
+899, Maria Tsiartsiani, Vasiliki Arvaniti, Minori Kumada, Samaa Miyagawa, 1624.754, 1441.608, 0.6710
+900, Xinyi Xia, Yuanyuan Ma, Keiko Onoda, Mai Tanaka, 1484.620, 1409.544, 0.4594
+901, Megumi Murakami, Miki Ishii, Keiko Urata, Satoko Urata, 1496.082, 1411.198, 0.3986
+902, Fernanda Alves, Taiana Lima, Hiroko Matsuyama, Miyuki Matsumura, 1802.487, 1200.332, 0.9693
+903, Lane Carico, Summer Ross, Anni Schumacher, Sandra Seyfferth, 1561.757, 1394.154, 0.6215
+904, Tanja Goricanec, Tanja HÌ_berli, Barbora Hermannova, Martina Bonnerova, 1537.816, 1467.733, 0.5907
+905, Maria Tsiartsiani, Vasiliki Arvaniti, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, 1626.165, 1537.904, 0.6194
+906, Ilka Semmler, Katrin Holtwick, Xinyi Xia, Yuanyuan Ma, 1705.274, 1477.880, 0.7803
+907, Riikka Lehtonen, Taru Lahti, Irina Tsimbalova, Tatyana Mashkova, 1573.392, 1430.288, 0.6865
+908, Barbara Hansel, Stefanie Schwaiger, Ekaterina Syrtseva, Maria Prokopeva, 1591.103, 1417.594, 0.7175
+909, Carolina Salgado, Maria Clara Salgado, Megumi Murakami, Miki Ishii, 1740.675, 1470.456, 0.8032
+910, Larissa Franca, Talita Antunes, Akiko Hasegawa, Yui Nagata, 1914.736, 1381.400, 0.9535
+911, April Ross, Jennifer Fopma, Chantal Laboureur, Julia Sude, 1655.005, 1645.361, 0.4290
+912, Larissa Franca, Talita Antunes, Chantal Laboureur, Julia Sude, 1917.741, 1643.747, 0.8250
+913, April Ross, Jennifer Fopma, Akiko Hasegawa, Yui Nagata, 1668.664, 1357.430, 0.8285
+914, Larissa Franca, Talita Antunes, April Ross, Jennifer Fopma, 1920.778, 1652.736, 0.8075
+915, Chantal Laboureur, Julia Sude, Akiko Hasegawa, Yui Nagata, 1645.089, 1335.789, 0.8386
+916, Agatha Bednarczuk, Barbara Seixas, Ayumi Kusano, Shinako Tanaka, 1820.227, 1471.661, 0.8764
+917, Jamie Broder, Kristina May, Ilka Semmler, Katrin Holtwick, 1508.951, 1703.579, 0.2391
+918, Agatha Bednarczuk, Barbara Seixas, Jamie Broder, Kristina May, 1821.148, 1508.069, 0.8572
+919, Ilka Semmler, Katrin Holtwick, Ayumi Kusano, Shinako Tanaka, 1704.019, 1459.567, 0.7917
+920, Agatha Bednarczuk, Barbara Seixas, Ilka Semmler, Katrin Holtwick, 1823.312, 1703.272, 0.6625
+921, Jamie Broder, Kristina May, Ayumi Kusano, Shinako Tanaka, 1510.519, 1436.602, 0.5693
+922, Juliana Felisberta, Maria Antonelli, Maria Tsiartsiani, Vasiliki Arvaniti, 1799.599, 1625.163, 0.7284
+923, Ekaterina Birlova, Evgeniya Ukolova, Carolina Salgado, Maria Clara Salgado, 1656.544, 1739.515, 0.3766
+924, Juliana Felisberta, Maria Antonelli, Ekaterina Birlova, Evgeniya Ukolova, 1801.894, 1654.893, 0.6950
+925, Maria Tsiartsiani, Vasiliki Arvaniti, Carolina Salgado, Maria Clara Salgado, 1627.597, 1738.289, 0.3411
+926, Carolina Salgado, Maria Clara Salgado, Juliana Felisberta, Maria Antonelli, 1739.379, 1797.480, 0.4095
+927, Maria Tsiartsiani, Vasiliki Arvaniti, Ekaterina Birlova, Evgeniya Ukolova, 1629.568, 1651.985, 0.4608
+928, Fernanda Alves, Taiana Lima, Ekaterina Syrtseva, Maria Prokopeva, 1803.774, 1415.083, 0.9016
+929, Brooke Sweat, Lauren Fendrick, Fan Wang, Yuan Yue, 1601.799, 1649.131, 0.4174
+930, Fernanda Alves, Taiana Lima, Brooke Sweat, Lauren Fendrick, 1806.855, 1599.229, 0.7618
+931, Fan Wang, Yuan Yue, Ekaterina Syrtseva, Maria Prokopeva, 1650.592, 1409.940, 0.7937
+932, Fan Wang, Yuan Yue, Fernanda Alves, Taiana Lima, 1655.626, 1797.773, 0.2891
+933, Brooke Sweat, Lauren Fendrick, Ekaterina Syrtseva, Maria Prokopeva, 1601.879, 1403.860, 0.7483
+934, Madelein Meppelink, Marleen Van Iersel, Lane Carico, Summer Ross, 1741.996, 1522.671, 0.7359
+935, Kinga Kolosinska, Monika Brzostek, Elsa Baquerizo, Liliana Fernandez, 1519.337, 1660.050, 0.3003
+936, Madelein Meppelink, Marleen Van Iersel, Kinga Kolosinska, Monika Brzostek, 1744.132, 1518.004, 0.7827
+937, Lane Carico, Summer Ross, Elsa Baquerizo, Liliana Fernandez, 1609.329, 1658.453, 0.3120
+938, Madelein Meppelink, Marleen Van Iersel, Elsa Baquerizo, Liliana Fernandez, 1747.820, 1657.427, 0.6209
+939, Kinga Kolosinska, Monika Brzostek, Lane Carico, Summer Ross, 1521.309, 1541.912, 0.3715
+940, Heather Bansley, Sarah Pavan, Riikka Lehtonen, Taru Lahti, 1653.218, 1567.465, 0.6093
+941, Kira Walkenhorst, Laura Ludwig, Emily Day, Jennifer Kessy, 1726.854, 1638.550, 0.6060
+942, Heather Bansley, Sarah Pavan, Emily Day, Jennifer Kessy, 1656.330, 1626.169, 0.5211
+943, Kira Walkenhorst, Laura Ludwig, Riikka Lehtonen, Taru Lahti, 1729.027, 1563.209, 0.7145
+944, Heather Bansley, Sarah Pavan, Kira Walkenhorst, Laura Ludwig, 1660.323, 1724.444, 0.3969
+945, Emily Day, Jennifer Kessy, Riikka Lehtonen, Taru Lahti, 1636.302, 1557.369, 0.5896
+946, Joana Heidrich, Nadine Zumkehr, Marta Menegatti, Viktoria Orsi Toth, 1578.399, 1671.686, 0.3558
+947, Britta Buthe, Karla Borger, Dominika Nestarcova, Natalia Dubovcova, 1701.410, 1555.390, 0.6951
+948, Dominika Nestarcova, Natalia Dubovcova, Marta Menegatti, Viktoria Orsi Toth, 1558.889, 1666.415, 0.3386
+949, Joana Heidrich, Nadine Zumkehr, Britta Buthe, Karla Borger, 1583.199, 1698.795, 0.3300
+950, Britta Buthe, Karla Borger, Marta Menegatti, Viktoria Orsi Toth, 1700.552, 1662.837, 0.5465
+951, Joana Heidrich, Nadine Zumkehr, Dominika Nestarcova, Natalia Dubovcova, 1586.488, 1556.447, 0.5349
+952, Sayaka Mizoe, Takemi Nishibori, Tanja Goricanec, Tanja HÌ_berli, 1472.625, 1532.747, 0.3988
+953, Louise Bawden, Taliqua Clancy, Linline Matauatu, Miller Pata, 1591.620, 1416.074, 0.7213
+954, Sayaka Mizoe, Takemi Nishibori, Linline Matauatu, Miller Pata, 1476.688, 1403.953, 0.5807
+955, Louise Bawden, Taliqua Clancy, Tanja Goricanec, Tanja HÌ_berli, 1594.556, 1529.265, 0.5839
+956, Louise Bawden, Taliqua Clancy, Sayaka Mizoe, Takemi Nishibori, 1596.907, 1473.361, 0.6634
+957, Linline Matauatu, Miller Pata, Tanja Goricanec, Tanja HÌ_berli, 1422.781, 1523.837, 0.3271
+958, Fan Wang, Yuan Yue, Kinga Kolosinska, Monika Brzostek, 1657.860, 1519.398, 0.6842
+959, Kira Walkenhorst, Laura Ludwig, Chantal Laboureur, Julia Sude, 1727.351, 1641.566, 0.6123
+960, April Ross, Jennifer Fopma, Emily Day, Jennifer Kessy, 1687.334, 1625.921, 0.5236
+961, Lane Carico, Summer Ross, Maria Tsiartsiani, Vasiliki Arvaniti, 1600.501, 1627.572, 0.3765
+962, Fernanda Alves, Taiana Lima, Dominika Nestarcova, Natalia Dubovcova, 1800.302, 1555.406, 0.8005
+963, Jamie Broder, Kristina May, Linline Matauatu, Miller Pata, 1512.732, 1412.611, 0.6236
+964, Britta Buthe, Karla Borger, Ilka Semmler, Katrin Holtwick, 1702.509, 1702.158, 0.4961
+965, Sayaka Mizoe, Takemi Nishibori, Ekaterina Birlova, Evgeniya Ukolova, 1480.585, 1648.060, 0.2634
+966, Larissa Franca, Talita Antunes, Fan Wang, Yuan Yue, 1923.794, 1656.600, 0.8196
+967, Kira Walkenhorst, Laura Ludwig, Louise Bawden, Taliqua Clancy, 1729.741, 1594.679, 0.6794
+968, April Ross, Jennifer Fopma, Joana Heidrich, Nadine Zumkehr, 1711.680, 1584.183, 0.6412
+969, Brooke Sweat, Lauren Fendrick, Lane Carico, Summer Ross, 1606.557, 1559.659, 0.5020
+970, Fernanda Alves, Taiana Lima, Juliana Felisberta, Maria Antonelli, 1806.439, 1793.867, 0.5041
+971, Heather Bansley, Sarah Pavan, Jamie Broder, Kristina May, 1662.296, 1510.931, 0.7005
+972, Madelein Meppelink, Marleen Van Iersel, Britta Buthe, Karla Borger, 1751.988, 1700.846, 0.5648
+973, Agatha Bednarczuk, Barbara Seixas, Sayaka Mizoe, Takemi Nishibori, 1824.089, 1479.392, 0.8779
+974, Kira Walkenhorst, Laura Ludwig, Larissa Franca, Talita Antunes, 1735.263, 1911.445, 0.2466
+975, April Ross, Jennifer Fopma, Brooke Sweat, Lauren Fendrick, 1733.590, 1603.144, 0.6468
+976, Heather Bansley, Sarah Pavan, Fernanda Alves, Taiana Lima, 1666.813, 1797.927, 0.3037
+977, Agatha Bednarczuk, Barbara Seixas, Madelein Meppelink, Marleen Van Iersel, 1826.580, 1748.240, 0.6023
+978, Kira Walkenhorst, Laura Ludwig, April Ross, Jennifer Fopma, 1738.635, 1705.166, 0.5024
+979, Agatha Bednarczuk, Barbara Seixas, Heather Bansley, Sarah Pavan, 1828.362, 1664.964, 0.7150
+980, Heather Bansley, Sarah Pavan, April Ross, Jennifer Fopma, 1668.303, 1675.665, 0.4424
+981, Kira Walkenhorst, Laura Ludwig, Agatha Bednarczuk, Barbara Seixas, 1743.179, 1824.487, 0.3737
+982, Anastasia Barsuk, Maria Prokopeva, Jolien Sinnema, Rimke Braakman, 1574.888, 1452.661, 0.5440
+983, Barbora Hermannova, Marketa Slukova, Caleigh Whitaker, Kacie MacTavish, 1564.023, 1403.157, 0.6285
+984, Lane Carico, Summer Ross, Xinyi Xia, Yuanyuan Ma, 1587.372, 1467.650, 0.6156
+985, Ali McColloch, Emily Stockman, Melissa Humana-Paredes, Taylor Pischke, 1444.532, 1511.139, 0.2792
+986, Jantine van der Vlist, Sophie van Gestel, Caitlin Ledoux, Irene Pollock, 1473.147, 1348.281, 0.6254
+987, Amanda Dowdy, Heather McGuire, Sayaka Mizoe, Takemi Nishibori, 1586.194, 1476.019, 0.5764
+988, Tanja Goricanec, Tanja HÌ_berli, Kelly Claes, Sara Hughes, 1526.741, 1420.075, 0.5343
+989, Ana Gallay, Georgina Klug, Angela Bensend, Geena Urango, 1580.480, 1373.576, 0.7210
+990, Kendra VanZwieten, Kim DiCello, Amaranta Navarro, Ester Ribera, 1525.606, 1298.983, 0.7390
+991, Brandie Wilkerson, Julie Gordon, Giulia Momoli, Greta Cicolari, 1349.092, 1369.293, 0.2463
+992, Jenny Kropp, Nicole Branagh, Riikka Lehtonen, Taru Lahti, 1529.400, 1549.513, 0.3729
+993, Barbara Hansel, Stefanie Schwaiger, Olaya Pazo, Rebeca Pazo, 1595.520, 1435.670, 0.6282
+994, Julia Grossner, Victoria Bieneck, Ana Rios, Bibiana Candelas, 1578.318, 1431.910, 0.6077
+995, Irina Tsimbalova, Tatyana Mashkova, Gabi Brito, Norisbeth Agudo, 1432.117, 1263.119, 0.6987
+996, Carolina Salgado, Maria Clara Salgado, Betsi Flint, Kelley Larsen, 1739.688, 1461.840, 0.7987
+997, Anastasia Barsuk, Maria Prokopeva, Fernanda Alves, Taiana Lima, 1691.430, 1789.779, 0.2169
+998, Lane Carico, Summer Ross, Barbora Hermannova, Marketa Slukova, 1613.111, 1503.389, 0.5336
+999, Jantine van der Vlist, Sophie van Gestel, Ali McColloch, Emily Stockman, 1494.880, 1398.581, 0.5411
+1000, Tanja Goricanec, Tanja HÌ_berli, Amanda Dowdy, Heather McGuire, 1530.816, 1523.504, 0.4153
+1001, Kendra VanZwieten, Kim DiCello, Ana Gallay, Georgina Klug, 1587.559, 1577.015, 0.4217
+1002, Jenny Kropp, Nicole Branagh, Brandie Wilkerson, Julie Gordon, 1551.638, 1333.366, 0.7385
+1003, Julia Grossner, Victoria Bieneck, Barbara Hansel, Stefanie Schwaiger, 1582.272, 1587.620, 0.4753
+1004, Irina Tsimbalova, Tatyana Mashkova, Carolina Salgado, Maria Clara Salgado, 1437.754, 1738.106, 0.1455
+1005, Agatha Bednarczuk, Barbara Seixas, Anastasia Barsuk, Maria Prokopeva, 1826.145, 1651.453, 0.6826
+1006, Emily Day, Jennifer Kessy, Kinga Kolosinska, Monika Brzostek, 1634.170, 1517.335, 0.6487
+1007, Agatha Bednarczuk, Barbara Seixas, Emily Day, Jennifer Kessy, 1827.642, 1628.466, 0.7512
+1008, Kinga Kolosinska, Monika Brzostek, Anastasia Barsuk, Maria Prokopeva, 1520.891, 1576.953, 0.3160
+1009, Agatha Bednarczuk, Barbara Seixas, Kinga Kolosinska, Monika Brzostek, 1828.535, 1520.019, 0.8539
+1010, Emily Day, Jennifer Kessy, Anastasia Barsuk, Maria Prokopeva, 1636.758, 1537.530, 0.5736
+1011, Larissa Franca, Talita Antunes, Jenny Kropp, Nicole Branagh, 1913.186, 1541.963, 0.8881
+1012, Chantal Laboureur, Julia Sude, Jamie Broder, Kristina May, 1644.453, 1509.025, 0.6796
+1013, Larissa Franca, Talita Antunes, Chantal Laboureur, Julia Sude, 1916.001, 1642.892, 0.8245
+1014, Jamie Broder, Kristina May, Jenny Kropp, Nicole Branagh, 1511.932, 1499.815, 0.4527
+1015, Larissa Franca, Talita Antunes, Jamie Broder, Kristina May, 1917.424, 1511.406, 0.9110
+1016, Chantal Laboureur, Julia Sude, Jenny Kropp, Nicole Branagh, 1645.378, 1478.390, 0.6950
+1017, Juliana Felisberta, Maria Antonelli, Kendra VanZwieten, Kim DiCello, 1795.416, 1564.968, 0.7663
+1018, Ilka Semmler, Katrin Holtwick, Dominika Nestarcova, Natalia Dubovcova, 1702.820, 1553.833, 0.6995
+1019, Juliana Felisberta, Maria Antonelli, Dominika Nestarcova, Natalia Dubovcova, 1796.867, 1552.800, 0.8007
+1020, Ilka Semmler, Katrin Holtwick, Kendra VanZwieten, Kim DiCello, 1703.435, 1537.954, 0.6886
+1021, Ilka Semmler, Katrin Holtwick, Juliana Felisberta, Maria Antonelli, 1704.815, 1792.306, 0.3687
+1022, Dominika Nestarcova, Natalia Dubovcova, Kendra VanZwieten, Kim DiCello, 1555.007, 1501.189, 0.5214
+1023, Heather Bansley, Sarah Pavan, Irina Tsimbalova, Tatyana Mashkova, 1669.645, 1436.387, 0.7904
+1024, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Brooke Sweat, Lauren Fendrick, 1541.367, 1597.040, 0.4072
+1025, Heather Bansley, Sarah Pavan, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, 1671.695, 1539.480, 0.6767
+1026, Brooke Sweat, Lauren Fendrick, Irina Tsimbalova, Tatyana Mashkova, 1599.931, 1434.559, 0.7160
+1027, Heather Bansley, Sarah Pavan, Brooke Sweat, Lauren Fendrick, 1674.181, 1595.938, 0.6018
+1028, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Irina Tsimbalova, Tatyana Mashkova, 1541.526, 1432.293, 0.6466
+1029, Madelein Meppelink, Marleen Van Iersel, Jantine van der Vlist, Sophie van Gestel, 1749.936, 1484.898, 0.8113
+1030, Fan Wang, Yuan Yue, Joana Heidrich, Nadine Zumkehr, 1659.361, 1581.429, 0.6027
+1031, Madelein Meppelink, Marleen Van Iersel, Joana Heidrich, Nadine Zumkehr, 1752.481, 1579.541, 0.7251
+1032, Fan Wang, Yuan Yue, Jantine van der Vlist, Sophie van Gestel, 1661.122, 1471.511, 0.7319
+1033, Madelein Meppelink, Marleen Van Iersel, Fan Wang, Yuan Yue, 1755.872, 1658.590, 0.6285
+1034, Joana Heidrich, Nadine Zumkehr, Jantine van der Vlist, Sophie van Gestel, 1581.797, 1455.153, 0.6506
+1035, Lane Carico, Summer Ross, Kira Walkenhorst, Laura Ludwig, 1655.958, 1738.647, 0.3211
+1036, Elsa Baquerizo, Liliana Fernandez, Linline Matauatu, Miller Pata, 1657.951, 1407.403, 0.8037
+1037, Kira Walkenhorst, Laura Ludwig, Linline Matauatu, Miller Pata, 1739.565, 1404.038, 0.8707
+1038, Elsa Baquerizo, Liliana Fernandez, Lane Carico, Summer Ross, 1659.192, 1627.058, 0.5029
+1039, Kira Walkenhorst, Laura Ludwig, Elsa Baquerizo, Liliana Fernandez, 1742.318, 1658.153, 0.6136
+1040, Linline Matauatu, Miller Pata, Lane Carico, Summer Ross, 1422.947, 1584.842, 0.2169
+1041, Brittany Hochevar, Jennifer Fopma, Louise Bawden, Taliqua Clancy, 1645.042, 1591.709, 0.5335
+1042, Carolina Salgado, Maria Clara Salgado, Tanja Goricanec, Tanja HÌ_berli, 1738.535, 1528.925, 0.7673
+1043, Louise Bawden, Taliqua Clancy, Tanja Goricanec, Tanja HÌ_berli, 1594.504, 1525.650, 0.5894
+1044, Carolina Salgado, Maria Clara Salgado, Brittany Hochevar, Jennifer Fopma, 1739.168, 1625.067, 0.6314
+1045, Louise Bawden, Taliqua Clancy, Carolina Salgado, Maria Clara Salgado, 1599.251, 1737.890, 0.3031
+1046, Brittany Hochevar, Jennifer Fopma, Tanja Goricanec, Tanja HÌ_berli, 1643.164, 1522.968, 0.6393
+1047, April Ross, Kerri Walsh Jennings, Julia Grossner, Victoria Bieneck, 1882.240, 1581.115, 0.8475
+1048, Marta Menegatti, Viktoria Orsi Toth, Carolina Horta, Liliane Maestrini, 1666.253, 1617.690, 0.5531
+1049, April Ross, Kerri Walsh Jennings, Carolina Horta, Liliane Maestrini, 1884.605, 1614.503, 0.8210
+1050, Marta Menegatti, Viktoria Orsi Toth, Julia Grossner, Victoria Bieneck, 1669.172, 1578.266, 0.6201
+1051, April Ross, Kerri Walsh Jennings, Marta Menegatti, Viktoria Orsi Toth, 1887.552, 1667.466, 0.7756
+1052, Julia Grossner, Victoria Bieneck, Carolina Horta, Liliane Maestrini, 1582.303, 1604.914, 0.4480
+1053, Linline Matauatu, Miller Pata, Marta Menegatti, Viktoria Orsi Toth, 1442.852, 1661.456, 0.1966
+1054, Juliana Felisberta, Maria Antonelli, Jamie Broder, Kristina May, 1793.494, 1510.430, 0.8344
+1055, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Joana Heidrich, Nadine Zumkehr, 1544.724, 1578.026, 0.4423
+1056, Chantal Laboureur, Julia Sude, Carolina Salgado, Maria Clara Salgado, 1650.919, 1736.743, 0.3699
+1057, Emily Day, Jennifer Kessy, Julia Grossner, Victoria Bieneck, 1645.855, 1579.263, 0.5777
+1058, Kinga Kolosinska, Monika Brzostek, Fan Wang, Yuan Yue, 1524.087, 1653.906, 0.3105
+1059, Elsa Baquerizo, Liliana Fernandez, Dominika Nestarcova, Natalia Dubovcova, 1659.109, 1553.180, 0.6442
+1060, Brittany Hochevar, Jennifer Fopma, Brooke Sweat, Lauren Fendrick, 1663.356, 1591.909, 0.5675
+1061, Linline Matauatu, Miller Pata, Agatha Bednarczuk, Barbara Seixas, 1465.007, 1823.082, 0.0980
+1062, Kira Walkenhorst, Laura Ludwig, Juliana Felisberta, Maria Antonelli, 1746.336, 1789.447, 0.4269
+1063, April Ross, Kerri Walsh Jennings, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, 1889.149, 1544.025, 0.8780
+1064, Heather Bansley, Sarah Pavan, Chantal Laboureur, Julia Sude, 1677.074, 1646.893, 0.5334
+1065, Ilka Semmler, Katrin Holtwick, Emily Day, Jennifer Kessy, 1705.703, 1637.093, 0.5840
+1066, Louise Bawden, Taliqua Clancy, Kinga Kolosinska, Monika Brzostek, 1601.891, 1521.786, 0.6065
+1067, Elsa Baquerizo, Liliana Fernandez, Madelein Meppelink, Marleen Van Iersel, 1660.803, 1750.105, 0.3642
+1068, Larissa Franca, Talita Antunes, Brittany Hochevar, Jennifer Fopma, 1920.281, 1654.919, 0.8119
+1069, Kira Walkenhorst, Laura Ludwig, Linline Matauatu, Miller Pata, 1747.477, 1461.035, 0.8347
+1070, April Ross, Kerri Walsh Jennings, Heather Bansley, Sarah Pavan, 1892.082, 1675.671, 0.7722
+1071, Louise Bawden, Taliqua Clancy, Ilka Semmler, Katrin Holtwick, 1606.204, 1704.300, 0.3549
+1072, Larissa Franca, Talita Antunes, Elsa Baquerizo, Liliana Fernandez, 1923.136, 1660.316, 0.8166
+1073, April Ross, Kerri Walsh Jennings, Kira Walkenhorst, Laura Ludwig, 1895.917, 1745.393, 0.6969
+1074, Larissa Franca, Talita Antunes, Louise Bawden, Taliqua Clancy, 1925.272, 1605.287, 0.8611
+1075, Kira Walkenhorst, Laura Ludwig, Louise Bawden, Taliqua Clancy, 1747.513, 1603.261, 0.6914
+1076, Larissa Franca, Talita Antunes, April Ross, Kerri Walsh Jennings, 1932.069, 1890.301, 0.5421
+1077, Kendra VanZwieten, Kim DiCello, Sayaka Mizoe, Takemi Nishibori, 1533.105, 1472.019, 0.5362
+1078, Barbara Hansel, Stefanie Schwaiger, Xinyi Xia, Yuanyuan Ma, 1592.427, 1458.293, 0.6661
+1079, Tanja Goricanec, Tanja HÌ_berli, Marta Pietroczuk, Paulina Stasiak, 1525.743, 1419.835, 0.5330
+1080, Jantine van der Vlist, Sophie van Gestel, Camilla Nilsson, Tadva Yoken, 1469.935, 1334.499, 0.6386
+1081, Katharina Schutzenhofer, Lena Plesiutschnig, Anastasia Barsuk, Maria Prokopeva, 1423.273, 1481.423, 0.3275
+1082, Irina Tsimbalova, Tatyana Mashkova, Cindy Treland, Janne Kongshavn, 1435.420, 1422.703, 0.4129
+1083, Barbora Hermannova, Marketa Slukova, Jolien Sinnema, Rimke Braakman, 1551.806, 1436.327, 0.5725
+1084, Riikka Lehtonen, Taru Lahti, Agnieszka Adamek, Kinga Legieta, 1554.140, 1426.528, 0.5708
+1085, Inese Jursone, Tina Graudina, Lane Carico, Summer Ross, 1602.855, 1560.146, 0.3803
+1086, Giulia Momoli, Greta Cicolari, Angela Lobato, Paula Soria, 1469.909, 1486.529, 0.3218
+1087, Fernanda Alves, Taiana Lima, Kendra VanZwieten, Kim DiCello, 1791.895, 1521.007, 0.8142
+1088, Tanja Goricanec, Tanja HÌ_berli, Barbara Hansel, Stefanie Schwaiger, 1530.301, 1583.813, 0.4052
+1089, Jantine van der Vlist, Sophie van Gestel, Britta Buthe, Katarina Schillerwein, 1487.360, 1410.199, 0.4568
+1090, Linline Matauatu, Miller Pata, Katharina Schutzenhofer, Lena Plesiutschnig, 1471.203, 1415.738, 0.5541
+1091, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Irina Tsimbalova, Tatyana Mashkova, 1546.005, 1433.219, 0.6514
+1092, Brittany Hochevar, Jennifer Fopma, Barbora Hermannova, Marketa Slukova, 1668.190, 1516.506, 0.6442
+1093, Riikka Lehtonen, Taru Lahti, Inese Jursone, Tina Graudina, 1560.535, 1522.949, 0.4303
+1094, Carolina Salgado, Maria Clara Salgado, Giulia Momoli, Greta Cicolari, 1737.032, 1445.978, 0.8229
+1095, Larissa Franca, Talita Antunes, Agata Trybula, Martyna Kloda, 1933.123, 1483.933, 0.9232
+1096, Ekaterina Birlova, Evgeniya Ukolova, Carolina Salgado, Maria Clara Salgado, 1651.397, 1735.892, 0.3747
+1097, Larissa Franca, Talita Antunes, Carolina Salgado, Maria Clara Salgado, 1936.714, 1735.453, 0.7568
+1098, Ekaterina Birlova, Evgeniya Ukolova, Agata Trybula, Martyna Kloda, 1652.580, 1437.362, 0.7239
+1099, Larissa Franca, Talita Antunes, Ekaterina Birlova, Evgeniya Ukolova, 1939.090, 1651.725, 0.8369
+1100, Carolina Salgado, Maria Clara Salgado, Agata Trybula, Martyna Kloda, 1735.701, 1414.423, 0.8476
+1101, Agatha Bednarczuk, Barbara Seixas, Aleksandra Stepien, Maria Wloch, 1823.794, 1473.225, 0.8653
+1102, Fan Wang, Yuan Yue, Emily Day, Jennifer Kessy, 1657.036, 1627.427, 0.5242
+1103, Agatha Bednarczuk, Barbara Seixas, Emily Day, Jennifer Kessy, 1825.242, 1622.557, 0.7559
+1104, Fan Wang, Yuan Yue, Aleksandra Stepien, Maria Wloch, 1658.460, 1431.326, 0.7423
+1105, Agatha Bednarczuk, Barbara Seixas, Fan Wang, Yuan Yue, 1826.896, 1656.622, 0.7231
+1106, Emily Day, Jennifer Kessy, Aleksandra Stepien, Maria Wloch, 1626.740, 1397.203, 0.7504
+1107, Heather Bansley, Sarah Pavan, Maria Tsiartsiani, Vasiliki Arvaniti, 1678.324, 1626.012, 0.5688
+1108, Brooke Sweat, Lauren Fendrick, Jamie Broder, Kristina May, 1595.669, 1508.197, 0.6152
+1109, Heather Bansley, Sarah Pavan, Jamie Broder, Kristina May, 1679.989, 1506.614, 0.7270
+1110, Maria Tsiartsiani, Vasiliki Arvaniti, Brooke Sweat, Lauren Fendrick, 1627.647, 1591.258, 0.5436
+1111, Brooke Sweat, Lauren Fendrick, Heather Bansley, Sarah Pavan, 1597.203, 1676.232, 0.3750
+1112, Jamie Broder, Kristina May, Maria Tsiartsiani, Vasiliki Arvaniti, 1510.466, 1625.252, 0.3325
+1113, Jantine van der Vlist, Sophie van Gestel, Juliana Felisberta, Maria Antonelli, 1522.348, 1783.593, 0.1494
+1114, Ilka Semmler, Katrin Holtwick, Chantal Laboureur, Julia Sude, 1705.204, 1643.307, 0.5819
+1115, Juliana Felisberta, Maria Antonelli, Chantal Laboureur, Julia Sude, 1785.740, 1640.704, 0.6916
+1116, Jantine van der Vlist, Sophie van Gestel, Ilka Semmler, Katrin Holtwick, 1551.593, 1703.657, 0.2587
+1117, Juliana Felisberta, Maria Antonelli, Ilka Semmler, Katrin Holtwick, 1788.409, 1702.829, 0.6160
+1118, Jantine van der Vlist, Sophie van Gestel, Chantal Laboureur, Julia Sude, 1574.825, 1635.702, 0.3745
+1119, Kira Walkenhorst, Laura Ludwig, Tanja Goricanec, Tanja HÌ_berli, 1749.032, 1528.585, 0.7774
+1120, Elsa Baquerizo, Liliana Fernandez, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, 1661.224, 1544.072, 0.6588
+1121, Kira Walkenhorst, Laura Ludwig, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, 1750.628, 1542.753, 0.7649
+1122, Elsa Baquerizo, Liliana Fernandez, Tanja Goricanec, Tanja HÌ_berli, 1662.065, 1526.150, 0.6821
+1123, Kira Walkenhorst, Laura Ludwig, Elsa Baquerizo, Liliana Fernandez, 1753.158, 1661.075, 0.6248
+1124, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Tanja Goricanec, Tanja HÌ_berli, 1545.394, 1522.559, 0.5239
+1125, Riikka Lehtonen, Taru Lahti, Fernanda Alves, Taiana Lima, 1571.384, 1782.572, 0.2089
+1126, Linline Matauatu, Miller Pata, Marta Menegatti, Viktoria Orsi Toth, 1488.157, 1655.907, 0.2506
+1127, Fernanda Alves, Taiana Lima, Linline Matauatu, Miller Pata, 1784.378, 1484.708, 0.8449
+1128, Marta Menegatti, Viktoria Orsi Toth, Riikka Lehtonen, Taru Lahti, 1658.716, 1566.253, 0.6193
+1129, Fernanda Alves, Taiana Lima, Marta Menegatti, Viktoria Orsi Toth, 1788.151, 1656.319, 0.6733
+1130, Riikka Lehtonen, Taru Lahti, Linline Matauatu, Miller Pata, 1571.247, 1476.482, 0.6152
+1131, Brittany Hochevar, Jennifer Fopma, Madelein Meppelink, Marleen Van Iersel, 1693.051, 1744.872, 0.3843
+1132, April Ross, Kerri Walsh Jennings, Joana Heidrich, Nadine Zumkehr, 1892.059, 1577.069, 0.8579
+1133, Madelein Meppelink, Marleen Van Iersel, Joana Heidrich, Nadine Zumkehr, 1747.309, 1575.232, 0.7243
+1134, April Ross, Kerri Walsh Jennings, Brittany Hochevar, Jennifer Fopma, 1894.898, 1683.712, 0.7587
+1135, Madelein Meppelink, Marleen Van Iersel, April Ross, Kerri Walsh Jennings, 1753.393, 1886.516, 0.2995
+1136, Joana Heidrich, Nadine Zumkehr, Brittany Hochevar, Jennifer Fopma, 1579.369, 1659.626, 0.3488
+1137, Kinga Kolosinska, Monika Brzostek, Dominika Nestarcova, Natalia Dubovcova, 1524.954, 1550.416, 0.4549
+1138, Ana Gallay, Georgina Klug, Louise Bawden, Taliqua Clancy, 1580.739, 1599.770, 0.4623
+1139, Kinga Kolosinska, Monika Brzostek, Ana Gallay, Georgina Klug, 1528.287, 1576.758, 0.4204
+1140, Dominika Nestarcova, Natalia Dubovcova, Louise Bawden, Taliqua Clancy, 1553.287, 1596.088, 0.4294
+1141, Kinga Kolosinska, Monika Brzostek, Louise Bawden, Taliqua Clancy, 1531.691, 1592.277, 0.4036
+1142, Ana Gallay, Georgina Klug, Dominika Nestarcova, Natalia Dubovcova, 1579.932, 1550.959, 0.5337
+1143, Carolina Salgado, Maria Clara Salgado, Elsa Baquerizo, Liliana Fernandez, 1736.418, 1660.032, 0.6058
+1144, Ilka Semmler, Katrin Holtwick, Ekaterina Birlova, Evgeniya Ukolova, 1703.749, 1649.485, 0.5730
+1145, Heather Bansley, Sarah Pavan, Linline Matauatu, Miller Pata, 1677.655, 1471.394, 0.7595
+1146, Joana Heidrich, Nadine Zumkehr, Fernanda Alves, Taiana Lima, 1584.410, 1779.349, 0.2311
+1147, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Fan Wang, Yuan Yue, 1549.007, 1652.312, 0.3452
+1148, April Ross, Kerri Walsh Jennings, Dominika Nestarcova, Natalia Dubovcova, 1888.030, 1550.328, 0.8734
+1149, Jamie Broder, Kristina May, Ana Gallay, Georgina Klug, 1513.877, 1575.898, 0.4013
+1150, Emily Day, Jennifer Kessy, Juliana Felisberta, Maria Antonelli, 1640.453, 1783.561, 0.2828
+1151, Agatha Bednarczuk, Barbara Seixas, Carolina Salgado, Maria Clara Salgado, 1829.115, 1735.745, 0.6273
+1152, Madelein Meppelink, Marleen Van Iersel, Ilka Semmler, Katrin Holtwick, 1757.117, 1702.832, 0.5710
+1153, Kinga Kolosinska, Monika Brzostek, Heather Bansley, Sarah Pavan, 1535.659, 1673.487, 0.3015
+1154, Brooke Sweat, Lauren Fendrick, Joana Heidrich, Nadine Zumkehr, 1601.716, 1581.287, 0.5184
+1155, Jantine van der Vlist, Sophie van Gestel, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, 1591.205, 1546.580, 0.5371
+1156, April Ross, Kerri Walsh Jennings, Riikka Lehtonen, Taru Lahti, 1889.670, 1569.419, 0.8610
+1157, Jamie Broder, Kristina May, Kira Walkenhorst, Laura Ludwig, 1518.418, 1747.816, 0.2014
+1158, Larissa Franca, Talita Antunes, Emily Day, Jennifer Kessy, 1941.258, 1637.595, 0.8480
+1159, Madelein Meppelink, Marleen Van Iersel, Agatha Bednarczuk, Barbara Seixas, 1762.255, 1825.591, 0.3978
+1160, Kinga Kolosinska, Monika Brzostek, Brooke Sweat, Lauren Fendrick, 1538.986, 1596.213, 0.4061
+1161, Jantine van der Vlist, Sophie van Gestel, April Ross, Kerri Walsh Jennings, 1620.413, 1879.920, 0.1521
+1162, Larissa Franca, Talita Antunes, Jamie Broder, Kristina May, 1942.415, 1517.961, 0.9194
+1163, Madelein Meppelink, Marleen Van Iersel, Kinga Kolosinska, Monika Brzostek, 1764.093, 1537.773, 0.7833
+1164, Larissa Franca, Talita Antunes, Jantine van der Vlist, Sophie van Gestel, 1944.301, 1615.857, 0.8645
+1165, Kinga Kolosinska, Monika Brzostek, Jantine van der Vlist, Sophie van Gestel, 1541.043, 1596.187, 0.3895
+1166, Larissa Franca, Talita Antunes, Madelein Meppelink, Marleen Van Iersel, 1947.937, 1761.916, 0.7383
+1167, Amanda Maltez, Camila Fonseca, Carla Sousa, Filipa Teixeira, 1569.241, 1430.759, 0.5000
+1168, Xinyi Xia, Yuanyuan Ma, Flavia Santos, Haissa Almeida, 1469.990, 1405.729, 0.4403
+1169, Juliana Simoes, Mayana Pereira, Michelle Valiente, Patricia Caballero, 1538.051, 1263.238, 0.7774
+1170, Ana Patricia  Silva, Renata Ribeiro, Luciana Hollanda, Michelle Carvalho, 1569.241, 1430.759, 0.5000
+1171, Paula Hoffmann, Pauline Alves, Luciana Pierangeli, Simone Sittig, 1536.164, 1250.153, 0.7921
+1172, Angela Lavalle, Rachel Nunes, Andressa Cavalcanti, Taina Silva, 1569.241, 1430.759, 0.5000
+1173, Josemari Alves, Vanilda Leao, Beatriz Vieira, Rosimeire  Lima, 1569.241, 1430.759, 0.5000
+1174, Amanda Dowdy, Heather McGuire, Bruna Figueiredo, Semirames Perazzo, 1557.548, 1427.719, 0.5338
+1175, Carolina Freitas, Roberta Bertrand, Ningya Tang, Yuanyuan Wang, 1548.883, 1329.311, 0.6988
+1176, Danielle  Neves, Fernanda Nunes, Fabiola Lima, Rafaela Gouvea Fares, 1569.241, 1430.759, 0.5000
+1177, Carolina Salgado, Maria Clara Salgado, Amanda Maltez, Camila Fonseca, 1736.160, 1527.171, 0.7228
+1178, Xinyi Xia, Yuanyuan Ma, Juliana Simoes, Mayana Pereira, 1482.684, 1450.562, 0.4033
+1179, Ana Patricia  Silva, Renata Ribeiro, Anni Schumacher, Kim Behrens, 1616.300, 1441.228, 0.5983
+1180, Paula Hoffmann, Pauline Alves, Erika Bobadilla, Gabriela Filippo, 1589.970, 1435.570, 0.5519
+1181, Angela Lavalle, Rachel Nunes, Sayaka Mizoe, Takemi Nishibori, 1622.519, 1469.251, 0.6364
+1182, Josemari Alves, Vanilda Leao, Kendra VanZwieten, Kim DiCello, 1627.968, 1500.045, 0.5690
+1183, Amanda Dowdy, Heather McGuire, Carolina Freitas, Roberta Bertrand, 1591.228, 1484.726, 0.5125
+1184, Eduarda "Duda" Lisboa, Elize Maia, Danielle  Neves, Fernanda Nunes, 1752.513, 1529.858, 0.7315
+1185, Larissa Franca, Talita Antunes, Angela Lavalle, Rachel Nunes, 1949.623, 1604.683, 0.8668
+1186, Amanda Dowdy, Heather McGuire, Brittany Hochevar, Jennifer Fopma, 1635.763, 1640.626, 0.4028
+1187, Larissa Franca, Talita Antunes, Amanda Dowdy, Heather McGuire, 1951.466, 1625.371, 0.8590
+1188, Angela Lavalle, Rachel Nunes, Brittany Hochevar, Jennifer Fopma, 1664.653, 1624.803, 0.4485
+1189, Angela Lavalle, Rachel Nunes, Amanda Dowdy, Heather McGuire, 1704.632, 1599.338, 0.5563
+1190, Larissa Franca, Talita Antunes, Brittany Hochevar, Jennifer Fopma, 1953.234, 1620.415, 0.8677
+1191, Agatha Bednarczuk, Barbara Seixas, Paula Hoffmann, Pauline Alves, 1826.641, 1561.698, 0.7952
+1192, Fan Wang, Yuan Yue, Isabel Schneider, Teresa Mersmann, 1654.668, 1551.272, 0.6352
+1193, Agatha Bednarczuk, Barbara Seixas, Isabel Schneider, Teresa Mersmann, 1827.629, 1549.109, 0.8299
+1194, Fan Wang, Yuan Yue, Paula Hoffmann, Pauline Alves, 1656.699, 1518.802, 0.6307
+1195, Isabel Schneider, Teresa Mersmann, Paula Hoffmann, Pauline Alves, 1554.029, 1473.685, 0.5435
+1196, Agatha Bednarczuk, Barbara Seixas, Fan Wang, Yuan Yue, 1829.203, 1654.949, 0.7279
+1197, Juliana Felisberta, Maria Antonelli, Ana Patricia  Silva, Renata Ribeiro, 1785.172, 1580.302, 0.7237
+1198, Chantal Laboureur, Julia Sude, Barbara Hansel, Stefanie Schwaiger, 1639.176, 1577.773, 0.5741
+1199, Juliana Felisberta, Maria Antonelli, Barbara Hansel, Stefanie Schwaiger, 1786.736, 1574.507, 0.7674
+1200, Chantal Laboureur, Julia Sude, Ana Patricia  Silva, Renata Ribeiro, 1642.074, 1534.591, 0.5839
+1201, Ana Patricia  Silva, Renata Ribeiro, Barbara Hansel, Stefanie Schwaiger, 1587.163, 1567.817, 0.4428
+1202, Juliana Felisberta, Maria Antonelli, Chantal Laboureur, Julia Sude, 1788.766, 1639.621, 0.6969
+1203, Madelein Meppelink, Marleen Van Iersel, Xinyi Xia, Yuanyuan Ma, 1763.288, 1478.316, 0.8330
+1204, Lane Carico, Summer Ross, Jamie Broder, Kristina May, 1581.388, 1515.642, 0.5604
+1205, Madelein Meppelink, Marleen Van Iersel, Lane Carico, Summer Ross, 1765.340, 1569.486, 0.7402
+1206, Xinyi Xia, Yuanyuan Ma, Jamie Broder, Kristina May, 1492.261, 1512.643, 0.4465
+1207, Lane Carico, Summer Ross, Xinyi Xia, Yuanyuan Ma, 1585.936, 1483.226, 0.6093
+1208, Madelein Meppelink, Marleen Van Iersel, Jamie Broder, Kristina May, 1766.897, 1511.592, 0.8107
+1209, Fernanda Alves, Taiana Lima, Josemari Alves, Vanilda Leao, 1782.201, 1591.123, 0.7050
+1210, Eduarda "Duda" Lisboa, Elize Maia, Elsa Baquerizo, Liliana Fernandez, 1766.948, 1659.105, 0.6300
+1211, Fernanda Alves, Taiana Lima, Eduarda "Duda" Lisboa, Elize Maia, 1787.279, 1749.496, 0.5219
+1212, Elsa Baquerizo, Liliana Fernandez, Josemari Alves, Vanilda Leao, 1660.010, 1547.797, 0.5966
+1213, Josemari Alves, Vanilda Leao, Eduarda "Duda" Lisboa, Elize Maia, 1619.088, 1724.957, 0.2385
+1214, Fernanda Alves, Taiana Lima, Elsa Baquerizo, Liliana Fernandez, 1790.859, 1659.169, 0.6754
+1215, April Ross, Kerri Walsh Jennings, Giulia Momoli, Greta Cicolari, 1880.766, 1436.271, 0.9240
+1216, Carolina Salgado, Maria Clara Salgado, Katharina Schutzenhofer, Lena Plesiutschnig, 1736.405, 1413.383, 0.8635
+1217, April Ross, Kerri Walsh Jennings, Katharina Schutzenhofer, Lena Plesiutschnig, 1881.506, 1412.296, 0.9365
+1218, Giulia Momoli, Greta Cicolari, Carolina Salgado, Maria Clara Salgado, 1535.699, 1734.998, 0.1509
+1219, Giulia Momoli, Greta Cicolari, Katharina Schutzenhofer, Lena Plesiutschnig, 1568.694, 1407.464, 0.6705
+1220, April Ross, Kerri Walsh Jennings, Carolina Salgado, Maria Clara Salgado, 1884.970, 1734.461, 0.6992
+1221, Xinyi Xia, Yuanyuan Ma, Ana Patricia  Silva, Renata Ribeiro, 1496.915, 1533.588, 0.3547
+1222, Isabel Schneider, Teresa Mersmann, Amanda Dowdy, Heather McGuire, 1560.407, 1564.769, 0.4352
+1223, Larissa Franca, Talita Antunes, Isabel Schneider, Teresa Mersmann, 1954.507, 1559.253, 0.9056
+1224, Angela Lavalle, Rachel Nunes, Elsa Baquerizo, Liliana Fernandez, 1742.487, 1658.171, 0.5651
+1225, Chantal Laboureur, Julia Sude, Fernanda Alves, Taiana Lima, 1645.245, 1783.236, 0.2951
+1226, Madelein Meppelink, Marleen Van Iersel, Carolina Salgado, Maria Clara Salgado, 1770.591, 1733.652, 0.5465
+1227, Juliana Felisberta, Maria Antonelli, Eduarda "Duda" Lisboa, Elize Maia, 1791.379, 1711.108, 0.5908
+1228, Lane Carico, Summer Ross, April Ross, Kerri Walsh Jennings, 1621.451, 1875.564, 0.1517
+1229, Fan Wang, Yuan Yue, Giulia Momoli, Greta Cicolari, 1657.084, 1534.951, 0.6216
+1230, Agatha Bednarczuk, Barbara Seixas, Xinyi Xia, Yuanyuan Ma, 1829.939, 1493.897, 0.8713
+1231, Larissa Franca, Talita Antunes, Angela Lavalle, Rachel Nunes, 1957.313, 1724.428, 0.7721
+1232, Madelein Meppelink, Marleen Van Iersel, Chantal Laboureur, Julia Sude, 1773.209, 1642.654, 0.6729
+1233, Juliana Felisberta, Maria Antonelli, Lane Carico, Summer Ross, 1793.114, 1610.524, 0.7267
+1234, Agatha Bednarczuk, Barbara Seixas, Fan Wang, Yuan Yue, 1831.484, 1655.374, 0.7301
+1235, Larissa Franca, Talita Antunes, Madelein Meppelink, Marleen Van Iersel, 1960.682, 1771.176, 0.7427
+1236, Agatha Bednarczuk, Barbara Seixas, Juliana Felisberta, Maria Antonelli, 1834.007, 1790.203, 0.5550
+1237, Madelein Meppelink, Marleen Van Iersel, Juliana Felisberta, Maria Antonelli, 1775.316, 1786.797, 0.4726
+1238, Larissa Franca, Talita Antunes, Agatha Bednarczuk, Barbara Seixas, 1964.879, 1832.189, 0.6746
+1239, Inese Jursone, Lana Sorokina, Bianca Zass, Valerie Teufl, 1546.449, 1315.685, 0.7149
+1240, Aline Chamereau, Ophelie Lusson, Luciana Pierangeli, Simone Sittig, 1534.063, 1235.039, 0.8082
+1241, Xinyi Xia, Yuanyuan Ma, Anna Yeleferenko, Bakhtygul Samalikova, 1502.671, 1414.183, 0.4912
+1242, Alise Lece, Marta Ozolina, Erika Habaguchi, Sakurako Fujii, 1409.004, 1325.381, 0.4661
+1243, Anna Kurshina, Ksenia Ezhak, Esra Cetin, Merve Nezir, 1569.241, 1430.759, 0.5000
+1244, Ningya Tang, Yuanyuan Wang, Karolina Rehackova, Magdalena Dostalova, 1384.986, 1402.882, 0.3371
+1245, Barbara De Sousa, Eunyce Vercosa, Viktoryia Shalayeuskaya, Viktoryia Siakretava, 1571.212, 1438.417, 0.5232
+1246, Ekaterina Birlova, Evgeniya Ukolova, Barbara De Sousa, Eunyce Vercosa, 1651.118, 1515.104, 0.6108
+1247, Irina Tsimbalova, Tatyana Mashkova, Ieva Dumbauskaite, Monika Povilaityte, 1435.480, 1332.186, 0.6258
+1248, Ekaterina Birlova, Evgeniya Ukolova, Irina Tsimbalova, Tatyana Mashkova, 1652.277, 1434.081, 0.7758
+1249, Ieva Dumbauskaite, Monika Povilaityte, Barbara De Sousa, Eunyce Vercosa, 1351.779, 1425.040, 0.2587
+1250, Ekaterina Birlova, Evgeniya Ukolova, Ieva Dumbauskaite, Monika Povilaityte, 1653.041, 1347.279, 0.8494
+1251, Irina Tsimbalova, Tatyana Mashkova, Barbara De Sousa, Eunyce Vercosa, 1436.647, 1373.583, 0.5130
+1252, Marta Menegatti, Viktoria Orsi Toth, Anna Kurshina, Ksenia Ezhak, 1658.550, 1514.014, 0.6228
+1253, Giulia Momoli, Greta Cicolari, Sayaka Mizoe, Takemi Nishibori, 1567.089, 1465.864, 0.5934
+1254, Marta Menegatti, Viktoria Orsi Toth, Giulia Momoli, Greta Cicolari, 1661.004, 1540.477, 0.6287
+1255, Sayaka Mizoe, Takemi Nishibori, Anna Kurshina, Ksenia Ezhak, 1470.227, 1445.180, 0.4311
+1256, Marta Menegatti, Viktoria Orsi Toth, Sayaka Mizoe, Takemi Nishibori, 1662.803, 1467.950, 0.7499
+1257, Giulia Momoli, Greta Cicolari, Anna Kurshina, Ksenia Ezhak, 1561.504, 1409.561, 0.6338
+1258, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Inese Jursone, Lana Sorokina, 1548.744, 1473.496, 0.5002
+1259, Amaranta Navarro, Ester Ribera, Angela Lobato, Paula Soria, 1344.629, 1471.315, 0.2536
+1260, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Amaranta Navarro, Ester Ribera, 1549.954, 1330.824, 0.7640
+1261, Angela Lobato, Paula Soria, Inese Jursone, Lana Sorokina, 1480.167, 1413.953, 0.4969
+1262, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Angela Lobato, Paula Soria, 1552.066, 1471.926, 0.5991
+1263, Inese Jursone, Lana Sorokina, Amaranta Navarro, Ester Ribera, 1451.436, 1312.756, 0.6174
+1264, Fan Wang, Yuan Yue, Bianca Zass, Valerie Teufl, 1656.111, 1303.015, 0.8760
+1265, Nadezda Makroguzova, Olga Motrich, Maria Tsiartsiani, Vasiliki Arvaniti, 1619.508, 1623.377, 0.3272
+1266, Fan Wang, Yuan Yue, Nadezda Makroguzova, Olga Motrich, 1658.363, 1556.284, 0.5525
+1267, Maria Tsiartsiani, Vasiliki Arvaniti, Bianca Zass, Valerie Teufl, 1623.835, 1289.944, 0.8634
+1268, Fan Wang, Yuan Yue, Maria Tsiartsiani, Vasiliki Arvaniti, 1661.167, 1622.239, 0.5495
+1269, Nadezda Makroguzova, Olga Motrich, Bianca Zass, Valerie Teufl, 1577.365, 1275.754, 0.8225
+1270, Joana Heidrich, Nadine Zumkehr, Ningya Tang, Yuanyuan Wang, 1582.739, 1364.480, 0.7558
+1271, Barbara Hansel, Stefanie Schwaiger, Alise Lece, Marta Ozolina, 1571.245, 1378.803, 0.7139
+1272, Joana Heidrich, Nadine Zumkehr, Alise Lece, Marta Ozolina, 1584.118, 1356.149, 0.7639
+1273, Barbara Hansel, Stefanie Schwaiger, Ningya Tang, Yuanyuan Wang, 1574.148, 1346.568, 0.7668
+1274, Joana Heidrich, Nadine Zumkehr, Barbara Hansel, Stefanie Schwaiger, 1587.182, 1567.760, 0.5143
+1275, Alise Lece, Marta Ozolina, Ningya Tang, Yuanyuan Wang, 1393.691, 1316.295, 0.5138
+1276, Riikka Lehtonen, Taru Lahti, Marija Milosevic, Milena Matic, 1573.399, 1430.860, 0.5986
+1277, Diana Zolnercikova, Martina Jakubsova, Ekaterina Syrtseva, Yulia Abalakina, 1253.291, 1344.245, 0.1754
+1278, Riikka Lehtonen, Taru Lahti, Diana Zolnercikova, Martina Jakubsova, 1575.133, 1249.047, 0.8633
+1279, Ekaterina Syrtseva, Yulia Abalakina, Marija Milosevic, Milena Matic, 1424.727, 1358.109, 0.3779
+1280, Ekaterina Syrtseva, Yulia Abalakina, Riikka Lehtonen, Taru Lahti, 1518.026, 1567.580, 0.2961
+1281, Marija Milosevic, Milena Matic, Diana Zolnercikova, Martina Jakubsova, 1399.756, 1240.213, 0.6520
+1282, Barbora Hermannova, Marketa Slukova, Aline Chamereau, Ophelie Lusson, 1555.157, 1462.846, 0.4748
+1283, Anastasia Barsuk, Maria Prokopeva, Giulia Toti, Laura Giombini, 1513.647, 1428.516, 0.4972
+1284, Barbora Hermannova, Marketa Slukova, Anastasia Barsuk, Maria Prokopeva, 1588.483, 1486.191, 0.5595
+1285, Giulia Toti, Laura Giombini, Aline Chamereau, Ophelie Lusson, 1476.660, 1401.487, 0.4508
+1286, Barbora Hermannova, Marketa Slukova, Giulia Toti, Laura Giombini, 1611.646, 1447.099, 0.6556
+1287, Anastasia Barsuk, Maria Prokopeva, Aline Chamereau, Ophelie Lusson, 1507.288, 1362.299, 0.6195
+1288, Lane Carico, Summer Ross, Xinyi Xia, Yuanyuan Ma, 1623.533, 1495.259, 0.6504
+1289, Jolien Sinnema, Rimke Braakman, Alexandra Jupiter, Laura Longuet, 1451.588, 1332.097, 0.5975
+1290, Lane Carico, Summer Ross, Jolien Sinnema, Rimke Braakman, 1633.035, 1440.795, 0.7290
+1291, Xinyi Xia, Yuanyuan Ma, Alexandra Jupiter, Laura Longuet, 1500.784, 1308.801, 0.7189
+1292, Lane Carico, Summer Ross, Alexandra Jupiter, Laura Longuet, 1637.594, 1298.266, 0.8660
+1293, Xinyi Xia, Yuanyuan Ma, Jolien Sinnema, Rimke Braakman, 1509.090, 1424.965, 0.5855
+1294, Xinyi Xia, Yuanyuan Ma, Maria Tsiartsiani, Vasiliki Arvaniti, 1522.591, 1619.962, 0.3427
+1295, Anastasia Barsuk, Maria Prokopeva, Alise Lece, Marta Ozolina, 1525.975, 1369.129, 0.6579
+1296, Irina Tsimbalova, Tatyana Mashkova, Sayaka Mizoe, Takemi Nishibori, 1439.964, 1463.055, 0.4551
+1297, Jolien Sinnema, Rimke Braakman, Amaranta Navarro, Ester Ribera, 1437.020, 1295.888, 0.6561
+1298, Nadezda Makroguzova, Olga Motrich, Marija Milosevic, Milena Matic, 1603.822, 1374.075, 0.7354
+1299, Barbara Hansel, Stefanie Schwaiger, Ieva Dumbauskaite, Monika Povilaityte, 1570.554, 1340.968, 0.7806
+1300, Giulia Momoli, Greta Cicolari, Inese Jursone, Lana Sorokina, 1580.414, 1421.493, 0.6533
+1301, Riikka Lehtonen, Taru Lahti, Giulia Toti, Laura Giombini, 1571.325, 1419.226, 0.6668
+1302, Marta Menegatti, Viktoria Orsi Toth, Xinyi Xia, Yuanyuan Ma, 1664.970, 1516.436, 0.6915
+1303, Lane Carico, Summer Ross, Anastasia Barsuk, Maria Prokopeva, 1648.606, 1507.390, 0.6553
+1304, Joana Heidrich, Nadine Zumkehr, Irina Tsimbalova, Tatyana Mashkova, 1589.083, 1438.142, 0.7000
+1305, Fan Wang, Yuan Yue, Jolien Sinnema, Rimke Braakman, 1662.461, 1429.247, 0.7842
+1306, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Nadezda Makroguzova, Olga Motrich, 1554.730, 1547.829, 0.4261
+1307, Barbora Hermannova, Marketa Slukova, Barbara Hansel, Stefanie Schwaiger, 1641.629, 1565.424, 0.5589
+1308, Ekaterina Syrtseva, Yulia Abalakina, Giulia Momoli, Greta Cicolari, 1580.237, 1551.728, 0.4112
+1309, Riikka Lehtonen, Taru Lahti, Ekaterina Birlova, Evgeniya Ukolova, 1578.902, 1649.925, 0.3845
+1310, Marta Menegatti, Viktoria Orsi Toth, Lane Carico, Summer Ross, 1668.208, 1633.109, 0.5235
+1311, Joana Heidrich, Nadine Zumkehr, Fan Wang, Yuan Yue, 1592.873, 1658.769, 0.3959
+1312, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Barbora Hermannova, Marketa Slukova, 1557.775, 1602.483, 0.3775
+1313, Riikka Lehtonen, Taru Lahti, Ekaterina Syrtseva, Yulia Abalakina, 1584.162, 1531.535, 0.4981
+1314, Marta Menegatti, Viktoria Orsi Toth, Joana Heidrich, Nadine Zumkehr, 1670.962, 1590.430, 0.6067
+1315, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Riikka Lehtonen, Taru Lahti, 1560.583, 1577.755, 0.4621
+1316, Joana Heidrich, Nadine Zumkehr, Riikka Lehtonen, Taru Lahti, 1593.375, 1572.121, 0.5182
+1317, Marta Menegatti, Viktoria Orsi Toth, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, 1673.369, 1558.773, 0.6537
+1318, Jingjing Ding, Xinxin Wang, Luciana Pierangeli, Simone Sittig, 1331.282, 1204.551, 0.5811
+1319, Jordan Mowen, Justine Mowen, Barbara De Sousa, Eunyce Vercosa, 1235.842, 1308.012, 0.2732
+1320, Akiko Hasegawa, Ayumi Kusano, Erika Habaguchi, Sakurako Fujii, 1544.251, 1302.546, 0.7321
+1321, Alexandra Moiseeva, Anastasia Barsuk, Chunxia Chen, Zhaochen Wei, 1549.470, 1333.066, 0.6910
+1322, Isabel Schneider, Teresa Mersmann, Jingjing Ding, Xinxin Wang, 1561.596, 1311.017, 0.7879
+1323, Brandie Wilkerson, Julie Gordon, Diana Zolnercikova, Martina Jakubsova, 1355.213, 1230.326, 0.6309
+1324, Jolien Sinnema, Rimke Braakman, Khanittha Hongpak, Rumpaipruet Numwong, 1438.997, 1265.735, 0.7107
+1325, Amaranta Navarro, Ester Ribera, Jordan Mowen, Justine Mowen, 1314.606, 1217.777, 0.5856
+1326, Norisbeth Agudo, Olaya Pazo, Akiko Hasegawa, Ayumi Kusano, 1456.396, 1450.426, 0.3525
+1327, Caitlin Ledoux, Irene Pollock, Amanda Dowdy, Heather McGuire, 1378.180, 1520.975, 0.2234
+1328, Kendra VanZwieten, Kim DiCello, Tanarattha Udomchavee, Varapatsorn Radarong, 1514.464, 1310.136, 0.7458
+1329, Alexandra Moiseeva, Anastasia Barsuk, Anni Schumacher, Sandra Seyfferth, 1590.763, 1378.941, 0.7097
+1330, Fan Wang, Yuan Yue, Alexandra Moiseeva, Anastasia Barsuk, 1660.805, 1539.993, 0.5966
+1331, Mariafe Artacho, Nicole Laird, Barbara Hansel, Stefanie Schwaiger, 1587.302, 1559.494, 0.5099
+1332, Fan Wang, Yuan Yue, Mariafe Artacho, Nicole Laird, 1663.110, 1575.586, 0.6042
+1333, Barbara Hansel, Stefanie Schwaiger, Alexandra Moiseeva, Anastasia Barsuk, 1564.475, 1490.079, 0.5280
+1334, Fan Wang, Yuan Yue, Barbara Hansel, Stefanie Schwaiger, 1665.255, 1560.071, 0.6383
+1335, Alexandra Moiseeva, Anastasia Barsuk, Mariafe Artacho, Nicole Laird, 1546.409, 1559.971, 0.3794
+1336, Ilka Semmler, Katrin Holtwick, Ningya Tang, Yuanyuan Wang, 1703.036, 1309.626, 0.9025
+1337, Alexandra Jupiter, Laura Longuet, Ekaterina Syrtseva, Yulia Abalakina, 1352.899, 1464.571, 0.2070
+1338, Ilka Semmler, Katrin Holtwick, Alexandra Jupiter, Laura Longuet, 1703.278, 1344.434, 0.8824
+1339, Ekaterina Syrtseva, Yulia Abalakina, Ningya Tang, Yuanyuan Wang, 1486.789, 1292.891, 0.7093
+1340, Ilka Semmler, Katrin Holtwick, Ekaterina Syrtseva, Yulia Abalakina, 1703.723, 1469.773, 0.7766
+1341, Alexandra Jupiter, Laura Longuet, Ningya Tang, Yuanyuan Wang, 1370.235, 1270.064, 0.5736
+1342, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Caitlin Ledoux, Irene Pollock, 1560.084, 1368.019, 0.7388
+1343, Lane Carico, Summer Ross, Irina Tsimbalova, Tatyana Mashkova, 1640.857, 1436.699, 0.7544
+1344, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Irina Tsimbalova, Tatyana Mashkova, 1561.788, 1434.722, 0.6705
+1345, Lane Carico, Summer Ross, Caitlin Ledoux, Irene Pollock, 1646.023, 1361.654, 0.8279
+1346, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Lane Carico, Summer Ross, 1564.861, 1627.750, 0.3811
+1347, Irina Tsimbalova, Tatyana Mashkova, Caitlin Ledoux, Irene Pollock, 1436.979, 1347.475, 0.6036
+1348, Ekaterina Birlova, Evgeniya Ukolova, Brandie Wilkerson, Julie Gordon, 1650.685, 1346.127, 0.8451
+1349, Barbora Hermannova, Marketa Slukova, Katharina Schutzenhofer, Lena Plesiutschnig, 1616.810, 1403.652, 0.7545
+1350, Ekaterina Birlova, Evgeniya Ukolova, Katharina Schutzenhofer, Lena Plesiutschnig, 1651.663, 1400.492, 0.8057
+1351, Brandie Wilkerson, Julie Gordon, Barbora Hermannova, Marketa Slukova, 1390.429, 1572.111, 0.1739
+1352, Ekaterina Birlova, Evgeniya Ukolova, Barbora Hermannova, Marketa Slukova, 1653.488, 1551.838, 0.6125
+1353, Katharina Schutzenhofer, Lena Plesiutschnig, Brandie Wilkerson, Julie Gordon, 1407.672, 1365.694, 0.5145
+1354, Kendra VanZwieten, Kim DiCello, Emily Day, Jennifer Kessy, 1549.576, 1625.988, 0.3299
+1355, Julia Grossner, Victoria Bieneck, Sayaka Mizoe, Takemi Nishibori, 1581.726, 1460.050, 0.6613
+1356, Emily Day, Jennifer Kessy, Sayaka Mizoe, Takemi Nishibori, 1630.993, 1457.638, 0.7222
+1357, Julia Grossner, Victoria Bieneck, Kendra VanZwieten, Kim DiCello, 1584.798, 1527.171, 0.5461
+1358, Julia Grossner, Victoria Bieneck, Emily Day, Jennifer Kessy, 1588.779, 1621.047, 0.4339
+1359, Kendra VanZwieten, Kim DiCello, Sayaka Mizoe, Takemi Nishibori, 1545.682, 1454.347, 0.5988
+1360, Chantal Laboureur, Julia Sude, Xinyi Xia, Yuanyuan Ma, 1645.174, 1510.100, 0.6741
+1361, Isabel Schneider, Teresa Mersmann, Nicole Eiholzer, Nina Betschart, 1564.704, 1379.075, 0.7250
+1362, Chantal Laboureur, Julia Sude, Nicole Eiholzer, Nina Betschart, 1646.515, 1370.273, 0.8223
+1363, Isabel Schneider, Teresa Mersmann, Xinyi Xia, Yuanyuan Ma, 1569.560, 1502.166, 0.5779
+1364, Isabel Schneider, Teresa Mersmann, Chantal Laboureur, Julia Sude, 1576.571, 1641.845, 0.3910
+1365, Xinyi Xia, Yuanyuan Ma, Nicole Eiholzer, Nina Betschart, 1507.777, 1355.641, 0.6812
+1366, Joana Heidrich, Nadine Zumkehr, Jolien Sinnema, Rimke Braakman, 1595.103, 1429.329, 0.7086
+1367, Dominika Nestarcova, Natalia Dubovcova, Angela Lobato, Paula Soria, 1552.217, 1464.142, 0.6110
+1368, Joana Heidrich, Nadine Zumkehr, Angela Lobato, Paula Soria, 1597.016, 1457.902, 0.6800
+1369, Dominika Nestarcova, Natalia Dubovcova, Jolien Sinnema, Rimke Braakman, 1553.788, 1418.808, 0.6698
+1370, Joana Heidrich, Nadine Zumkehr, Dominika Nestarcova, Natalia Dubovcova, 1599.659, 1551.648, 0.5619
+1371, Jolien Sinnema, Rimke Braakman, Angela Lobato, Paula Soria, 1435.418, 1447.722, 0.4440
+1372, Amaranta Navarro, Ester Ribera, Linline Matauatu, Miller Pata, 1346.360, 1457.396, 0.2885
+1373, Norisbeth Agudo, Olaya Pazo, Ana Gallay, Georgina Klug, 1478.066, 1571.603, 0.3345
+1374, Linline Matauatu, Miller Pata, Norisbeth Agudo, Olaya Pazo, 1467.626, 1461.910, 0.4703
+1375, Ana Gallay, Georgina Klug, Amaranta Navarro, Ester Ribera, 1572.979, 1337.011, 0.7853
+1376, Ana Gallay, Georgina Klug, Linline Matauatu, Miller Pata, 1575.261, 1460.734, 0.6471
+1377, Norisbeth Agudo, Olaya Pazo, Amaranta Navarro, Ester Ribera, 1471.304, 1323.905, 0.6724
+1378, Ekaterina Syrtseva, Yulia Abalakina, Barbora Hermannova, Marketa Slukova, 1509.772, 1524.235, 0.3840
+1379, Irina Tsimbalova, Tatyana Mashkova, Chantal Laboureur, Julia Sude, 1441.495, 1635.969, 0.2352
+1380, Jolien Sinnema, Rimke Braakman, Lane Carico, Summer Ross, 1457.090, 1606.766, 0.2484
+1381, Amaranta Navarro, Ester Ribera, Alexandra Jupiter, Laura Longuet, 1344.352, 1337.818, 0.4337
+1382, Barbara Hansel, Stefanie Schwaiger, Dominika Nestarcova, Natalia Dubovcova, 1565.914, 1549.302, 0.5121
+1383, Ana Gallay, Georgina Klug, Emily Day, Jennifer Kessy, 1578.890, 1611.344, 0.4345
+1384, Kendra VanZwieten, Kim DiCello, Brandie Wilkerson, Julie Gordon, 1556.701, 1353.391, 0.7381
+1385, Xinyi Xia, Yuanyuan Ma, Alexandra Moiseeva, Anastasia Barsuk, 1516.721, 1501.228, 0.4446
+1386, Fan Wang, Yuan Yue, Ekaterina Syrtseva, Yulia Abalakina, 1666.859, 1491.245, 0.7099
+1387, Joana Heidrich, Nadine Zumkehr, Irina Tsimbalova, Tatyana Mashkova, 1601.378, 1439.811, 0.7131
+1388, Julia Grossner, Victoria Bieneck, Jolien Sinnema, Rimke Braakman, 1590.979, 1448.015, 0.6809
+1389, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Amaranta Navarro, Ester Ribera, 1565.949, 1336.057, 0.7806
+1390, Ekaterina Birlova, Evgeniya Ukolova, Barbara Hansel, Stefanie Schwaiger, 1655.355, 1561.475, 0.6234
+1391, Ana Gallay, Georgina Klug, Isabel Schneider, Teresa Mersmann, 1582.074, 1570.939, 0.5033
+1392, Norisbeth Agudo, Olaya Pazo, Kendra VanZwieten, Kim DiCello, 1488.356, 1531.624, 0.3795
+1393, Ilka Semmler, Katrin Holtwick, Xinyi Xia, Yuanyuan Ma, 1704.258, 1512.179, 0.7458
+1394, Joana Heidrich, Nadine Zumkehr, Fan Wang, Yuan Yue, 1604.898, 1663.366, 0.4069
+1395, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Julia Grossner, Victoria Bieneck, 1568.661, 1587.212, 0.4640
+1396, Ana Gallay, Georgina Klug, Ekaterina Birlova, Evgeniya Ukolova, 1585.948, 1652.359, 0.3961
+1397, Ilka Semmler, Katrin Holtwick, Norisbeth Agudo, Olaya Pazo, 1704.724, 1482.028, 0.7761
+1398, Joana Heidrich, Nadine Zumkehr, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, 1607.538, 1566.406, 0.5520
+1399, Ana Gallay, Georgina Klug, Ilka Semmler, Katrin Holtwick, 1590.195, 1703.315, 0.3354
+1400, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Ilka Semmler, Katrin Holtwick, 1569.865, 1701.859, 0.3126
+1401, Joana Heidrich, Nadine Zumkehr, Ana Gallay, Georgina Klug, 1610.307, 1587.204, 0.5249
+1402, Agatha Bednarczuk, Barbara Seixas, Elsa Baquerizo, Liliana Fernandez, 1833.701, 1657.474, 0.7314
+1403, April Ross, Lauren Fendrick, Jamie Broder, Kristina May, 1588.846, 1509.433, 0.4833
+1404, Kira Walkenhorst, Laura Ludwig, Agatha Bednarczuk, Barbara Seixas, 1751.925, 1830.252, 0.3789
+1405, April Ross, Lauren Fendrick, Elsa Baquerizo, Liliana Fernandez, 1672.130, 1656.219, 0.4025
+1406, Kira Walkenhorst, Laura Ludwig, Jamie Broder, Kristina May, 1753.233, 1508.342, 0.8015
+1407, April Ross, Lauren Fendrick, Agatha Bednarczuk, Barbara Seixas, 1757.286, 1826.841, 0.2870
+1408, Kira Walkenhorst, Laura Ludwig, April Ross, Lauren Fendrick, 1756.067, 1705.863, 0.4942
+1409, Elsa Baquerizo, Liliana Fernandez, Jamie Broder, Kristina May, 1656.991, 1506.703, 0.7008
+1410, Kira Walkenhorst, Laura Ludwig, Elsa Baquerizo, Liliana Fernandez, 1758.411, 1656.065, 0.6388
+1411, Agatha Bednarczuk, Barbara Seixas, Jamie Broder, Kristina May, 1827.597, 1505.957, 0.8633
+1412, Heather Bansley, Sarah Pavan, Emily Day, Jennifer Kessy, 1675.882, 1604.442, 0.5885
+1413, Larissa Franca, Talita Antunes, Chantal Laboureur, Julia Sude, 1966.557, 1634.970, 0.8691
+1414, Madelein Meppelink, Marleen Van Iersel, Heather Bansley, Sarah Pavan, 1778.122, 1673.771, 0.6393
+1415, Larissa Franca, Talita Antunes, Emily Day, Jennifer Kessy, 1967.959, 1602.602, 0.8894
+1416, Chantal Laboureur, Julia Sude, Madelein Meppelink, Marleen Van Iersel, 1640.218, 1772.772, 0.3049
+1417, Larissa Franca, Talita Antunes, Heather Bansley, Sarah Pavan, 1969.918, 1672.865, 0.8447
+1418, Larissa Franca, Talita Antunes, Madelein Meppelink, Marleen Van Iersel, 1972.935, 1770.922, 0.7567
+1419, Emily Day, Jennifer Kessy, Chantal Laboureur, Julia Sude, 1611.572, 1636.138, 0.4461
+1420, Madelein Meppelink, Marleen Van Iersel, Emily Day, Jennifer Kessy, 1773.062, 1607.027, 0.7145
+1421, Heather Bansley, Sarah Pavan, Chantal Laboureur, Julia Sude, 1675.450, 1632.827, 0.5527
+1422, Agatha Bednarczuk, Barbara Seixas, Madelein Meppelink, Marleen Van Iersel, 1829.898, 1769.896, 0.5778
+1423, Heather Bansley, Sarah Pavan, April Ross, Lauren Fendrick, 1678.199, 1657.552, 0.4563
+1424, Kira Walkenhorst, Laura Ludwig, Agatha Bednarczuk, Barbara Seixas, 1762.266, 1826.639, 0.3986
+1425, Larissa Franca, Talita Antunes, Heather Bansley, Sarah Pavan, 1974.845, 1677.313, 0.8451
+1426, Agatha Bednarczuk, Barbara Seixas, Heather Bansley, Sarah Pavan, 1828.243, 1675.619, 0.7026
+1427, Larissa Franca, Talita Antunes, Kira Walkenhorst, Laura Ludwig, 1977.608, 1760.826, 0.7727
+1428, Barbara De Sousa, Eunyce Vercosa, Elsa Inda, Karen Valencia, 1361.200, 1371.924, 0.2488
+1429, Emily Stockman, Megan Wallin-Brockway, Haydee Lopez, Rubi Sandoval, 1569.241, 1430.759, 0.5000
+1430, Julia Grossner, Victoria Bieneck, Barbara De Sousa, Eunyce Vercosa, 1588.599, 1343.895, 0.7860
+1431, Caitlin Ledoux, Irene Pollock, Brandie Wilkerson, Julie Gordon, 1363.808, 1331.014, 0.4915
+1432, Agata Zuccarelli, Laura Giombini, Luciana Pierangeli, Simone Sittig, 1449.641, 1189.268, 0.7741
+1433, Eliska Galova, Sara Olivova, Gabi Brito, Norisbeth Agudo, 1536.617, 1251.932, 0.7963
+1434, Jolien Sinnema, Rimke Braakman, Camille Saxton, Rachel Cockrell, 1460.093, 1403.090, 0.4257
+1435, Olaya Pazo, Rebeca Pazo, Diana Zolnercikova, Martina Jakubsova, 1469.859, 1224.677, 0.7653
+1436, Amanda Dowdy, Heather McGuire, Bianca Zass, Valerie Teufl, 1531.130, 1260.293, 0.8040
+1437, Emily Stockman, Megan Wallin-Brockway, Kendra VanZwieten, Kim DiCello, 1631.448, 1517.428, 0.5539
+1438, Kira Walkenhorst, Laura Ludwig, Claudia Rios, Gloria Santoyo, 1761.797, 1465.124, 0.8178
+1439, Lane Carico, Summer Ross, Janne Kongshavn, Victoria Kjolberg, 1612.521, 1371.381, 0.7908
+1440, Kira Walkenhorst, Laura Ludwig, Janne Kongshavn, Victoria Kjolberg, 1762.399, 1369.370, 0.9044
+1441, Lane Carico, Summer Ross, Claudia Rios, Gloria Santoyo, 1619.169, 1419.574, 0.7002
+1442, Kira Walkenhorst, Laura Ludwig, Lane Carico, Summer Ross, 1764.263, 1611.166, 0.6952
+1443, Claudia Rios, Gloria Santoyo, Janne Kongshavn, Victoria Kjolberg, 1473.351, 1362.148, 0.5718
+1444, Ilka Semmler, Katrin Holtwick, Stephanie Burnside, Zaira Orellana, 1702.268, 1455.849, 0.7617
+1445, Barbara Hansel, Stefanie Schwaiger, Carolina Horta, Liliane Maestrini, 1567.881, 1595.437, 0.4378
+1446, Barbara Hansel, Stefanie Schwaiger, Ilka Semmler, Katrin Holtwick, 1575.737, 1700.836, 0.3157
+1447, Carolina Horta, Liliane Maestrini, Stephanie Burnside, Zaira Orellana, 1599.680, 1409.886, 0.6907
+1448, Carolina Horta, Liliane Maestrini, Ilka Semmler, Katrin Holtwick, 1610.227, 1699.507, 0.3584
+1449, Stephanie Burnside, Zaira Orellana, Barbara Hansel, Stefanie Schwaiger, 1502.072, 1568.744, 0.2779
+1450, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Emily Stockman, Megan Wallin-Brockway, 1572.309, 1559.849, 0.4123
+1451, Brittany Hochevar, Jennifer Fopma, Alexandra Jupiter, Laura Longuet, 1625.531, 1328.551, 0.8357
+1452, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Alexandra Jupiter, Laura Longuet, 1573.244, 1317.745, 0.8027
+1453, Brittany Hochevar, Jennifer Fopma, Emily Stockman, Megan Wallin-Brockway, 1636.446, 1518.819, 0.5934
+1454, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Brittany Hochevar, Jennifer Fopma, 1576.048, 1618.804, 0.4100
+1455, Alexandra Jupiter, Laura Longuet, Emily Stockman, Megan Wallin-Brockway, 1353.581, 1450.106, 0.2391
+1456, Marta Menegatti, Viktoria Orsi Toth, Eliska Galova, Sara Olivova, 1675.126, 1488.510, 0.6872
+1457, Melissa Humana-Paredes, Taylor Pischke, Katharina Schutzenhofer, Lena Plesiutschnig, 1515.646, 1402.203, 0.6446
+1458, Marta Menegatti, Viktoria Orsi Toth, Katharina Schutzenhofer, Lena Plesiutschnig, 1676.300, 1399.557, 0.8279
+1459, Melissa Humana-Paredes, Taylor Pischke, Eliska Galova, Sara Olivova, 1520.459, 1430.849, 0.5390
+1460, Marta Menegatti, Viktoria Orsi Toth, Melissa Humana-Paredes, Taylor Pischke, 1678.257, 1516.848, 0.7104
+1461, Katharina Schutzenhofer, Lena Plesiutschnig, Eliska Galova, Sara Olivova, 1406.556, 1373.192, 0.4551
+1462, Caitlin Ledoux, Irene Pollock, Ana Gallay, Georgina Klug, 1389.730, 1582.420, 0.2165
+1463, Eduarda "Duda" Lisboa, Elize Maia, Nicole Eiholzer, Nina Betschart, 1714.840, 1350.507, 0.8856
+1464, Ana Gallay, Georgina Klug, Nicole Eiholzer, Nina Betschart, 1583.673, 1341.422, 0.7917
+1465, Eduarda "Duda" Lisboa, Elize Maia, Caitlin Ledoux, Irene Pollock, 1719.120, 1385.479, 0.8666
+1466, Ana Gallay, Georgina Klug, Eduarda "Duda" Lisboa, Elize Maia, 1587.776, 1697.672, 0.3144
+1467, Nicole Eiholzer, Nina Betschart, Caitlin Ledoux, Irene Pollock, 1363.709, 1368.924, 0.4369
+1468, Linline Matauatu, Miller Pata, Amanda Dowdy, Heather McGuire, 1471.435, 1500.704, 0.4001
+1469, Julia Grossner, Victoria Bieneck, Karen Charles, Natalia Alfaro, 1589.680, 1294.142, 0.8289
+1470, Linline Matauatu, Miller Pata, Karen Charles, Natalia Alfaro, 1475.840, 1266.730, 0.7351
+1471, Amanda Dowdy, Heather McGuire, Julia Grossner, Victoria Bieneck, 1530.875, 1585.626, 0.3747
+1472, Linline Matauatu, Miller Pata, Julia Grossner, Victoria Bieneck, 1487.752, 1581.244, 0.3471
+1473, Amanda Dowdy, Heather McGuire, Karen Charles, Natalia Alfaro, 1538.601, 1249.963, 0.8206
+1474, Chantal Laboureur, Julia Sude, Olaya Pazo, Rebeca Pazo, 1634.601, 1434.185, 0.7187
+1475, Jantine van der Vlist, Sophie van Gestel, Sayaka Mizoe, Takemi Nishibori, 1605.660, 1451.789, 0.6935
+1476, Chantal Laboureur, Julia Sude, Sayaka Mizoe, Takemi Nishibori, 1636.484, 1449.582, 0.7412
+1477, Jantine van der Vlist, Sophie van Gestel, Olaya Pazo, Rebeca Pazo, 1612.840, 1404.782, 0.7285
+1478, Chantal Laboureur, Julia Sude, Jantine van der Vlist, Sophie van Gestel, 1639.733, 1599.443, 0.5340
+1479, Sayaka Mizoe, Takemi Nishibori, Olaya Pazo, Rebeca Pazo, 1452.782, 1363.032, 0.5641
+1480, Agata Zuccarelli, Laura Giombini, Ana Rios, Bibiana Candelas, 1498.011, 1375.146, 0.5255
+1481, Jolien Sinnema, Rimke Braakman, Riikka Lehtonen, Taru Lahti, 1477.463, 1564.760, 0.3441
+1482, Jolien Sinnema, Rimke Braakman, Ana Rios, Bibiana Candelas, 1485.280, 1332.904, 0.6431
+1483, Agata Zuccarelli, Laura Giombini, Riikka Lehtonen, Taru Lahti, 1561.633, 1558.962, 0.4051
+1484, Riikka Lehtonen, Taru Lahti, Ana Rios, Bibiana Candelas, 1561.135, 1309.692, 0.7861
+1485, Jolien Sinnema, Rimke Braakman, Agata Zuccarelli, Laura Giombini, 1498.682, 1505.857, 0.3919
+1486, Nicole Eiholzer, Nina Betschart, Brittany Hochevar, Jennifer Fopma, 1395.383, 1595.771, 0.1872
+1487, Melissa Humana-Paredes, Taylor Pischke, Riikka Lehtonen, Taru Lahti, 1523.697, 1554.945, 0.4366
+1488, Alexandra Jupiter, Laura Longuet, Carolina Horta, Liliane Maestrini, 1393.758, 1597.564, 0.1858
+1489, Lane Carico, Summer Ross, Julia Grossner, Victoria Bieneck, 1622.709, 1578.244, 0.5430
+1490, Eduarda "Duda" Lisboa, Elize Maia, Ilka Semmler, Katrin Holtwick, 1712.787, 1698.492, 0.4974
+1491, Amanda Dowdy, Heather McGuire, Claudia Rios, Gloria Santoyo, 1553.951, 1431.056, 0.5928
+1492, Jantine van der Vlist, Sophie van Gestel, Katharina Schutzenhofer, Lena Plesiutschnig, 1606.316, 1402.965, 0.7522
+1493, Sayaka Mizoe, Takemi Nishibori, Agata Zuccarelli, Laura Giombini, 1457.058, 1458.107, 0.4242
+1494, Kira Walkenhorst, Laura Ludwig, Nicole Eiholzer, Nina Betschart, 1764.922, 1391.216, 0.8932
+1495, Linline Matauatu, Miller Pata, Melissa Humana-Paredes, Taylor Pischke, 1497.480, 1517.170, 0.4485
+1496, Alexandra Jupiter, Laura Longuet, Chantal Laboureur, Julia Sude, 1432.052, 1634.168, 0.1953
+1497, Marta Menegatti, Viktoria Orsi Toth, Lane Carico, Summer Ross, 1681.016, 1612.445, 0.5793
+1498, Eduarda "Duda" Lisboa, Elize Maia, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, 1721.828, 1574.561, 0.6872
+1499, Ana Gallay, Georgina Klug, Amanda Dowdy, Heather McGuire, 1590.399, 1535.227, 0.5485
+1500, Jantine van der Vlist, Sophie van Gestel, Jolien Sinnema, Rimke Braakman, 1615.532, 1490.402, 0.6501
+1501, Sayaka Mizoe, Takemi Nishibori, Barbara Hansel, Stefanie Schwaiger, 1462.437, 1561.471, 0.3446
+1502, Kira Walkenhorst, Laura Ludwig, Linline Matauatu, Miller Pata, 1766.012, 1494.373, 0.8234
+1503, Marta Menegatti, Viktoria Orsi Toth, Alexandra Jupiter, Laura Longuet, 1682.263, 1423.256, 0.8074
+1504, Eduarda "Duda" Lisboa, Elize Maia, Ana Gallay, Georgina Klug, 1730.725, 1588.509, 0.6806
+1505, Jantine van der Vlist, Sophie van Gestel, Sayaka Mizoe, Takemi Nishibori, 1623.179, 1460.097, 0.7071
+1506, Kira Walkenhorst, Laura Ludwig, Marta Menegatti, Viktoria Orsi Toth, 1768.362, 1679.730, 0.6182
+1507, Eduarda "Duda" Lisboa, Elize Maia, Jantine van der Vlist, Sophie van Gestel, 1739.895, 1614.565, 0.6500
+1508, Marta Menegatti, Viktoria Orsi Toth, Jantine van der Vlist, Sophie van Gestel, 1682.339, 1604.617, 0.5927
+1509, Kira Walkenhorst, Laura Ludwig, Eduarda "Duda" Lisboa, Elize Maia, 1771.084, 1728.016, 0.5409
+1510, Lubica Siposova, Lucia Behunova, Karolina Rehackova, Magdalena Dostalova, 1559.535, 1383.449, 0.6362
+1511, Bakhtygul Samalikova, Yekaterina Lassyuta, Silvia Poszmikova, Tina Turnerova, 1569.241, 1430.759, 0.5000
+1512, Alexandra Moiseeva, Anastasia Barsuk, Lisa Arnholdt, Nadja Glenzke, 1529.894, 1420.966, 0.5018
+1513, Ali McColloch, Emily Stockman, Nina Lovsin, Sara Sakovic, 1446.763, 1397.955, 0.3581
+1514, Daria Rudykh, Elizaveta Zayonchkovskaya, Elisabeth Klopf, Eva Freiberger, 1561.088, 1394.478, 0.5830
+1515, Diana Mulenko, Inna Makhno, Annemieke Driessen, Ilke Meertens, 1550.275, 1339.901, 0.6672
+1516, Jordan Mowen, Justine Mowen, Luciana Pierangeli, Simone Sittig, 1235.950, 1158.356, 0.5409
+1517, Ievgeniia Shchypkova, Valentyna Davidova, Asya Dinova, Diana Malinova, 1569.241, 1430.759, 0.5000
+1518, Agata Zuccarelli, Monica Lestini, Jingjing Ding, Xinxin Wang, 1542.833, 1293.032, 0.7480
+1519, Lubica Siposova, Lucia Behunova, Camilla Nilsson, Tadva Yoken, 1590.821, 1323.392, 0.7851
+1520, Alexandra Moiseeva, Anastasia Barsuk, Bakhtygul Samalikova, Yekaterina Lassyuta, 1560.984, 1494.408, 0.4436
+1521, Ali McColloch, Emily Stockman, Aline Chamereau, Ophelie Lusson, 1475.755, 1328.881, 0.6192
+1522, Daria Rudykh, Elizaveta Zayonchkovskaya, Viktoryia Shalayeuskaya, Viktoryia Siakretava, 1604.459, 1408.363, 0.6696
+1523, Diana Mulenko, Inna Makhno, Alise Lece, Marta Ozolina, 1587.740, 1353.426, 0.7394
+1524, Anni Schumacher, Kim Behrens, Jordan Mowen, Justine Mowen, 1476.122, 1227.574, 0.7652
+1525, Ievgeniia Shchypkova, Valentyna Davidova, Diana Zolnercikova, Martina Jakubsova, 1588.970, 1221.631, 0.8791
+1526, Agata Zuccarelli, Monica Lestini, Chunxia Chen, Ningya Tang, 1594.560, 1436.576, 0.5613
+1527, Ilka Semmler, Katrin Holtwick, Ievgeniia Shchypkova, Valentyna Davidova, 1699.094, 1541.685, 0.6526
+1528, Barbara Hansel, Stefanie Schwaiger, Katharina Schutzenhofer, Lena Plesiutschnig, 1564.589, 1398.811, 0.7135
+1529, Ilka Semmler, Katrin Holtwick, Katharina Schutzenhofer, Lena Plesiutschnig, 1699.407, 1396.624, 0.8492
+1530, Barbara Hansel, Stefanie Schwaiger, Ievgeniia Shchypkova, Valentyna Davidova, 1568.859, 1489.062, 0.5329
+1531, Barbara Hansel, Stefanie Schwaiger, Ilka Semmler, Katrin Holtwick, 1576.167, 1698.001, 0.3205
+1532, Ievgeniia Shchypkova, Valentyna Davidova, Katharina Schutzenhofer, Lena Plesiutschnig, 1525.163, 1392.041, 0.6300
+1533, Marta Menegatti, Viktoria Orsi Toth, Merve Aktas, Resmiye Cakmak, 1683.702, 1452.687, 0.7407
+1534, Alexandra Jupiter, Laura Longuet, Norisbeth Agudo, Olaya Pazo, 1447.553, 1467.053, 0.4162
+1535, Marta Menegatti, Viktoria Orsi Toth, Norisbeth Agudo, Olaya Pazo, 1685.126, 1461.159, 0.7768
+1536, Alexandra Jupiter, Laura Longuet, Merve Aktas, Resmiye Cakmak, 1464.100, 1382.392, 0.4926
+1537, Marta Menegatti, Viktoria Orsi Toth, Alexandra Jupiter, Laura Longuet, 1686.496, 1455.481, 0.7811
+1538, Norisbeth Agudo, Olaya Pazo, Merve Aktas, Resmiye Cakmak, 1469.504, 1336.189, 0.6115
+1539, Ana Gallay, Georgina Klug, Atasoy Burcu, Tugba Ozdemir, 1590.254, 1434.484, 0.6247
+1540, Nadezda Makroguzova, Olga Motrich, Ekaterina Syrtseva, Yulia Abalakina, 1581.395, 1469.280, 0.5807
+1541, Ana Gallay, Georgina Klug, Nadezda Makroguzova, Olga Motrich, 1592.871, 1543.904, 0.5127
+1542, Ekaterina Syrtseva, Yulia Abalakina, Atasoy Burcu, Tugba Ozdemir, 1489.365, 1375.173, 0.5499
+1543, Ana Gallay, Georgina Klug, Ekaterina Syrtseva, Yulia Abalakina, 1594.857, 1471.029, 0.6447
+1544, Nadezda Makroguzova, Olga Motrich, Atasoy Burcu, Tugba Ozdemir, 1560.916, 1343.838, 0.7254
+1545, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Martina Bonnerova, Vendula Haragova, 1576.031, 1431.390, 0.6057
+1546, Barbora Hermannova, Marketa Slukova, Kendra VanZwieten, Kim DiCello, 1545.716, 1499.986, 0.5098
+1547, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, Kendra VanZwieten, Kim DiCello, 1577.848, 1485.868, 0.6077
+1548, Barbora Hermannova, Marketa Slukova, Martina Bonnerova, Vendula Haragova, 1558.007, 1384.940, 0.6588
+1549, Barbora Hermannova, Marketa Slukova, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, 1579.828, 1575.441, 0.4715
+1550, Kendra VanZwieten, Kim DiCello, Martina Bonnerova, Vendula Haragova, 1496.357, 1343.161, 0.6413
+1551, Ekaterina Birlova, Evgeniya Ukolova, Diana Mulenko, Inna Makhno, 1654.028, 1535.679, 0.5919
+1552, Irina Tsimbalova, Tatyana Mashkova, Marija Milosevic, Milena Matic, 1441.878, 1335.248, 0.5935
+1553, Ekaterina Birlova, Evgeniya Ukolova, Marija Milosevic, Milena Matic, 1654.669, 1322.852, 0.8624
+1554, Irina Tsimbalova, Tatyana Mashkova, Diana Mulenko, Inna Makhno, 1445.022, 1466.888, 0.3682
+1555, Irina Tsimbalova, Tatyana Mashkova, Ekaterina Birlova, Evgeniya Ukolova, 1449.461, 1650.891, 0.2303
+1556, Diana Mulenko, Inna Makhno, Marija Milosevic, Milena Matic, 1493.697, 1300.774, 0.6962
+1557, Emily Day, Jennifer Kessy, Lubica Siposova, Lucia Behunova, 1613.177, 1531.632, 0.5233
+1558, Anni Schumacher, Kim Behrens, Lane Carico, Summer Ross, 1563.389, 1598.615, 0.3133
+1559, Emily Day, Jennifer Kessy, Anni Schumacher, Kim Behrens, 1618.779, 1516.856, 0.5712
+1560, Lane Carico, Summer Ross, Lubica Siposova, Lucia Behunova, 1606.653, 1489.118, 0.5952
+1561, Emily Day, Jennifer Kessy, Lane Carico, Summer Ross, 1625.851, 1595.979, 0.5174
+1562, Anni Schumacher, Kim Behrens, Lubica Siposova, Lucia Behunova, 1555.707, 1451.106, 0.5398
+1563, Julia Grossner, Victoria Bieneck, Agata Zuccarelli, Monica Lestini, 1581.133, 1528.233, 0.4765
+1564, Alexandra Moiseeva, Anastasia Barsuk, Isabel Schneider, Teresa Mersmann, 1593.429, 1565.672, 0.4857
+1565, Julia Grossner, Victoria Bieneck, Alexandra Moiseeva, Anastasia Barsuk, 1584.308, 1563.304, 0.4823
+1566, Isabel Schneider, Teresa Mersmann, Agata Zuccarelli, Monica Lestini, 1569.874, 1480.567, 0.5537
+1567, Julia Grossner, Victoria Bieneck, Isabel Schneider, Teresa Mersmann, 1587.438, 1564.674, 0.5208
+1568, Alexandra Moiseeva, Anastasia Barsuk, Agata Zuccarelli, Monica Lestini, 1581.642, 1446.701, 0.6169
+1569, Daria Rudykh, Elizaveta Zayonchkovskaya, Esra Cetin, Merve Nezir, 1634.146, 1394.858, 0.7310
+1570, Riikka Lehtonen, Taru Lahti, Ali McColloch, Emily Stockman, 1558.766, 1445.750, 0.6120
+1571, Ali McColloch, Emily Stockman, Esra Cetin, Merve Nezir, 1470.955, 1344.616, 0.5727
+1572, Riikka Lehtonen, Taru Lahti, Daria Rudykh, Elizaveta Zayonchkovskaya, 1564.352, 1566.593, 0.3932
+1573, Riikka Lehtonen, Taru Lahti, Esra Cetin, Merve Nezir, 1566.456, 1319.396, 0.7799
+1574, Ali McColloch, Emily Stockman, Daria Rudykh, Elizaveta Zayonchkovskaya, 1507.573, 1509.115, 0.3657
+1575, Isabel Schneider, Teresa Mersmann, Ilka Semmler, Katrin Holtwick, 1572.036, 1696.592, 0.3170
+1576, Anni Schumacher, Kim Behrens, Diana Mulenko, Inna Makhno, 1587.260, 1462.009, 0.5883
+1577, Nadezda Makroguzova, Olga Motrich, Kendra VanZwieten, Kim DiCello, 1586.535, 1483.982, 0.5919
+1578, Alexandra Jupiter, Laura Longuet, Ievgeniia Shchypkova, Valentyna Davidova, 1475.393, 1475.198, 0.4010
+1579, Alexandra Moiseeva, Anastasia Barsuk, Norisbeth Agudo, Olaya Pazo, 1598.745, 1461.472, 0.6560
+1580, Ekaterina Syrtseva, Yulia Abalakina, Ali McColloch, Emily Stockman, 1495.618, 1476.164, 0.4476
+1581, Ekaterina Birlova, Evgeniya Ukolova, Daria Rudykh, Elizaveta Zayonchkovskaya, 1652.233, 1482.107, 0.6934
+1582, Lane Carico, Summer Ross, Anouk VergÌ©-DÌ©prÌ©, Isabelle Forrer, 1606.214, 1573.249, 0.5295
+1583, Marta Menegatti, Viktoria Orsi Toth, Isabel Schneider, Teresa Mersmann, 1688.668, 1568.432, 0.6590
+1584, Anni Schumacher, Kim Behrens, Julia Grossner, Victoria Bieneck, 1625.657, 1584.513, 0.4997
+1585, Riikka Lehtonen, Taru Lahti, Nadezda Makroguzova, Olga Motrich, 1571.597, 1555.176, 0.4711
+1586, Ana Gallay, Georgina Klug, Alexandra Jupiter, Laura Longuet, 1596.758, 1463.414, 0.6655
+1587, Barbora Hermannova, Marketa Slukova, Alexandra Moiseeva, Anastasia Barsuk, 1599.167, 1574.844, 0.4728
+1588, Ekaterina Syrtseva, Yulia Abalakina, Irina Tsimbalova, Tatyana Mashkova, 1515.248, 1447.126, 0.5660
+1589, Emily Day, Jennifer Kessy, Ekaterina Birlova, Evgeniya Ukolova, 1633.773, 1649.665, 0.4621
+1590, Barbara Hansel, Stefanie Schwaiger, Lane Carico, Summer Ross, 1581.762, 1594.847, 0.4569
+1591, Marta Menegatti, Viktoria Orsi Toth, Anni Schumacher, Kim Behrens, 1691.041, 1597.192, 0.5897
+1592, Ana Gallay, Georgina Klug, Riikka Lehtonen, Taru Lahti, 1599.457, 1566.777, 0.5361
+1593, Barbora Hermannova, Marketa Slukova, Ekaterina Syrtseva, Yulia Abalakina, 1612.639, 1499.649, 0.6185
+1594, Emily Day, Jennifer Kessy, Barbara Hansel, Stefanie Schwaiger, 1639.867, 1577.396, 0.5743
+1595, Marta Menegatti, Viktoria Orsi Toth, Ana Gallay, Georgina Klug, 1693.380, 1597.300, 0.6288
+1596, Barbora Hermannova, Marketa Slukova, Emily Day, Jennifer Kessy, 1631.454, 1632.576, 0.4609
+1597, Emily Day, Jennifer Kessy, Ana Gallay, Georgina Klug, 1638.802, 1594.739, 0.5506
+1598, Barbora Hermannova, Marketa Slukova, Marta Menegatti, Viktoria Orsi Toth, 1651.250, 1689.850, 0.4118
